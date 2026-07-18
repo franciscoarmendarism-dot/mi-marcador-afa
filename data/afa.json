@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T20:32:42.497369+00:00",
+  "generated_at": "2026-07-18T23:38:49.364653+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -45,85 +45,69 @@
           "meta": "próximo · 19:30"
         },
         {
-          "home": "15\nEstudiantes",
+          "home": "00\nAtl. Tucumán",
+          "away": "Independiente Riv.",
+          "meta": "próximo · 15:15"
+        },
+        {
+          "home": "Estudiantes",
           "away": "Independiente",
           "meta": "próximo · 17:30"
         }
       ]
     },
     "nacional": {
-      "results": [
-        {
-          "home": "07\nFinal\nAlte. Brown",
-          "away": "Estudiantes",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nChicago",
-          "away": "Agropecuario",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nFerro",
-          "away": "Colón",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nBolivar",
-          "away": "All Boys",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nTemperley",
-          "away": "Atlético Rafaela",
-          "score": "2-0",
-          "meta": "resultado"
-        }
-      ],
+      "results": [],
       "next": [
         {
-          "home": "00\nDefensores",
-          "away": "Los Andes",
-          "meta": "próximo · 13:00"
+          "home": "00\nEstudiantes",
+          "away": "Bolivar",
+          "meta": "próximo · 14:00"
         },
         {
-          "home": "Acassuso",
-          "away": "San Telmo",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "San Martín",
-          "away": "Tristan Suárez",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Chacarita",
-          "away": "Güemes",
-          "meta": "próximo · 18:00"
-        },
-        {
-          "home": "00\nColegiales",
-          "away": "Midland",
-          "meta": "próximo · 18:00"
-        },
-        {
-          "home": "Patronato",
-          "away": "Atlanta",
-          "meta": "próximo · 19:00"
-        },
-        {
-          "home": "Chaco For Ever",
-          "away": "San Miguel",
-          "meta": "próximo · 19:30"
-        },
-        {
-          "home": "00\nAlmagro",
-          "away": "Gimnasia y Tiro",
+          "home": "Atlético Rafaela",
+          "away": "Chicago",
           "meta": "próximo · 17:00"
+        },
+        {
+          "home": "00\nMorón",
+          "away": "Ferro",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Los Andes",
+          "away": "Dep. Madryn",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "All Boys",
+          "away": "Defensores",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Tristan Suárez",
+          "away": "Chacarita",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Agropecuario",
+          "away": "San Martín",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "San Miguel",
+          "away": "Acassuso",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Colón",
+          "away": "Chaco For Ever",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "00\nCA Mitre",
+          "away": "Alte. Brown",
+          "meta": "próximo · 14:00"
         }
       ]
     },
@@ -233,7 +217,12 @@
       ],
       "next": [
         {
-          "home": "00\nEstrella del Sur",
+          "home": "00\nCentro Español",
+          "away": "Leones de Rosario FC",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Estrella del Sur",
           "away": "Luján",
           "meta": "próximo · 13:00"
         },
@@ -245,11 +234,6 @@
         {
           "home": "CA Atlas",
           "away": "Sacachispas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Paraguayo",
-          "away": "Central Ballester",
           "meta": "próximo · 13:00"
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:32:36.366441+00:00",
+  "generated_at": "2026-07-18T20:32:42.497369+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -128,44 +128,57 @@
       ]
     },
     "metro": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nSan Carlos",
+          "home": "07\nFinal\nSan Carlos",
           "away": "Camioneros",
-          "meta": "próximo · 13:00"
+          "score": "0-2",
+          "meta": "resultado"
         },
         {
-          "home": "Liniers",
+          "home": "2\nItaliano\nFinal\nLiniers",
           "away": "Merlo",
-          "meta": "próximo · 13:00"
+          "score": "1-1",
+          "meta": "resultado"
         },
         {
-          "home": "Real Pilar",
+          "home": "Final\nReal Pilar",
           "away": "Dock Sud",
-          "meta": "próximo · 13:00"
+          "score": "0-1",
+          "meta": "resultado"
         },
         {
-          "home": "UAI Urquiza",
+          "home": "Final\nUAI Urquiza",
           "away": "Comunicaciones",
-          "meta": "próximo · 13:00"
+          "score": "0-2",
+          "meta": "resultado"
         },
         {
-          "home": "Villa Dalmine",
+          "home": "Final\nVilla Dalmine",
           "away": "CADU",
-          "meta": "próximo · 13:00"
+          "score": "0-0",
+          "meta": "resultado"
         },
         {
-          "home": "00\nArsenal",
+          "home": "Final\nArsenal",
           "away": "Flandria",
-          "meta": "próximo · 13:00"
+          "score": "1-0",
+          "meta": "resultado"
         },
         {
-          "home": "00\nTalleres RE",
+          "home": "2\nArmenio\nFinal\nTalleres RE",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 13:00"
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nLaferrere",
+          "away": "Ituzaingó",
+          "score": "2-0",
+          "meta": "resultado"
         }
-      ]
+      ],
+      "next": []
     },
     "primerac": {
       "results": [
@@ -194,28 +207,31 @@
           "meta": "resultado"
         },
         {
-          "home": "07\nFinal\nPuerto Nuevo",
+          "home": "Final\nPuerto Nuevo",
           "away": "Fenix",
           "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "07\nFinal\nCañuelas",
+          "away": "Leandro N. Alem",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nJJ Urquiza",
+          "away": "Muñiz",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nMercedes",
+          "away": "El Porvenir",
+          "score": "2-0",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "07\nFinal\nPuerto Nuevo\n0",
-          "away": "1\nFenix",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Cañuelas",
-          "away": "Leandro N. Alem",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "JJ Urquiza",
-          "away": "Muñiz",
-          "meta": "próximo · 12:00"
-        },
         {
           "home": "00\nEstrella del Sur",
           "away": "Luján",
@@ -229,6 +245,11 @@
         {
           "home": "CA Atlas",
           "away": "Sacachispas",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Paraguayo",
+          "away": "Central Ballester",
           "meta": "próximo · 13:00"
         }
       ]

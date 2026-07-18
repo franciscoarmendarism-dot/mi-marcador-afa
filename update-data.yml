@@ -23,7 +23,9 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependencias
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium --with-deps
 
       - name: Correr el scraper
         run: python scrape_afa.py

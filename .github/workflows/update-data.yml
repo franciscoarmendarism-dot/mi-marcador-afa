@@ -2,10 +2,8 @@ name: Actualizar datos del ascenso argentino
 
 on:
   schedule:
-    # Corre cada 3 horas. Ajustá el cron si querés más o menos frecuencia.
-    # Formato: minuto hora * * * (UTC). "0 */3 * * *" = cada 3 horas en punto.
     - cron: '0 */3 * * *'
-  workflow_dispatch: {}   # también podés tocar "Run workflow" a mano en GitHub
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -23,7 +21,9 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependencias
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium --with-deps
 
       - name: Correr el scraper
         run: python scrape_afa.py

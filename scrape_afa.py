@@ -1,56 +1,58 @@
 #!/usr/bin/env python3
 """
-scrape_afa.py
---------------
+scrape_afa.py — v2 (con navegador headless)
+--------------------------------------------
 Trae resultados y próximos partidos de las 4 ligas del ascenso argentino
-(Primera División, Primera Nacional, Primera B Metropolitana, Primera C)
 desde promiedos.com.ar y los guarda en data/afa.json.
 
-Pensado para correr solo, cada tantas horas, vía GitHub Actions
-(ver .github/workflows/update-data.yml). También podés correrlo a mano:
+POR QUÉ CAMBIÓ ESTA VERSIÓN:
+La v1 usaba `requests` para bajar el HTML crudo de la página, pero
+Promiedos es una app que arma la lista de partidos con JavaScript
+DESPUÉS de cargar la página (se ve un "Loading..." en el HTML crudo,
+sin ningún partido adentro). Por eso la v1 devolvía todo vacío: no era
+un tema de selectores mal puestos, era que directamente no había nada
+que leer en el HTML plano.
 
-    pip install requests beautifulsoup4
+La solución real para este tipo de sitios es usar un navegador headless
+(Playwright) que SÍ ejecuta el JavaScript, espera a que carguen los
+partidos, y ahí recién lee el contenido — igual que hace tu navegador
+normal cuando abrís la página.
+
+URLs correctas (verificadas, no son las de la v1):
+  Liga Profesional Argentina : /league/liga-profesional/hc
+  Primera Nacional           : /league/primera-nacional/ebj
+  Primera B Metropolitana    : /league/primera-b-metropolitana/fahh
+  Primera C                  : /league/primera-c/ffjb
+
+CÓMO PROBARLO LOCAL:
+    pip install playwright beautifulsoup4
+    playwright install chromium --with-deps
     python scrape_afa.py
 
-IMPORTANTE — LEER ANTES DE USAR:
-Promiedos (como casi cualquier sitio de resultados) puede cambiar el HTML
-de su página en cualquier momento. Este script fue escrito sin poder
-probarlo contra el sitio en vivo, así que la primera vez que lo corras
-puede que no encuentre nada. Para eso:
-
-  1) Corré el script una vez a mano.
-  2) Si algún JSON queda vacío ([]), buscá el bloque marcado con
-     "# AJUSTAR ACÁ" de la liga correspondiente.
-  3) Corré `python scrape_afa.py --debug <url>` (ver abajo) para imprimir
-     el HTML crudo de esa página y ubicar los selectores correctos
-     (clases CSS, tags) que usa el sitio en ese momento.
-  4) Reemplazá el selector en la función de esa liga.
-
-Muchos sitios modernos (incluido probablemente Promiedos) cargan los
-partidos con JavaScript y embeben los datos como JSON dentro de un
-<script>. Por eso este script primero intenta encontrar ese JSON
-embebido, y si no lo encuentra, cae a un parseo genérico de tablas/divs
-como respaldo. Ajustá lo que haga falta según lo que encuentres.
+SI SIGUE SIN ENCONTRAR PARTIDOS:
+Es posible que Promiedos también cambie las clases CSS de sus tarjetas
+de partido con el tiempo. Si `data/afa.json` sigue vacío después de este
+cambio, corré:
+    python scrape_afa.py --dump-html liga-arg
+Eso guarda el HTML ya renderizado (después del JavaScript) en
+`debug_liga-arg.html`. Pegame el contenido de ese archivo (o subilo al
+chat) y te ajusto los selectores con el DOM real en la mano, en vez de
+adivinar.
 """
 
 import json
 import re
 import sys
+import os
 from datetime import datetime, timezone
 
-import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-}
-
-# URLs de referencia — verificar que sigan existiendo antes de correr en serio.
 LEAGUES = {
     "liga-arg": {
         "name": "Liga Profesional Argentina",
-        "url": "https://www.promiedos.com.ar/primera",
+        "url": "https://www.promiedos.com.ar/league/liga-profesional/hc",
     },
     "nacional": {
         "name": "Primera Nacional",
@@ -58,107 +60,109 @@ LEAGUES = {
     },
     "metro": {
         "name": "Primera B Metropolitana",
-        "url": "https://www.promiedos.com.ar/primerab",
+        "url": "https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh",
     },
     "primerac": {
         "name": "Primera C",
-        "url": "https://www.promiedos.com.ar/primerac",
+        "url": "https://www.promiedos.com.ar/league/primera-c/ffjb",
     },
 }
 
+# Patrón para detectar resultados ya jugados: "Equipo A  2 - 1  Equipo B"
+RESULT_PATTERN = re.compile(
+    r"([A-Za-zÀ-ÿ0-9\.\'\s]{3,35}?)\s+(\d{1,2})\s*[-–]\s*(\d{1,2})\s+([A-Za-zÀ-ÿ0-9\.\'\s]{3,35}?)(?=\s{2,}|\n|$)"
+)
 
-def fetch_html(url):
-    resp = requests.get(url, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
-    return resp.text
+# Patrón para próximos partidos sin marcador: "Equipo A  vs  Equipo B  21:00"
+NEXT_PATTERN = re.compile(
+    r"([A-Za-zÀ-ÿ0-9\.\'\s]{3,35}?)\s+(?:vs\.?|-)\s+([A-Za-zÀ-ÿ0-9\.\'\s]{3,35}?)\s+(\d{1,2}:\d{2})"
+)
 
 
-def find_embedded_json(html):
-    """
-    Muchos sitios (Next.js, Nuxt, apps React) embeben los datos de la página
-    como JSON dentro de un <script id="__NEXT_DATA__"> o similar, para que el
-    front-end los "hidrate". Si Promiedos hace esto, acá lo capturamos.
-    Si no aparece nada, esta función devuelve None y usamos el respaldo.
-    """
+def render_page(url, wait_ms=4000):
+    """Abre la página con un navegador headless real y devuelve el HTML
+    ya con el JavaScript ejecutado (a diferencia de requests.get, que
+    solo trae el HTML crudo antes de que corra el JS)."""
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page()
+        page.goto(url, wait_until="networkidle", timeout=30000)
+        # espera extra por si el fixture tarda en pintarse después del
+        # evento "networkidle" (common en apps que hacen requests en cadena)
+        page.wait_for_timeout(wait_ms)
+        html = page.content()
+        browser.close()
+        return html
+
+
+def extract_matches(html):
     soup = BeautifulSoup(html, "html.parser")
+    text = soup.get_text("\n", strip=True)
 
-    # Intento 1: Next.js
-    tag = soup.find("script", id="__NEXT_DATA__")
-    if tag and tag.string:
-        try:
-            return json.loads(tag.string)
-        except json.JSONDecodeError:
-            pass
-
-    # Intento 2: cualquier script que declare "window.__INITIAL_STATE__ = {...}"
-    for script in soup.find_all("script"):
-        if not script.string:
+    results = []
+    for m in RESULT_PATTERN.finditer(text):
+        home, s1, s2, away = m.groups()
+        home, away = home.strip(), away.strip()
+        if len(home) < 3 or len(away) < 3:
             continue
-        m = re.search(r"__INITIAL_STATE__\s*=\s*(\{.*?\});", script.string, re.S)
-        if m:
-            try:
-                return json.loads(m.group(1))
-            except json.JSONDecodeError:
-                continue
+        results.append({"home": home, "away": away, "score": f"{s1}-{s2}", "meta": "resultado"})
 
-    return None
+    next_matches = []
+    for m in NEXT_PATTERN.finditer(text):
+        home, away, time = m.groups()
+        home, away = home.strip(), away.strip()
+        if len(home) < 3 or len(away) < 3:
+            continue
+        next_matches.append({"home": home, "away": away, "meta": f"próximo · {time}"})
 
+    # de-duplicar conservando orden
+    def dedup(items, keyfn):
+        seen, out = set(), []
+        for it in items:
+            k = keyfn(it)
+            if k not in seen:
+                seen.add(k)
+                out.append(it)
+        return out
 
-def parse_fallback_matches(html):
-    """
-    Respaldo genérico: busca filas de partido en tablas / divs típicos de
-    sitios de resultados (equipo local, marcador, equipo visitante, fecha).
-    Esto es intencionalmente amplio porque no pude inspeccionar el HTML
-    real del sitio. Es el bloque que más probablemente haya que afinar.
-    """
-    soup = BeautifulSoup(html, "html.parser")
-    matches = []
+    results = dedup(results, lambda m: (m["home"], m["away"], m["score"]))[:10]
+    next_matches = dedup(next_matches, lambda m: (m["home"], m["away"]))[:10]
 
-    # AJUSTAR ACÁ: reemplazá estos selectores por los reales una vez que
-    # inspecciones el HTML (clic derecho → Inspeccionar en el navegador,
-    # buscá el contenedor de cada partido).
-    candidates = soup.select("[class*='match']") or soup.select("[class*='partido']") or soup.select("tr")
-
-    for c in candidates:
-        text = c.get_text(" ", strip=True)
-        # Heurística muy simple: buscamos patrones "Equipo N - N Equipo"
-        m = re.search(r"([A-Za-zÁÉÍÓÚÑáéíóúñ\.\s]+?)\s+(\d+)\s*[-–]\s*(\d+)\s+([A-Za-zÁÉÍÓÚÑáéíóúñ\.\s]+)", text)
-        if m:
-            matches.append({
-                "home": m.group(1).strip(),
-                "away": m.group(4).strip(),
-                "score": f"{m.group(2)}-{m.group(3)}",
-                "meta": "resultado (parseo genérico, revisar)"
-            })
-
-    return matches[:10]
+    return results, next_matches
 
 
 def scrape_league(key, cfg):
-    print(f"→ Scrapeando {cfg['name']} ({cfg['url']})")
+    print(f"→ Renderizando {cfg['name']} ({cfg['url']})")
     try:
-        html = fetch_html(cfg["url"])
+        html = render_page(cfg["url"])
     except Exception as e:
-        print(f"  ✗ No se pudo bajar la página: {e}")
+        print(f"  ✗ Error al renderizar: {e}")
         return {"results": [], "next": [], "error": str(e)}
 
-    embedded = find_embedded_json(html)
-    if embedded:
-        # AJUSTAR ACÁ: si encontraste el JSON embebido, este es el lugar
-        # para navegar su estructura real (embedded["props"]["pageProps"]...)
-        # y mapearla a {home, away, score, meta}. Como no conocemos la forma
-        # exacta, dejamos esto como punto de partida.
-        print("  ✓ Se encontró JSON embebido en la página (revisar estructura real).")
-        results, next_matches = [], []
-    else:
-        print("  … no se encontró JSON embebido, usando parseo genérico de respaldo.")
-        parsed = parse_fallback_matches(html)
-        results, next_matches = parsed, []
-
+    results, next_matches = extract_matches(html)
+    print(f"  ✓ {len(results)} resultados, {len(next_matches)} próximos partidos detectados")
     return {"results": results, "next": next_matches}
 
 
+def dump_html_mode(key):
+    """Modo debug: guarda el HTML renderizado de una liga puntual para
+    que se pueda inspeccionar manualmente qué está pasando."""
+    cfg = LEAGUES.get(key)
+    if not cfg:
+        print(f"Liga desconocida: {key}. Opciones: {list(LEAGUES.keys())}")
+        return
+    html = render_page(cfg["url"])
+    filename = f"debug_{key}.html"
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"Guardado en {filename} ({len(html)} caracteres)")
+
+
 def main():
+    if len(sys.argv) >= 3 and sys.argv[1] == "--dump-html":
+        dump_html_mode(sys.argv[2])
+        return
+
     data = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "leagues": {}
@@ -167,7 +171,6 @@ def main():
     for key, cfg in LEAGUES.items():
         data["leagues"][key] = scrape_league(key, cfg)
 
-    import os
     os.makedirs("data", exist_ok=True)
     with open("data/afa.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

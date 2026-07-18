@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:09:15.256454+00:00",
+  "generated_at": "2026-07-18T15:32:36.366441+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -45,12 +45,7 @@
           "meta": "próximo · 19:30"
         },
         {
-          "home": "00\nAtl. Tucumán",
-          "away": "Independiente Riv.\nVer más",
-          "meta": "próximo · 15:15"
-        },
-        {
-          "home": "Estudiantes",
+          "home": "15\nEstudiantes",
           "away": "Independiente",
           "meta": "próximo · 17:30"
         }
@@ -197,11 +192,22 @@
           "away": "Argentino Rosario",
           "score": "1-1",
           "meta": "resultado"
+        },
+        {
+          "home": "07\nFinal\nPuerto Nuevo",
+          "away": "Fenix",
+          "score": "0-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nCañuelas",
+          "home": "07\nFinal\nPuerto Nuevo\n0",
+          "away": "1\nFenix",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Cañuelas",
           "away": "Leandro N. Alem",
           "meta": "próximo · 12:00"
         },

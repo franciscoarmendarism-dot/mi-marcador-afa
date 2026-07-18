@@ -1,0 +1,37 @@
+name: Actualizar datos del ascenso argentino
+
+on:
+  schedule:
+    # Corre cada 3 horas. Ajustá el cron si querés más o menos frecuencia.
+    # Formato: minuto hora * * * (UTC). "0 */3 * * *" = cada 3 horas en punto.
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}   # también podés tocar "Run workflow" a mano en GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Correr el scraper
+        run: python scrape_afa.py
+
+      - name: Commitear data/afa.json si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/afa.json
+          git diff --quiet --cached || git commit -m "Actualizar datos AFA $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

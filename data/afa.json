@@ -1,24 +1,231 @@
 {
-  "generated_at": "2026-07-18T02:04:04.526409+00:00",
+  "generated_at": "2026-07-18T09:09:15.256454+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
-      "next": [],
-      "error": "404 Client Error: Not Found for url: https://www.promiedos.com.ar/primera"
+      "next": [
+        {
+          "home": "30\nSarmiento",
+          "away": "Argentinos",
+          "meta": "próximo · 17:30"
+        },
+        {
+          "home": "Belgrano",
+          "away": "Central",
+          "meta": "próximo · 19:45"
+        },
+        {
+          "home": "00\nRacing",
+          "away": "Gimnasia",
+          "meta": "próximo · 17:00"
+        },
+        {
+          "home": "Vélez",
+          "away": "Instituto",
+          "meta": "próximo · 19:15"
+        },
+        {
+          "home": "Platense",
+          "away": "Unión",
+          "meta": "próximo · 19:15"
+        },
+        {
+          "home": "45\nEstudiantes RC",
+          "away": "Tigre",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Newell's",
+          "away": "Talleres",
+          "meta": "próximo · 17:15"
+        },
+        {
+          "home": "River",
+          "away": "Barracas",
+          "meta": "próximo · 19:30"
+        },
+        {
+          "home": "00\nAtl. Tucumán",
+          "away": "Independiente Riv.\nVer más",
+          "meta": "próximo · 15:15"
+        },
+        {
+          "home": "Estudiantes",
+          "away": "Independiente",
+          "meta": "próximo · 17:30"
+        }
+      ]
     },
     "nacional": {
-      "results": [],
-      "next": []
+      "results": [
+        {
+          "home": "07\nFinal\nAlte. Brown",
+          "away": "Estudiantes",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChicago",
+          "away": "Agropecuario",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nFerro",
+          "away": "Colón",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBolivar",
+          "away": "All Boys",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTemperley",
+          "away": "Atlético Rafaela",
+          "score": "2-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nDefensores",
+          "away": "Los Andes",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Acassuso",
+          "away": "San Telmo",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "San Martín",
+          "away": "Tristan Suárez",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Chacarita",
+          "away": "Güemes",
+          "meta": "próximo · 18:00"
+        },
+        {
+          "home": "00\nColegiales",
+          "away": "Midland",
+          "meta": "próximo · 18:00"
+        },
+        {
+          "home": "Patronato",
+          "away": "Atlanta",
+          "meta": "próximo · 19:00"
+        },
+        {
+          "home": "Chaco For Ever",
+          "away": "San Miguel",
+          "meta": "próximo · 19:30"
+        },
+        {
+          "home": "00\nAlmagro",
+          "away": "Gimnasia y Tiro",
+          "meta": "próximo · 17:00"
+        }
+      ]
     },
     "metro": {
       "results": [],
-      "next": [],
-      "error": "404 Client Error: Not Found for url: https://www.promiedos.com.ar/primerab"
+      "next": [
+        {
+          "home": "00\nSan Carlos",
+          "away": "Camioneros",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Liniers",
+          "away": "Merlo",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Real Pilar",
+          "away": "Dock Sud",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "UAI Urquiza",
+          "away": "Comunicaciones",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Villa Dalmine",
+          "away": "CADU",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nArsenal",
+          "away": "Flandria",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nTalleres RE",
+          "away": "Brown de Adrogué",
+          "meta": "próximo · 13:00"
+        }
+      ]
     },
     "primerac": {
-      "results": [],
-      "next": [],
-      "error": "404 Client Error: Not Found for url: https://www.promiedos.com.ar/primerac"
+      "results": [
+        {
+          "home": "07\nFinal\nCA Lugano",
+          "away": "Sp. Barracas",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCambaceres",
+          "away": "Lamadrid",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Español",
+          "away": "Victoriano",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nYupanqui",
+          "away": "Argentino Rosario",
+          "score": "1-1",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nCañuelas",
+          "away": "Leandro N. Alem",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "JJ Urquiza",
+          "away": "Muñiz",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "00\nEstrella del Sur",
+          "away": "Luján",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Berazategui",
+          "away": "Central Córdoba",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "CA Atlas",
+          "away": "Sacachispas",
+          "meta": "próximo · 13:00"
+        }
+      ]
     }
   }
 }

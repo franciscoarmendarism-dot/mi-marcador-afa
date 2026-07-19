@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:51:21.875223+00:00",
+  "generated_at": "2026-07-19T12:06:59.404524+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -45,7 +45,12 @@
           "meta": "próximo · 17:30"
         },
         {
-          "home": "15\nEstudiantes",
+          "home": "00\nAtl. Tucumán",
+          "away": "Independiente Riv.",
+          "meta": "próximo · 13:15"
+        },
+        {
+          "home": "Estudiantes",
           "away": "Independiente",
           "meta": "próximo · 15:30"
         }

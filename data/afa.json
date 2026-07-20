@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:03:15.753156+00:00",
+  "generated_at": "2026-07-20T20:13:26.071496+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -31,7 +31,7 @@
         },
         {
           "home": "45\nEstudiantes RC",
-          "away": "Tigre",
+          "away": "Tigre\nVer más",
           "meta": "próximo · 15:00"
         },
         {
@@ -152,57 +152,59 @@
       ]
     },
     "primerac": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "07\nFinal\nPuerto Nuevo",
-          "away": "Fenix",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCA Lugano",
-          "away": "Sp. Barracas",
-          "score": "3-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCambaceres",
-          "away": "Lamadrid",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nDep. Español",
-          "away": "Victoriano",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nYupanqui",
-          "away": "Argentino Rosario",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "07\nFinal\nCañuelas",
-          "away": "Leandro N. Alem",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nJJ Urquiza",
+          "home": "00\nCañuelas",
           "away": "Muñiz",
-          "score": "3-0",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nMercedes",
+          "home": "CA Atlas",
+          "away": "Dep. Español",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Lamadrid",
+          "away": "Claypole",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Luján",
+          "away": "Central Ballester",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Sp. Barracas",
           "away": "El Porvenir",
-          "score": "2-0",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Fenix",
+          "away": "Yupanqui",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Juventud Unida SM",
+          "away": "Cambaceres",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Argentino Rosario",
+          "away": "Puerto Nuevo",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Sacachispas",
+          "away": "Leandro N. Alem",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Estrella del Sur",
+          "away": "Paraguayo",
+          "meta": "próximo · 12:00"
         }
-      ],
-      "next": []
+      ]
     }
   }
 }

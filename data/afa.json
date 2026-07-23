@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:55:23.426655+00:00",
+  "generated_at": "2026-07-23T09:15:02.736165+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -30,7 +30,12 @@
           "meta": "próximo · 19:15"
         },
         {
-          "home": "00\nNewell's",
+          "home": "45\nEstudiantes RC",
+          "away": "Tigre",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Newell's",
           "away": "Talleres",
           "meta": "próximo · 17:15"
         },
@@ -160,11 +165,6 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Argentino Rosario",
-          "away": "Puerto Nuevo",
-          "meta": "próximo · 13:00"
-        },
-        {
           "home": "Estrella del Sur",
           "away": "Paraguayo",
           "meta": "próximo · 13:00"
@@ -190,8 +190,13 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Sp. Barracas",
+          "home": "00\nSp. Barracas",
           "away": "El Porvenir",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Fenix",
+          "away": "Yupanqui",
           "meta": "próximo · 13:00"
         }
       ]

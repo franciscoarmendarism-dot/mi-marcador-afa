@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:44:51.881648+00:00",
+  "generated_at": "2026-07-25T07:34:01.396519+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -20,48 +20,57 @@
           "away": "Aldosivi",
           "score": "1-1",
           "meta": "resultado"
+        },
+        {
+          "home": "0\nCentral Córdoba\nFinal\nRacing",
+          "away": "Gimnasia",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nVélez",
+          "away": "Instituto",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPlatense",
+          "away": "Unión",
+          "score": "2-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nHuracán",
+          "away": "Banfield",
+          "score": "1-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nRacing",
-          "away": "Gimnasia",
-          "meta": "próximo · 16:00"
-        },
-        {
-          "home": "Vélez",
-          "away": "Instituto",
-          "meta": "próximo · 18:15"
-        },
-        {
-          "home": "Platense",
-          "away": "Unión",
-          "meta": "próximo · 18:15"
-        },
-        {
           "home": "45\nEstudiantes RC",
-          "away": "Tigre",
-          "meta": "próximo · 14:00"
+          "away": "Tigre\nVer más\nMundial fútbol",
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Newell's",
           "away": "Talleres",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "River",
           "away": "Barracas",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nAtl. Tucumán",
           "away": "Independiente Riv.",
-          "meta": "próximo · 14:15"
+          "meta": "próximo · 15:15"
         },
         {
           "home": "Estudiantes",
           "away": "Independiente",
-          "meta": "próximo · 16:30"
+          "meta": "próximo · 17:30"
         }
       ]
     },
@@ -106,32 +115,32 @@
         {
           "home": "00\nDock Sud",
           "away": "Liniers",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Ituzaingó",
           "away": "Italiano",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Excursionistas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nCADU",
           "away": "UAI Urquiza",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Real Pilar",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "30\nArmenio",
           "away": "Arsenal",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -148,52 +157,52 @@
         {
           "home": "00\nBerazategui",
           "away": "Mercedes",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Cañuelas",
           "away": "Muñiz",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Atlas",
           "away": "Dep. Español",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Estrella del Sur",
           "away": "Paraguayo",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Victoriano",
           "away": "JJ Urquiza",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Lugano",
           "away": "Centro Español",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nLamadrid",
           "away": "Claypole",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Luján",
           "away": "Central Ballester",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nSp. Barracas",
           "away": "El Porvenir",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Fenix",
           "away": "Yupanqui",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

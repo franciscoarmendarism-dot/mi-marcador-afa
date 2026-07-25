@@ -7,7 +7,7 @@ on:
 
 concurrency:
   group: afa-scraper
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Bajar el repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Instalar Python
         uses: actions/setup-python@v5
@@ -32,11 +34,12 @@ jobs:
       - name: Correr el scraper
         run: python scrape_afa.py
 
-      - name: Commitear data/afa.json si cambió
+      - name: Commitear y subir data/afa.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
           git add data/afa.json
           git diff --quiet --cached || git commit -m "Actualizar datos AFA $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main

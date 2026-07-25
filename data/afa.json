@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T12:10:38.712798+00:00",
+  "generated_at": "2026-07-25T16:05:19.526519+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -110,11 +110,30 @@
       "next": []
     },
     "metro": {
-      "results": [],
+      "results": [
+        {
+          "home": "24\n2\n9\n8\n9\nD\nV\nE\nV\nV\n14\nDock Sud",
+          "away": "32\n27",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "3\n7\n10\n9\nE\nV\nD\nD\nE\n16\nLiniers",
+          "away": "28\n27",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "07\n1'\nDock Sud",
+          "away": "Liniers",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "00\nDock Sud",
-          "away": "Liniers",
+          "home": "07\n1'\nDock Sud\n0",
+          "away": "0\nLiniers",
           "meta": "próximo · 12:00"
         },
         {
@@ -147,16 +166,34 @@
     "primerac": {
       "results": [
         {
+          "home": "4\n10\n10\n4\n5\nV\nV\nD\nV\nE\n2\nBerazategui",
+          "away": "33\n20",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "14\n9\n8\n9\n3\nV\nD\nE\nV\nV\n3\nMercedes",
+          "away": "30\n21",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
           "home": "07\nFinal\nArgentino Rosario",
           "away": "Puerto Nuevo",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "07\n1'\nBerazategui",
+          "away": "Mercedes",
           "score": "0-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nBerazategui",
-          "away": "Mercedes",
+          "home": "07\n1'\nBerazategui\n0",
+          "away": "0\nMercedes",
           "meta": "próximo · 13:00"
         },
         {

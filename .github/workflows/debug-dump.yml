@@ -1,0 +1,42 @@
+name: Diagnóstico — descargar HTML renderizado
+
+on:
+  workflow_dispatch:
+    inputs:
+      liga:
+        description: 'Qué liga inspeccionar'
+        required: true
+        default: 'liga-arg'
+        type: choice
+        options:
+          - liga-arg
+          - nacional
+          - metro
+          - primerac
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium --with-deps
+
+      - name: Generar HTML de diagnóstico
+        run: python scrape_afa.py --dump-html ${{ inputs.liga }}
+
+      - name: Subir el archivo como descargable
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-${{ inputs.liga }}
+          path: debug_${{ inputs.liga }}.html
+          retention-days: 3

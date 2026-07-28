@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:48:46.642078+00:00",
+  "generated_at": "2026-07-28T09:48:02.867078+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,47 +7,47 @@
         {
           "home": "00\nBanfield",
           "away": "Sarmiento",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "15\nCentral",
           "away": "Racing",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "30\nBarracas",
           "away": "Aldosivi",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Defensa",
           "away": "Riestra",
-          "meta": "próximo · 15:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Gimnasia",
           "away": "River",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nIndependiente Riv.",
           "away": "Huracán",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Talleres",
           "away": "Vélez",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "Independiente",
           "away": "Newell's",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "00\nBoca Jrs.",
           "away": "Estudiantes",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -90,39 +90,34 @@
       "results": [],
       "next": [
         {
+          "home": "00\nArsenal",
+          "away": "Brown de Adrogué",
+          "meta": "próximo · 18:00"
+        },
+        {
           "home": "00\nItaliano",
           "away": "Camioneros",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "00\nLiniers",
+          "home": "Liniers",
           "away": "Comunicaciones",
-          "meta": "próximo · 10:00"
-        },
-        {
-          "home": "San Carlos",
-          "away": "Dock Sud",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Real Pilar",
           "away": "CADU",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "00\nVilla Dalmine",
+          "home": "Villa Dalmine",
           "away": "Flandria",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "Excursionistas",
-          "away": "Armenio",
-          "meta": "próximo · 10:00"
-        },
-        {
-          "home": "Arsenal",
-          "away": "Brown de Adrogué",
-          "meta": "próximo · 10:00"
+          "home": "00\nSan Carlos",
+          "away": "Dock Sud",
+          "meta": "próximo · 13:00"
         }
       ]
     },

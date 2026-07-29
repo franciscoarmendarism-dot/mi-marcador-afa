@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-07-29T16:52:05.814155+00:00",
+  "generated_at": "2026-07-29T20:40:43.078554+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "G\nE\nP\n1\nDefensa",
+          "away": "4\n2",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "0\n2\n1\n0\n0\n3\nRiestra",
+          "away": "3\n2",
+          "score": "2-0",
+          "meta": "resultado"
+        },
         {
           "home": "07\nFinal\nBanfield",
           "away": "Sarmiento",
@@ -20,17 +32,24 @@
           "away": "Estudiantes RC",
           "score": "3-0",
           "meta": "resultado"
+        },
+        {
+          "home": "07\nFinal\nBarracas",
+          "away": "Aldosivi",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "41'\nDefensa",
+          "away": "Riestra",
+          "score": "2-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "30\nBarracas",
-          "away": "Aldosivi",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Defensa",
-          "away": "Riestra",
+          "home": "0\nAldosivi\n41'\nDefensa\n2",
+          "away": "0\nRiestra",
           "meta": "próximo · 17:15"
         },
         {
@@ -164,6 +183,11 @@
           "meta": "próximo · 13:00"
         },
         {
+          "home": "Puerto Nuevo",
+          "away": "Sacachispas",
+          "meta": "próximo · 13:00"
+        },
+        {
           "home": "Leandro N. Alem",
           "away": "Juventud Unida SM",
           "meta": "próximo · 13:00"
@@ -171,11 +195,6 @@
         {
           "home": "Dep. Español",
           "away": "Leones de Rosario FC",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Puerto Nuevo",
-          "away": "Sacachispas",
           "meta": "próximo · 16:00"
         },
         {

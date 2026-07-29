@@ -1,19 +1,28 @@
 {
-  "generated_at": "2026-07-28T21:46:45.636890+00:00",
+  "generated_at": "2026-07-29T10:08:18.234673+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nBanfield",
+          "home": "07\nFinal\nBanfield",
           "away": "Sarmiento",
-          "meta": "próximo · 16:00"
+          "score": "3-2",
+          "meta": "resultado"
         },
         {
-          "home": "15\nCentral",
+          "home": "Final\nCentral",
           "away": "Racing",
-          "meta": "próximo · 18:15"
+          "score": "0-0",
+          "meta": "resultado"
         },
+        {
+          "home": "Final\nArgentinos",
+          "away": "Estudiantes RC",
+          "score": "3-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
         {
           "home": "30\nBarracas",
           "away": "Aldosivi",
@@ -122,69 +131,59 @@
       ]
     },
     "primerac": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "07\nFinal\nArgentino Rosario",
-          "away": "Puerto Nuevo",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "00\nCentral Ballester",
+          "away": "Sp. Barracas",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "07\nFinal\nBerazategui",
-          "away": "Mercedes",
-          "score": "0-1",
-          "meta": "resultado"
+          "home": "Claypole",
+          "away": "Luján",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nCañuelas",
-          "away": "Muñiz",
-          "score": "0-1",
-          "meta": "resultado"
+          "home": "Central Córdoba",
+          "away": "Lamadrid",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nCA Atlas",
-          "away": "Dep. Español",
-          "score": "0-1",
-          "meta": "resultado"
+          "home": "Muñiz",
+          "away": "CA Atlas",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nEstrella del Sur",
-          "away": "Paraguayo",
-          "score": "1-0",
-          "meta": "resultado"
+          "home": "Centro Español",
+          "away": "Victoriano",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nVictoriano",
-          "away": "JJ Urquiza",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "JJ Urquiza",
+          "away": "Berazategui",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nCA Lugano",
-          "away": "Centro Español",
-          "score": "1-0",
-          "meta": "resultado"
+          "home": "Mercedes",
+          "away": "Estrella del Sur",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nLeones de Rosario FC",
-          "away": "Central Córdoba",
-          "score": "0-2",
-          "meta": "resultado"
+          "home": "Paraguayo",
+          "away": "Argentino Rosario",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "07\nFinal\nLamadrid",
-          "away": "Claypole",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "Leandro N. Alem",
+          "away": "Juventud Unida SM",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nLuján",
-          "away": "Central Ballester",
-          "score": "3-1",
-          "meta": "resultado"
+          "home": "Cambaceres",
+          "away": "CA Lugano",
+          "meta": "próximo · 12:00"
         }
-      ],
-      "next": []
+      ]
     }
   }
 }

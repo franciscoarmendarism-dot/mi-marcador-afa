@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-07-29T20:40:43.078554+00:00",
+  "generated_at": "2026-07-30T00:14:35.406452+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "G\nE\nP\n1\nDefensa",
-          "away": "4\n2",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "0\n2\n1\n0\n0\n3\nRiestra",
-          "away": "3\n2",
-          "score": "2-0",
-          "meta": "resultado"
-        },
         {
           "home": "07\nFinal\nBanfield",
           "away": "Sarmiento",
@@ -40,21 +28,22 @@
           "meta": "resultado"
         },
         {
-          "home": "41'\nDefensa",
+          "home": "Final\nDefensa",
           "away": "Riestra",
-          "score": "2-0",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "5'\nGimnasia",
+          "away": "River",
+          "score": "1-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "0\nAldosivi\n41'\nDefensa\n2",
-          "away": "0\nRiestra",
-          "meta": "próximo · 17:15"
-        },
-        {
-          "home": "Gimnasia",
-          "away": "River",
+          "home": "5'\nGimnasia\n1",
+          "away": "0\nRiver",
           "meta": "próximo · 19:30"
         },
         {
@@ -138,13 +127,8 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Villa Dalmine",
+          "home": "00\nVilla Dalmine",
           "away": "Flandria",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nTalleres RE",
-          "away": "Ituzaingó",
           "meta": "próximo · 13:00"
         }
       ]
@@ -183,11 +167,6 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Puerto Nuevo",
-          "away": "Sacachispas",
-          "meta": "próximo · 13:00"
-        },
-        {
           "home": "Leandro N. Alem",
           "away": "Juventud Unida SM",
           "meta": "próximo · 13:00"
@@ -195,6 +174,11 @@
         {
           "home": "Dep. Español",
           "away": "Leones de Rosario FC",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Puerto Nuevo",
+          "away": "Sacachispas",
           "meta": "próximo · 16:00"
         },
         {

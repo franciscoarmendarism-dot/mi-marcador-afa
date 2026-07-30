@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T00:14:35.406452+00:00",
+  "generated_at": "2026-07-30T10:54:05.748685+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -34,18 +34,19 @@
           "meta": "resultado"
         },
         {
-          "home": "5'\nGimnasia",
+          "home": "Final\nGimnasia",
           "away": "River",
           "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nInstituto",
+          "away": "Platense",
+          "score": "2-1",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "5'\nGimnasia\n1",
-          "away": "0\nRiver",
-          "meta": "próximo · 19:30"
-        },
         {
           "home": "00\nIndependiente Riv.",
           "away": "Huracán",
@@ -167,6 +168,11 @@
           "meta": "próximo · 13:00"
         },
         {
+          "home": "Puerto Nuevo",
+          "away": "Sacachispas",
+          "meta": "próximo · 13:00"
+        },
+        {
           "home": "Leandro N. Alem",
           "away": "Juventud Unida SM",
           "meta": "próximo · 13:00"
@@ -174,11 +180,6 @@
         {
           "home": "Dep. Español",
           "away": "Leones de Rosario FC",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Puerto Nuevo",
-          "away": "Sacachispas",
           "meta": "próximo · 16:00"
         },
         {

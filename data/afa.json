@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T10:07:50.688994+00:00",
+  "generated_at": "2026-08-02T15:47:14.285354+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,7 +68,7 @@
         {
           "home": "00\nBoca Jrs.",
           "away": "Estudiantes",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 17:15"
         }
       ]
     },
@@ -115,37 +115,37 @@
         {
           "home": "00\nBolivar",
           "away": "CA Mitre",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "San Telmo",
           "away": "San Miguel",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Chacarita",
           "away": "Agropecuario",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 11:30"
         },
         {
           "home": "Maipú",
           "away": "Atlanta",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 11:30"
         },
         {
           "home": "Temperley",
           "away": "Gimnasia y Tiro",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Dep. Madryn",
           "away": "All Boys",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Chaco For Ever",
           "away": "Morón",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 12:30"
         }
       ]
     },

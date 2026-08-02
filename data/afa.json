@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-08-02T15:47:14.285354+00:00",
+  "generated_at": "2026-08-02T20:39:01.577306+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "1\n0\n1\n0\n1\n10\nNewell's",
+          "away": "3\n3",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n1\n0\n2\n11\nBoca Jrs.",
+          "away": "3\n2",
+          "score": "0-1",
+          "meta": "resultado"
+        },
         {
           "home": "07\nFinal\nBanfield",
           "away": "Sarmiento",
@@ -50,18 +62,6 @@
           "away": "Huracán",
           "score": "2-1",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nTalleres",
-          "away": "Vélez",
-          "score": "1-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nIndependiente",
-          "away": "Newell's",
-          "score": "1-0",
-          "meta": "resultado"
         }
       ],
       "next": [
@@ -74,6 +74,42 @@
     },
     "nacional": {
       "results": [
+        {
+          "home": "21\n5\n13\n4\n6\nD\nD\nV\nV\nV\n2\nMorón",
+          "away": "38\n22",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "19\n2\n8\n10\n5\nD\nV\nE\nD\nV\n7\nLos Andes",
+          "away": "33\n22",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "9\n10\n8\n9\n5\nE\nV\nD\nD\nV\n8\nDep. Madryn",
+          "away": "33\n22",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n5\n8\n9\nV\nD\nD\nD\nV\n15\nAll Boys",
+          "away": "23\n23",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "4\n11\n8\nE\nE\nE\nE\nV\n16\nChaco For Ever",
+          "away": "22\n22",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "7\n5\n7\n10\nV\nV\nE\nV\nD\n17\nCentral Norte",
+          "away": "22\n22",
+          "score": "1-0",
+          "meta": "resultado"
+        },
         {
           "home": "Final\nDefensores",
           "away": "Estudiantes",
@@ -97,57 +133,9 @@
           "away": "Midland",
           "score": "1-1",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nPatronato",
-          "away": "Quilmes",
-          "score": "3-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nSan Martín",
-          "away": "Atlético Rafaela",
-          "score": "1-1",
-          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nBolivar",
-          "away": "CA Mitre",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "San Telmo",
-          "away": "San Miguel",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Chacarita",
-          "away": "Agropecuario",
-          "meta": "próximo · 11:30"
-        },
-        {
-          "home": "Maipú",
-          "away": "Atlanta",
-          "meta": "próximo · 11:30"
-        },
-        {
-          "home": "Temperley",
-          "away": "Gimnasia y Tiro",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Dep. Madryn",
-          "away": "All Boys",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Chaco For Ever",
-          "away": "Morón",
-          "meta": "próximo · 12:30"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [
@@ -191,6 +179,12 @@
           "home": "3\nLaferrere\nFinal\nTalleres RE",
           "away": "Ituzaingó",
           "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\nMerlo\nFinal\nSan Carlos",
+          "away": "Dock Sud",
+          "score": "1-1",
           "meta": "resultado"
         }
       ],

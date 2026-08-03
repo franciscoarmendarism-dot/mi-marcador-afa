@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:51:57.869890+00:00",
+  "generated_at": "2026-08-03T17:17:23.955541+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -141,39 +141,34 @@
       "results": [],
       "next": [
         {
-          "home": "00\nLaferrere",
-          "away": "Arsenal",
-          "meta": "próximo · 12:00"
+          "home": "00\nComunicaciones",
+          "away": "San Carlos",
+          "meta": "próximo · 17:00"
         },
         {
-          "home": "Brown de Adrogué",
+          "home": "00\nBrown de Adrogué",
           "away": "Excursionistas",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Armenio",
-          "away": "Villa Dalmine",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Flandria",
           "away": "UAI Urquiza",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nCADU",
           "away": "Liniers",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:30"
         },
         {
-          "home": "Comunicaciones",
-          "away": "San Carlos",
-          "meta": "próximo · 12:00"
+          "home": "Armenio",
+          "away": "Villa Dalmine",
+          "meta": "próximo · 17:00"
         },
         {
-          "home": "00\nMerlo",
-          "away": "Italiano",
-          "meta": "próximo · 12:00"
+          "home": "00\nLaferrere",
+          "away": "Arsenal",
+          "meta": "próximo · 13:00"
         }
       ]
     },

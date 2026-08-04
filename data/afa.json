@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:14:27.054784+00:00",
+  "generated_at": "2026-08-04T18:13:40.078984+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,7 +68,7 @@
         {
           "home": "00\nBoca Jrs.",
           "away": "Estudiantes",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 17:15"
         }
       ]
     },
@@ -143,108 +143,99 @@
         {
           "home": "00\nComunicaciones",
           "away": "San Carlos",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "00\nBrown de Adrogué",
           "away": "Excursionistas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Flandria",
           "away": "UAI Urquiza",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nCADU",
           "away": "Liniers",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 11:30"
         },
         {
           "home": "Armenio",
           "away": "Villa Dalmine",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Arsenal",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },
     "primerac": {
       "results": [
         {
-          "home": "07\nFinal\nPuerto Nuevo",
-          "away": "Fenix",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCA Lugano",
-          "away": "Sp. Barracas",
-          "score": "3-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCambaceres",
-          "away": "Lamadrid",
+          "home": "G\nE\nP\nÚltimas\n1\nSacachispas",
+          "away": "36\n22",
           "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "Final\nDep. Español",
-          "away": "Victoriano",
-          "score": "1-0",
+          "home": "20\n7\n9\n8\n5\nV\nV\nV\nE\nE\n3\nBerazategui",
+          "away": "34\n22",
+          "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "Final\nYupanqui",
-          "away": "Argentino Rosario",
-          "score": "1-1",
+          "home": "8\n9\n5\nE\nV\nV\nE\nV\n5\nEstrella del Sur",
+          "away": "33\n22",
+          "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "07\nFinal\nCañuelas",
-          "away": "Leandro N. Alem",
-          "score": "1-0",
+          "home": "8\n6\n7\nD\nE\nD\nV\nV\n9\nJuventud Unida SM",
+          "away": "28\n21",
+          "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "Final\nJJ Urquiza",
-          "away": "Muñiz",
-          "score": "3-0",
+          "home": "9\n3\n12\n7\nE\nV\nE\nE\nD\n13\nParaguayo",
+          "away": "20\n22",
+          "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "Final\nMercedes",
-          "away": "El Porvenir",
-          "score": "2-0",
+          "home": "G\nE\nP\nÚltimas\n1\nLuján",
+          "away": "40\n22",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\n8\n4\n9\nD\nD\nD\nV\nV\n8\nCentral Córdoba",
+          "away": "27\n22",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "16\n0\n6\n9\n7\nV\nD\nE\nE\nD\n9\nCA Atlas",
+          "away": "27\n22",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "13\n4\nD\nE\nE\nE\nD\n11\nCentral Ballester",
+          "away": "23\n21",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n4\n10\n8\nV\nD\nV\nE\nE\n13\nClaypole",
+          "away": "22\n22",
+          "score": "0-1",
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nEstrella del Sur",
-          "away": "Luján",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Claypole",
-          "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Berazategui",
-          "away": "Central Córdoba",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "CA Atlas",
-          "away": "Sacachispas",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": []
     }
   }
 }

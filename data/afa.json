@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:35:30.006893+00:00",
+  "generated_at": "2026-08-07T15:10:31.978612+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -160,11 +160,6 @@
           "meta": "próximo · 12:00"
         },
         {
-          "home": "Lamadrid",
-          "away": "Dep. Español",
-          "meta": "próximo · 12:00"
-        },
-        {
           "home": "Sp. Barracas",
           "away": "Claypole",
           "meta": "próximo · 12:00"
@@ -197,6 +192,11 @@
         {
           "home": "Argentino Rosario",
           "away": "Mercedes",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Estrella del Sur",
+          "away": "JJ Urquiza",
           "meta": "próximo · 12:00"
         }
       ]

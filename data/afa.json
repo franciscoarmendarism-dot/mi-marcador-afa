@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-08-07T20:04:28.406167+00:00",
+  "generated_at": "2026-08-07T23:00:27.765689+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
+      "results": [
+        {
+          "home": "0\n2\n1\n2\n0\nE\nV\nE\n5\nCentral",
+          "away": "5\n4",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n1\n0\n2\nV\nD\nD\n14\nAldosivi",
+          "away": "2\n4",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\n25'\nCentral",
+          "away": "Aldosivi",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "30\nCentral",
-          "away": "Aldosivi",
+          "home": "08\n25'\nCentral\n0",
+          "away": "0\nAldosivi",
           "meta": "próximo · 18:45"
         },
         {
@@ -66,7 +85,7 @@
         },
         {
           "home": "Alte. Brown",
-          "away": "Ciudad De Bolivar",
+          "away": "Bolivar",
           "meta": "próximo · 12:00"
         },
         {
@@ -112,13 +131,45 @@
       ]
     },
     "metro": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nComunicaciones",
-          "away": "San Carlos",
-          "meta": "próximo · 16:00"
+          "home": "5\n17\n14\n10\n4\nV\nE\nE\nE\nV\n5\nCamioneros",
+          "away": "52\n29",
+          "score": "0-0",
+          "meta": "resultado"
         },
+        {
+          "home": "1\n11\n8\n9\nV\nD\nV\nV\nE\n9\nComunicaciones",
+          "away": "40\n29",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n6\n10\n12\nE\nV\nD\nD\nE\n18\nSan Carlos",
+          "away": "27\n29",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n3\n17\n8\nE\nE\nD\nE\nE\n22\nItuzaingó",
+          "away": "13\n29",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nET\nComunicaciones",
+          "away": "San Carlos",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "28'\nItuzaingó",
+          "away": "Camioneros",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
         {
           "home": "00\nBrown de Adrogué",
           "away": "Excursionistas",

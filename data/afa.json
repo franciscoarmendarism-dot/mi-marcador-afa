@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-08-10T20:09:08.148363+00:00",
+  "generated_at": "2026-08-10T23:05:58.184181+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "2\n1\n1\n2\n1\nD\nE\nV\nE\n10\nBanfield",
+          "away": "5\n4",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "3\n0\n1\n2\n1\nE\nV\nD\n11\nBelgrano",
+          "away": "5\n4",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "08\nFinal\nCentral",
           "away": "Aldosivi",
@@ -50,24 +62,12 @@
           "away": "Huracán",
           "score": "0-2",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nGimnasia",
-          "away": "Barracas",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nDefensa",
-          "away": "Newell's",
-          "score": "2-1",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nBanfield",
-          "away": "Belgrano",
+          "home": "08\nET\nBanfield\n0",
+          "away": "0\nBelgrano",
           "meta": "próximo · 17:15"
         }
       ]
@@ -88,7 +88,7 @@
         },
         {
           "home": "Final\nAlte. Brown",
-          "away": "Ciudad De Bolivar",
+          "away": "Bolivar",
           "score": "2-0",
           "meta": "resultado"
         },

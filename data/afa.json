@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:40:19.050571+00:00",
+  "generated_at": "2026-08-10T15:31:54.496067+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,7 +68,7 @@
         {
           "home": "00\nBanfield",
           "away": "Belgrano",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -88,7 +88,7 @@
         },
         {
           "home": "Final\nAlte. Brown",
-          "away": "Ciudad De Bolivar",
+          "away": "Bolivar",
           "score": "2-0",
           "meta": "resultado"
         },
@@ -139,7 +139,7 @@
         {
           "home": "00\nAll Boys",
           "away": "Central Norte",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },
@@ -149,37 +149,37 @@
         {
           "home": "00\nCamioneros",
           "away": "Merlo",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Italiano",
           "away": "Dock Sud",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nReal Pilar",
           "away": "Flandria",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Villa Dalmine",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Excursionistas",
           "away": "Laferrere",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Arsenal",
           "away": "Talleres RE",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "CADU",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },
@@ -250,17 +250,17 @@
         {
           "home": "00\nSp. Barracas",
           "away": "Claypole",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Fenix",
           "away": "Central Ballester",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Sacachispas",
           "away": "Paraguayo",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     }

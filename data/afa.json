@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:09:16.893181+00:00",
+  "generated_at": "2026-08-12T23:21:46.431390+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -175,12 +175,7 @@
       "results": [],
       "next": [
         {
-          "home": "00\nBerazategui",
-          "away": "Fenix",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Cañuelas",
+          "home": "00\nCañuelas",
           "away": "Estrella del Sur",
           "meta": "próximo · 11:00"
         },
@@ -190,28 +185,18 @@
           "meta": "próximo · 11:00"
         },
         {
+          "home": "00\nBerazategui",
+          "away": "Fenix",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "CA Lugano",
+          "away": "Luján",
+          "meta": "próximo · 11:00"
+        },
+        {
           "home": "CA Atlas",
           "away": "Argentino Rosario",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Paraguayo",
-          "away": "Sp. Barracas",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Muñiz",
-          "away": "Juventud Unida SM",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Centro Español",
-          "away": "Central Córdoba",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "00\nCA Lugano",
-          "away": "Luján",
           "meta": "próximo · 11:00"
         },
         {
@@ -220,8 +205,18 @@
           "meta": "próximo · 11:00"
         },
         {
+          "home": "Paraguayo",
+          "away": "Sp. Barracas",
+          "meta": "próximo · 11:00"
+        },
+        {
           "home": "00\nDep. Español",
           "away": "Sacachispas",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "Centro Español",
+          "away": "Central Córdoba",
           "meta": "próximo · 11:00"
         }
       ]

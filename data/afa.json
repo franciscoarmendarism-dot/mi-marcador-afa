@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:16:05.978550+00:00",
+  "generated_at": "2026-08-16T07:20:44.398508+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -50,32 +50,32 @@
         {
           "home": "00\nSarmiento",
           "away": "Huracán",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "River",
           "away": "Argentinos",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "Barracas",
           "away": "Central",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "45\nEstudiantes RC",
           "away": "Atl. Tucumán",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Lanús",
           "away": "Independiente",
-          "meta": "próximo · 15:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Vélez",
           "away": "Defensa",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         }
       ]
     },
@@ -187,7 +187,7 @@
         {
           "home": "00\nSan Carlos",
           "away": "CADU",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     },
@@ -222,37 +222,37 @@
         {
           "home": "00\nBerazategui",
           "away": "Fenix",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Lugano",
           "away": "Luján",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Atlas",
           "away": "Argentino Rosario",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "JJ Urquiza",
           "away": "El Porvenir",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nDep. Español",
           "away": "Sacachispas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Centro Español",
           "away": "Central Córdoba",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nMuñiz",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

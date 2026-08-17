@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:29:11.486898+00:00",
+  "generated_at": "2026-08-17T12:19:31.663083+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,17 +68,17 @@
         {
           "home": "45\nEstudiantes RC",
           "away": "Atl. Tucumán",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Lanús",
           "away": "Independiente",
-          "meta": "próximo · 15:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Vélez",
           "away": "Defensa",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         }
       ]
     },
@@ -153,37 +153,37 @@
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Villa Dalmine",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Brown de Adrogué",
           "away": "UAI Urquiza",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Flandria",
           "away": "Liniers",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nArmenio",
           "away": "Real Pilar",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nComunicaciones",
           "away": "Italiano",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Dock Sud",
           "away": "Camioneros",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },
@@ -248,17 +248,17 @@
         {
           "home": "00\nDep. Español",
           "away": "Sacachispas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Centro Español",
           "away": "Central Córdoba",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nMuñiz",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

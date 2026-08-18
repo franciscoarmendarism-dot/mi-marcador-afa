@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:20:37.023747+00:00",
+  "generated_at": "2026-08-18T18:26:19.071383+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -82,7 +82,7 @@
         },
         {
           "home": "Final\nAlte. Brown",
-          "away": "Ciudad De Bolivar",
+          "away": "Bolivar",
           "score": "2-0",
           "meta": "resultado"
         },
@@ -137,37 +137,61 @@
         {
           "home": "30\nComunicaciones",
           "away": "Italiano",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Laferrere",
           "away": "Villa Dalmine",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Liniers",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nItuzaingó",
           "away": "Merlo",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Armenio",
           "away": "Real Pilar",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
     "primerac": {
       "results": [
+        {
+          "home": "22\n0\n8\n11\n5\nE\nE\nV\nE\nD\n7\nMercedes",
+          "away": "34\n24",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\n6\nD\nE\nV\nE\nD\n9\nJuventud Unida SM",
+          "away": "30\n23",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "6\n6\n8\n10\nE\nV\nE\nE\nV\n13\nMuñiz",
+          "away": "23\n23",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n4\n11\n8\nE\nV\nD\nV\nE\n14\nClaypole",
+          "away": "23\n24",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "08\nFinal\nPuerto Nuevo",
           "away": "Yupanqui",
@@ -203,39 +227,9 @@
           "away": "Luján",
           "score": "1-2",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nCA Atlas",
-          "away": "Argentino Rosario",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nJJ Urquiza",
-          "away": "El Porvenir",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nParaguayo",
-          "away": "Sp. Barracas",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "08\nFinal\nDep. Español",
-          "away": "Sacachispas",
-          "score": "0-0",
-          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nMuñiz",
-          "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": []
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:22:57.730672+00:00",
+  "generated_at": "2026-08-18T09:20:53.700629+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -82,7 +82,7 @@
         },
         {
           "home": "Final\nAlte. Brown",
-          "away": "Bolivar",
+          "away": "Ciudad De Bolivar",
           "score": "2-0",
           "meta": "resultado"
         },
@@ -137,32 +137,32 @@
         {
           "home": "30\nComunicaciones",
           "away": "Italiano",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Laferrere",
           "away": "Villa Dalmine",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Liniers",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nItuzaingó",
           "away": "Merlo",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Armenio",
           "away": "Real Pilar",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -233,7 +233,7 @@
         {
           "home": "00\nMuñiz",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     }

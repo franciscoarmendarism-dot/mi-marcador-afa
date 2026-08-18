@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-08-17T21:15:26.299600+00:00",
+  "generated_at": "2026-08-18T00:33:36.865207+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "2\n4\n3\n1\n0\nE\nV\nV\nV\n3\nIndependiente",
-          "away": "9\n5",
-          "score": "1-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "5\n2\n2\n0\n3\nV\nD\nD\nV\nD\n7\nLanús",
-          "away": "6\n5",
-          "score": "1-2",
+          "home": "4\n1\n2\n2\nE\nV\nD\nD\nE\n14\nTalleres",
+          "away": "4\n5",
+          "score": "0-0",
           "meta": "resultado"
         },
         {
@@ -62,20 +56,15 @@
           "away": "Huracán",
           "score": "2-0",
           "meta": "resultado"
-        }
-      ],
-      "next": [
-        {
-          "home": "1\nAtl. Tucumán\n56'\nLanús\n1",
-          "away": "2\nIndependiente",
-          "meta": "próximo · 17:15"
         },
         {
-          "home": "Vélez",
-          "away": "Defensa",
-          "meta": "próximo · 19:30"
+          "home": "Final\nRiver",
+          "away": "Argentinos",
+          "score": "2-0",
+          "meta": "resultado"
         }
-      ]
+      ],
+      "next": []
     },
     "nacional": {
       "results": [
@@ -93,7 +82,7 @@
         },
         {
           "home": "Final\nAlte. Brown",
-          "away": "Bolivar",
+          "away": "Ciudad De Bolivar",
           "score": "2-0",
           "meta": "resultado"
         },
@@ -148,32 +137,32 @@
         {
           "home": "30\nComunicaciones",
           "away": "Italiano",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Laferrere",
           "away": "Villa Dalmine",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Liniers",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nItuzaingó",
           "away": "Merlo",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Armenio",
           "away": "Real Pilar",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -244,7 +233,7 @@
         {
           "home": "00\nMuñiz",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:26:19.071383+00:00",
+  "generated_at": "2026-08-18T21:14:24.341768+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -169,30 +169,6 @@
     "primerac": {
       "results": [
         {
-          "home": "22\n0\n8\n11\n5\nE\nE\nV\nE\nD\n7\nMercedes",
-          "away": "34\n24",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\n6\nD\nE\nV\nE\nD\n9\nJuventud Unida SM",
-          "away": "30\n23",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "6\n6\n8\n10\nE\nV\nE\nE\nV\n13\nMuñiz",
-          "away": "23\n23",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "5\n4\n11\n8\nE\nV\nD\nV\nE\n14\nClaypole",
-          "away": "23\n24",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
           "home": "08\nFinal\nPuerto Nuevo",
           "away": "Yupanqui",
           "score": "2-2",
@@ -226,6 +202,30 @@
           "home": "Final\nCA Lugano",
           "away": "Luján",
           "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCA Atlas",
+          "away": "Argentino Rosario",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nJJ Urquiza",
+          "away": "El Porvenir",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nParaguayo",
+          "away": "Sp. Barracas",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nDep. Español",
+          "away": "Sacachispas",
+          "score": "0-0",
           "meta": "resultado"
         }
       ],

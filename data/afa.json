@@ -1,14 +1,8 @@
 {
-  "generated_at": "2026-08-18T00:33:36.865207+00:00",
+  "generated_at": "2026-08-18T03:35:06.422366+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "4\n1\n2\n2\nE\nV\nD\nD\nE\n14\nTalleres",
-          "away": "4\n5",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nRacing",
           "away": "Banfield",
@@ -62,6 +56,12 @@
           "away": "Argentinos",
           "score": "2-0",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nBarracas",
+          "away": "Central",
+          "score": "0-1",
+          "meta": "resultado"
         }
       ],
       "next": []
@@ -82,7 +82,7 @@
         },
         {
           "home": "Final\nAlte. Brown",
-          "away": "Ciudad De Bolivar",
+          "away": "Bolivar",
           "score": "2-0",
           "meta": "resultado"
         },
@@ -137,32 +137,32 @@
         {
           "home": "30\nComunicaciones",
           "away": "Italiano",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Laferrere",
           "away": "Villa Dalmine",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Liniers",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nItuzaingó",
           "away": "Merlo",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Armenio",
           "away": "Real Pilar",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -233,7 +233,7 @@
         {
           "home": "00\nMuñiz",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

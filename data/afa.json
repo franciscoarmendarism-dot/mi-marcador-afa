@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T15:21:48.460134+00:00",
+  "generated_at": "2026-08-19T18:17:08.299696+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -57,12 +57,30 @@
       ]
     },
     "nacional": {
-      "results": [],
+      "results": [
+        {
+          "home": "6\n7\n8\n10\nV\nV\nD\nV\nE\n16\nChacarita",
+          "away": "27\n25",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n4\n12\n8\nD\nE\nE\nD\nE\n18\nGüemes",
+          "away": "21\n25",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
           "home": "00\nAcassuso",
           "away": "Godoy Cruz",
           "meta": "próximo · 13:30"
+        },
+        {
+          "home": "San Telmo",
+          "away": "Morón",
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nTristan Suárez",
@@ -100,13 +118,8 @@
           "meta": "próximo · 15:00"
         },
         {
-          "home": "Maipú",
-          "away": "Quilmes",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "00\nDep. Madryn",
-          "away": "CA Mitre",
+          "home": "00\nCentral Norte",
+          "away": "Estudiantes",
           "meta": "próximo · 15:00"
         }
       ]

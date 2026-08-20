@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:22:50.192110+00:00",
+  "generated_at": "2026-08-20T18:21:17.965212+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -92,22 +92,22 @@
         {
           "home": "San Martín",
           "away": "Gimnasia y Tiro",
-          "meta": "próximo · 14:00"
-        },
-        {
-          "home": "Chaco For Ever",
-          "away": "Los Andes",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Almagro",
           "away": "Colegiales",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 13:30"
         },
         {
-          "home": "00\nCentral Norte",
-          "away": "Estudiantes",
-          "meta": "próximo · 15:00"
+          "home": "00\nChaco For Ever",
+          "away": "Los Andes",
+          "meta": "próximo · 20:00"
+        },
+        {
+          "home": "30\nMaipú",
+          "away": "Quilmes",
+          "meta": "próximo · 14:00"
         }
       ]
     },

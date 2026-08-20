@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:17:08.299696+00:00",
+  "generated_at": "2026-08-20T00:34:04.030144+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -57,20 +57,7 @@
       ]
     },
     "nacional": {
-      "results": [
-        {
-          "home": "6\n7\n8\n10\nV\nV\nD\nV\nE\n16\nChacarita",
-          "away": "27\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "8\n4\n12\n8\nD\nE\nE\nD\nE\n18\nGüemes",
-          "away": "21\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        }
-      ],
+      "results": [],
       "next": [
         {
           "home": "00\nAcassuso",

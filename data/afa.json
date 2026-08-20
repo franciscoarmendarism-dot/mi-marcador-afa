@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:22:50.614261+00:00",
+  "generated_at": "2026-08-20T12:23:26.558203+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,52 +7,52 @@
         {
           "home": "30\nAldosivi",
           "away": "Unión",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nAtl. Tucumán",
           "away": "Instituto",
-          "meta": "próximo · 16:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Independiente",
           "away": "Independiente Riv.",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "Newell's",
           "away": "Banfield",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "45\nSarmiento",
           "away": "Estudiantes",
-          "meta": "próximo · 12:45"
+          "meta": "próximo · 11:45"
         },
         {
           "home": "Barracas",
           "away": "Platense",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Belgrano",
           "away": "Defensa",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 16:15"
         },
         {
           "home": "River",
           "away": "Vélez",
-          "meta": "próximo · 19:30"
+          "meta": "próximo · 18:30"
         },
         {
           "home": "00\nTigre",
           "away": "Central Córdoba",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "Lanús",
           "away": "Argentinos",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -62,52 +62,52 @@
         {
           "home": "00\nAcassuso",
           "away": "Godoy Cruz",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "San Telmo",
           "away": "Morón",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nTristan Suárez",
           "away": "Agropecuario",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Chicago",
           "away": "Atlanta",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Defensores",
           "away": "Alte. Brown",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "San Miguel",
           "away": "Colón",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "San Martín",
           "away": "Gimnasia y Tiro",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Chaco For Ever",
           "away": "Los Andes",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Almagro",
           "away": "Colegiales",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "00\nCentral Norte",
           "away": "Estudiantes",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         }
       ]
     },
@@ -117,99 +117,89 @@
         {
           "home": "30\nComunicaciones",
           "away": "Italiano",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Laferrere",
           "away": "Villa Dalmine",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Liniers",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nItuzaingó",
           "away": "Merlo",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Armenio",
           "away": "Real Pilar",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
     "primerac": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "07\nFinal\nMuñiz",
+          "home": "00\nYupanqui",
           "away": "CA Atlas",
-          "score": "1-1",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "07\nFinal\nClaypole",
-          "away": "Luján",
-          "score": "1-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCentral Córdoba",
-          "away": "Lamadrid",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCentro Español",
-          "away": "Victoriano",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nJJ Urquiza",
+          "home": "Victoriano",
           "away": "Berazategui",
-          "score": "0-0",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nParaguayo",
+          "home": "JJ Urquiza",
           "away": "Argentino Rosario",
-          "score": "2-1",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nPuerto Nuevo",
+          "home": "Mercedes",
           "away": "Sacachispas",
-          "score": "1-0",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "uventud Unida SM\nFinal\nDep. Español",
-          "away": "Leones de Rosario FC",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "Paraguayo",
+          "away": "Juventud Unida SM",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "Final\nMercedes",
-          "away": "Estrella del Sur",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCambaceres",
+          "home": "Leandro N. Alem",
           "away": "CA Lugano",
-          "score": "1-2",
-          "meta": "resultado"
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "00\nEl Porvenir",
+          "away": "Central Ballester",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Central Córdoba",
+          "away": "Sp. Barracas",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "00\nClaypole",
+          "away": "Fenix",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "Dep. Español",
+          "away": "Luján",
+          "meta": "próximo · 12:00"
         }
-      ],
-      "next": []
+      ]
     }
   }
 }

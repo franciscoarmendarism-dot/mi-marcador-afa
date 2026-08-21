@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:17:48.111827+00:00",
+  "generated_at": "2026-08-21T00:36:24.639034+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -75,6 +75,11 @@
           "meta": "próximo · 12:30"
         },
         {
+          "home": "Almagro",
+          "away": "Colegiales",
+          "meta": "próximo · 12:30"
+        },
+        {
           "home": "Chicago",
           "away": "Atlanta",
           "meta": "próximo · 12:30"
@@ -90,24 +95,19 @@
           "meta": "próximo · 12:30"
         },
         {
-          "home": "San Martín",
+          "home": "30\nSan Martín",
           "away": "Gimnasia y Tiro",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "Almagro",
-          "away": "Colegiales",
-          "meta": "próximo · 12:30"
-        },
-        {
-          "home": "00\nChaco For Ever",
+          "home": "Chaco For Ever",
           "away": "Los Andes",
           "meta": "próximo · 19:00"
         },
         {
           "home": "30\nMaipú",
           "away": "Quilmes",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:30"
         }
       ]
     },

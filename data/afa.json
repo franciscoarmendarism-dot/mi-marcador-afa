@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:16:38.550999+00:00",
+  "generated_at": "2026-08-22T12:15:44.409367+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -20,47 +20,47 @@
         {
           "home": "00\nAtl. Tucumán",
           "away": "Instituto",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 16:30"
         },
         {
           "home": "Independiente",
           "away": "Independiente Riv.",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 19:00"
         },
         {
           "home": "Newell's",
           "away": "Banfield",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 19:00"
         },
         {
           "home": "45\nSarmiento",
           "away": "Estudiantes",
-          "meta": "próximo · 10:45"
+          "meta": "próximo · 12:45"
         },
         {
           "home": "Barracas",
           "away": "Platense",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Belgrano",
           "away": "Defensa",
-          "meta": "próximo · 15:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "River",
           "away": "Vélez",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nTigre",
           "away": "Central Córdoba",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "Lanús",
           "away": "Argentinos",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -89,47 +89,47 @@
         {
           "home": "00\nTristan Suárez",
           "away": "Agropecuario",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Almagro",
           "away": "Colegiales",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Chicago",
           "away": "Atlanta",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Defensores",
           "away": "Alte. Brown",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "San Miguel",
           "away": "Colón",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "30\nSan Martín",
           "away": "Gimnasia y Tiro",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Chaco For Ever",
           "away": "Los Andes",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 20:00"
         },
         {
           "home": "30\nMaipú",
           "away": "Quilmes",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "00\nGüemes",
           "away": "Atlético Rafaela",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },
@@ -158,22 +158,22 @@
         {
           "home": "00\nTalleres RE",
           "away": "Excursionistas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nFlandria",
           "away": "Liniers",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nItuzaingó",
           "away": "Merlo",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Armenio",
           "away": "Real Pilar",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

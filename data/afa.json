@@ -1,25 +1,246 @@
 {
-  "generated_at": "2026-08-22T03:32:49.252985+00:00",
+  "generated_at": "2026-08-22T06:19:29.483917+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "08\nFinal\nAldosivi",
+          "away": "Unión",
+          "score": "1-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nEstudiantes RC",
+          "away": "San Lorenzo",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nAtl. Tucumán",
+          "away": "Instituto",
+          "meta": "próximo · 16:30"
+        },
+        {
+          "home": "Independiente",
+          "away": "Independiente Riv.",
+          "meta": "próximo · 19:00"
+        },
+        {
+          "home": "Newell's",
+          "away": "Banfield",
+          "meta": "próximo · 19:00"
+        },
+        {
+          "home": "45\nSarmiento",
+          "away": "Estudiantes",
+          "meta": "próximo · 12:45"
+        },
+        {
+          "home": "Barracas",
+          "away": "Platense",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Belgrano",
+          "away": "Defensa",
+          "meta": "próximo · 17:15"
+        },
+        {
+          "home": "River",
+          "away": "Vélez",
+          "meta": "próximo · 19:30"
+        },
+        {
+          "home": "00\nTigre",
+          "away": "Central Córdoba",
+          "meta": "próximo · 19:15"
+        },
+        {
+          "home": "Lanús",
+          "away": "Argentinos",
+          "meta": "próximo · 19:15"
+        }
+      ]
     },
     "nacional": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "08\nFinal\nAcassuso",
+          "away": "Godoy Cruz",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Telmo",
+          "away": "Morón",
+          "score": "2-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Madryn",
+          "away": "CA Mitre",
+          "score": "4-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nTristan Suárez",
+          "away": "Agropecuario",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Almagro",
+          "away": "Colegiales",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Chicago",
+          "away": "Atlanta",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Defensores",
+          "away": "Alte. Brown",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "San Miguel",
+          "away": "Colón",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "30\nSan Martín",
+          "away": "Gimnasia y Tiro",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "Chaco For Ever",
+          "away": "Los Andes",
+          "meta": "próximo · 20:00"
+        },
+        {
+          "home": "30\nMaipú",
+          "away": "Quilmes",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "00\nGüemes",
+          "away": "Atlético Rafaela",
+          "meta": "próximo · 18:00"
+        }
+      ]
     },
     "metro": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "08\nFinal\nComunicaciones",
+          "away": "Italiano",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nLaferrere",
+          "away": "Villa Dalmine",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBrown de Adrogué",
+          "away": "UAI Urquiza",
+          "score": "1-1",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nTalleres RE",
+          "away": "Excursionistas",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nFlandria",
+          "away": "Liniers",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nItuzaingó",
+          "away": "Merlo",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Armenio",
+          "away": "Real Pilar",
+          "meta": "próximo · 17:00"
+        }
+      ]
     },
     "primerac": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-c/ffjb\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "07\nFinal\nMuñiz",
+          "away": "CA Atlas",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "07\nFinal\nClaypole",
+          "away": "Luján",
+          "score": "1-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCentral Córdoba",
+          "away": "Lamadrid",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCentro Español",
+          "away": "Victoriano",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nJJ Urquiza",
+          "away": "Berazategui",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nParaguayo",
+          "away": "Argentino Rosario",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPuerto Nuevo",
+          "away": "Sacachispas",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "uventud Unida SM\nFinal\nDep. Español",
+          "away": "Leones de Rosario FC",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nMercedes",
+          "away": "Estrella del Sur",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCambaceres",
+          "away": "CA Lugano",
+          "score": "1-2",
+          "meta": "resultado"
+        }
+      ],
+      "next": []
     }
   }
 }

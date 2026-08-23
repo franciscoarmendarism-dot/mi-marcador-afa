@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-22T21:11:15.216505+00:00",
+  "generated_at": "2026-08-23T00:37:03.191761+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "3\n3\n3\n1\n2\nE\nV\nD\nD\nV\n5\nNewell's",
+          "away": "8\n6",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n2\n2\n1\nE\nV\nD\nV\nE\n7\nRiestra",
+          "away": "7\n6",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\n2\n2\n2\n1\nE\nV\nE\nV\nD\n9\nHuracán",
+          "away": "8\n6",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n2\n2\n2\nE\nD\nV\nD\nV\n11\nBanfield",
+          "away": "8\n6",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "08\nFinal\nAldosivi",
           "away": "Unión",
@@ -20,24 +44,27 @@
           "away": "Instituto",
           "score": "0-0",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nIndependiente",
+          "away": "Independiente Riv.",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "38'\nNewell's",
+          "away": "Banfield",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "36'\nHuracán",
+          "away": "Riestra",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "Final\nAtl. Tucumán\n0",
-          "away": "0\nInstituto",
-          "meta": "próximo · 15:30"
-        },
-        {
-          "home": "Independiente",
-          "away": "Independiente Riv.",
-          "meta": "próximo · 18:00"
-        },
-        {
-          "home": "Newell's",
-          "away": "Banfield",
-          "meta": "próximo · 18:00"
-        },
         {
           "home": "45\nSarmiento",
           "away": "Estudiantes",
@@ -196,13 +223,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "0\nMerlo\nFinal\nArmenio\n0",
-          "away": "1\nReal Pilar",
-          "meta": "próximo · 16:00"
-        }
-      ]
+      "next": []
     },
     "primerac": {
       "results": [

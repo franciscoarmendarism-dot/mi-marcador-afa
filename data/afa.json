@@ -1,32 +1,8 @@
 {
-  "generated_at": "2026-08-23T00:37:03.191761+00:00",
+  "generated_at": "2026-08-23T03:40:56.361461+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "3\n3\n3\n1\n2\nE\nV\nD\nD\nV\n5\nNewell's",
-          "away": "8\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n2\n2\n1\nE\nV\nD\nV\nE\n7\nRiestra",
-          "away": "7\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n2\n2\n2\n1\nE\nV\nE\nV\nD\n9\nHuracán",
-          "away": "8\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n2\n2\n2\nE\nD\nV\nD\nV\n11\nBanfield",
-          "away": "8\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nAldosivi",
           "away": "Unión",
@@ -52,13 +28,13 @@
           "meta": "resultado"
         },
         {
-          "home": "38'\nNewell's",
+          "home": "Final\nNewell's",
           "away": "Banfield",
-          "score": "0-0",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
-          "home": "36'\nHuracán",
+          "home": "Final\nHuracán",
           "away": "Riestra",
           "score": "0-0",
           "meta": "resultado"
@@ -68,32 +44,32 @@
         {
           "home": "45\nSarmiento",
           "away": "Estudiantes",
-          "meta": "próximo · 11:45"
+          "meta": "próximo · 12:45"
         },
         {
           "home": "Barracas",
           "away": "Platense",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Belgrano",
           "away": "Defensa",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "River",
           "away": "Vélez",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nTigre",
           "away": "Central Córdoba",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "Lanús",
           "away": "Argentinos",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -162,19 +138,14 @@
       ],
       "next": [
         {
-          "home": "nasia y Tiro\nFinal\nChaco For Ever\n1",
-          "away": "0\nLos Andes",
-          "meta": "próximo · 19:00"
-        },
-        {
           "home": "30\nMaipú",
           "away": "Quilmes",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "00\nGüemes",
           "away": "Atlético Rafaela",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },

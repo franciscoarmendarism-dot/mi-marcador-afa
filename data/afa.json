@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:22:45.152902+00:00",
+  "generated_at": "2026-08-24T21:18:21.733912+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,12 +68,12 @@
         {
           "home": "00\nTigre",
           "away": "Central Córdoba",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "Lanús",
           "away": "Argentinos",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -142,9 +142,9 @@
       ],
       "next": [
         {
-          "home": "00\nGüemes",
-          "away": "Atlético Rafaela",
-          "meta": "próximo · 16:00"
+          "home": "08\nFinal\nGüemes\n0",
+          "away": "0\nAtlético Rafaela",
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -154,83 +154,47 @@
         {
           "home": "00\nItaliano",
           "away": "CADU",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Flandria",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Real Pilar",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "UAI Urquiza",
           "away": "Laferrere",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Villa Dalmine",
           "away": "Talleres RE",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Arsenal",
           "away": "Ituzaingó",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nCamioneros",
           "away": "Comunicaciones",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Liniers",
           "away": "Armenio",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
     "primerac": {
       "results": [
-        {
-          "home": "10\n9\n6\nV\nD\nE\nV\nV\n3\nEstrella del Sur",
-          "away": "39\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "10\n9\n9\n7\nV\nD\nD\nE\nV\n6\nCentro Español",
-          "away": "36\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nLuján",
-          "away": "46\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n9\n9\n7\nV\nV\nE\nD\nE\n4\nDep. Español",
-          "away": "35\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "4\n7\n6\n11\nE\nV\nD\nE\nD\n12\nFenix",
-          "away": "27\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "6\n6\n9\n10\nE\nV\nE\nE\nV\n13\nClaypole",
-          "away": "26\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "07\nFinal\nMuñiz",
           "away": "CA Atlas",
@@ -253,6 +217,42 @@
           "home": "Final\nCentro Español",
           "away": "Victoriano",
           "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nJJ Urquiza",
+          "away": "Berazategui",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nParaguayo",
+          "away": "Argentino Rosario",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPuerto Nuevo",
+          "away": "Sacachispas",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "uventud Unida SM\nFinal\nDep. Español",
+          "away": "Leones de Rosario FC",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nMercedes",
+          "away": "Estrella del Sur",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCambaceres",
+          "away": "CA Lugano",
+          "score": "1-2",
           "meta": "resultado"
         }
       ],

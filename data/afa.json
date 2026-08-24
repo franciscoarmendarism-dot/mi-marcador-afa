@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-08-24T00:35:52.485234+00:00",
+  "generated_at": "2026-08-24T03:43:35.188148+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "1\n2\n1\n3\nV\nD\nD\nV\nD\n10\nBoca Jrs.",
-          "away": "7\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n2\n1\n3\nD\nV\nD\nE\nV\n12\nRacing",
-          "away": "5\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nAldosivi",
           "away": "Unión",
@@ -62,18 +50,30 @@
           "away": "Platense",
           "score": "1-2",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nBelgrano",
+          "away": "Defensa",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nRiver",
+          "away": "Vélez",
+          "score": "2-2",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
           "home": "00\nTigre",
           "away": "Central Córdoba",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "Lanús",
           "away": "Argentinos",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -144,7 +144,7 @@
         {
           "home": "00\nGüemes",
           "away": "Atlético Rafaela",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -154,42 +154,42 @@
         {
           "home": "00\nItaliano",
           "away": "CADU",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Flandria",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Real Pilar",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "UAI Urquiza",
           "away": "Laferrere",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Villa Dalmine",
           "away": "Talleres RE",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Arsenal",
           "away": "Ituzaingó",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nCamioneros",
           "away": "Comunicaciones",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Liniers",
           "away": "Armenio",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:33:56.843351+00:00",
+  "generated_at": "2026-08-24T09:35:11.140384+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,12 +68,12 @@
         {
           "home": "00\nTigre",
           "away": "Central Córdoba",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "Lanús",
           "away": "Argentinos",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -144,7 +144,7 @@
         {
           "home": "00\nGüemes",
           "away": "Atlético Rafaela",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },
@@ -154,42 +154,42 @@
         {
           "home": "00\nItaliano",
           "away": "CADU",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Flandria",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Real Pilar",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "UAI Urquiza",
           "away": "Laferrere",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Villa Dalmine",
           "away": "Talleres RE",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Arsenal",
           "away": "Ituzaingó",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "00\nCamioneros",
           "away": "Comunicaciones",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Liniers",
           "away": "Armenio",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

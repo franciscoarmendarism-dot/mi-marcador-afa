@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:21:50.436753+00:00",
+  "generated_at": "2026-08-25T21:16:44.909323+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -134,69 +134,45 @@
     "metro": {
       "results": [
         {
-          "home": "23\n17\n8\n6\nV\nV\nD\nV\nE\n2\nVilla Dalmine",
-          "away": "59\n32",
+          "home": "08\nFinal\nItaliano",
+          "away": "CADU",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Carlos",
+          "away": "Flandria",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nReal Pilar",
+          "away": "Brown de Adrogué",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nUAI Urquiza",
+          "away": "Laferrere",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nVilla Dalmine",
+          "away": "Talleres RE",
           "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "16\n19\n16\n11\n5\nV\nV\nD\nV\nE\n3\nArsenal",
-          "away": "57\n32",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "18\n15\n12\n5\nE\nD\nE\nE\nE\n4\nTalleres RE",
-          "away": "57\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "20\n17\n15\n11\n5\nE\nE\nV\nE\nV\n6\nItaliano",
-          "away": "53\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n13\n14\n11\n7\nD\nV\nV\nE\nE\n7\nReal Pilar",
-          "away": "51\n32",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "9\n3\n11\n10\n10\nV\nE\nD\nE\nD\n10\nLaferrere",
-          "away": "43\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n1\n8\n13\n10\nE\nD\nV\nE\nE\n16\nSan Carlos",
-          "away": "36\n32",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "4\n8\n12\n12\nV\nV\nV\nE\nV\n17\nFlandria",
-          "away": "33\n32",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\n13\nD\nD\nV\nE\nE\n19\nBrown de Adrogué",
-          "away": "32\n32",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "13\n7\n11\n14\nE\nD\nV\nE\nV\n20\nCADU",
-          "away": "30\n32",
-          "score": "0-0",
+          "home": "Final\nArsenal",
+          "away": "Ituzaingó",
+          "score": "2-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "0\nTalleres RE\n20'\nArsenal\n1",
+          "home": "0\nTalleres RE\nFinal\nArsenal\n2",
           "away": "0\nItuzaingó",
           "meta": "próximo · 18:00"
         },
@@ -214,30 +190,6 @@
     },
     "primerac": {
       "results": [
-        {
-          "home": "11\n6\nD\nE\nE\nV\nE\n9\nJuventud Unida SM",
-          "away": "33\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n7\n11\nV\nD\nV\nD\nD\n11\nLeandro N. Alem",
-          "away": "28\n25",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "5\nV\nD\nD\nV\nD\n3\nLeones de Rosario FC",
-          "away": "37\n25",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "13\n6\n8\n11\nE\nV\nD\nD\nD\n14\nMuñiz",
-          "away": "22\n25",
-          "score": "1-0",
-          "meta": "resultado"
-        },
         {
           "home": "07\nFinal\nMuñiz",
           "away": "CA Atlas",
@@ -272,6 +224,30 @@
           "home": "Final\nParaguayo",
           "away": "Argentino Rosario",
           "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPuerto Nuevo",
+          "away": "Sacachispas",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "uventud Unida SM\nFinal\nDep. Español",
+          "away": "Leones de Rosario FC",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nMercedes",
+          "away": "Estrella del Sur",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCambaceres",
+          "away": "CA Lugano",
+          "score": "1-2",
           "meta": "resultado"
         }
       ],

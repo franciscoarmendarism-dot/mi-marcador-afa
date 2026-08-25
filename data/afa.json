@@ -1,32 +1,8 @@
 {
-  "generated_at": "2026-08-25T00:35:08.956597+00:00",
+  "generated_at": "2026-08-25T03:38:41.349553+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "5\n1\n2\n1\n3\nE\nD\nV\nD\nD\n9\nLanús",
-          "away": "7\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n2\n0\n4\nD\nD\nV\nV\nD\n15\nTalleres",
-          "away": "4\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nArgentinos",
-          "away": "13\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n3\n3\n2\n1\nV\nE\nV\nE\nV\n4\nCentral",
-          "away": "11\n6",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nAldosivi",
           "away": "Unión",
@@ -62,24 +38,36 @@
           "away": "Riestra",
           "score": "0-0",
           "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nSarmiento",
+          "away": "Estudiantes",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBarracas",
+          "away": "Platense",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBelgrano",
+          "away": "Defensa",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nRiver",
+          "away": "Vélez",
+          "score": "2-2",
+          "meta": "resultado"
         }
       ],
       "next": []
     },
     "nacional": {
       "results": [
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nFerro",
-          "away": "52\n26",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "8\n6\n9\n10\nV\nE\nE\nV\nD\n14\nAll Boys",
-          "away": "27\n26",
-          "score": "1-0",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nAcassuso",
           "away": "Godoy Cruz",
@@ -127,14 +115,66 @@
           "away": "Colón",
           "score": "1-2",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Martín",
+          "away": "Gimnasia y Tiro",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChaco For Ever",
+          "away": "Los Andes",
+          "score": "1-0",
+          "meta": "resultado"
         }
       ],
       "next": []
     },
     "metro": {
       "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
+      "next": [
+        {
+          "home": "00\nItaliano",
+          "away": "CADU",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nSan Carlos",
+          "away": "Flandria",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Real Pilar",
+          "away": "Brown de Adrogué",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "UAI Urquiza",
+          "away": "Laferrere",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Villa Dalmine",
+          "away": "Talleres RE",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Arsenal",
+          "away": "Ituzaingó",
+          "meta": "próximo · 18:00"
+        },
+        {
+          "home": "00\nCamioneros",
+          "away": "Comunicaciones",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Liniers",
+          "away": "Armenio",
+          "meta": "próximo · 17:00"
+        }
+      ]
     },
     "primerac": {
       "results": [

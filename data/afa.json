@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:36:03.562875+00:00",
+  "generated_at": "2026-08-26T03:43:46.894431+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -123,12 +123,6 @@
     },
     "metro": {
       "results": [
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nExcursionistas",
-          "away": "62\n32",
-          "score": "2-0",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nItaliano",
           "away": "CADU",

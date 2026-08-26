@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:26:19.371063+00:00",
+  "generated_at": "2026-08-26T16:08:42.202037+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -124,6 +124,18 @@
     "metro": {
       "results": [
         {
+          "home": "17\n17\n16\n9\n7\nE\nD\nV\nD\nE\n5\nCamioneros",
+          "away": "57\n32",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n9\n11\nV\nD\nD\nE\nV\n9\nComunicaciones",
+          "away": "44\n32",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
           "home": "08\nFinal\nItaliano",
           "away": "CADU",
           "score": "0-2",
@@ -158,12 +170,18 @@
           "away": "Ituzaingó",
           "score": "2-0",
           "meta": "resultado"
+        },
+        {
+          "home": "08\n3'\nCamioneros",
+          "away": "Comunicaciones",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nCamioneros",
-          "away": "Comunicaciones",
+          "home": "08\n3'\nCamioneros\n0",
+          "away": "0\nComunicaciones",
           "meta": "próximo · 13:00"
         },
         {

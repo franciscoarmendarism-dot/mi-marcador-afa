@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-08-28T23:45:45.106037+00:00",
+  "generated_at": "2026-08-29T04:37:42.192609+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "3\n3\n3\n1\n2\nE\nV\nD\nD\nV\n6\nUnión",
-          "away": "10\n7",
-          "score": "4-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "6\n4\n4\n1\n1\nE\nD\nV\nV\nV\n2\nSarmiento",
-          "away": "12\n7",
-          "score": "4-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "08\n89'\nUnión",
+          "home": "08\nFinal\nUnión",
           "away": "Sarmiento",
           "score": "4-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBoca Jrs.",
+          "away": "Lanús",
+          "score": "1-0",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "08\n89'\nUnión\n4",
-          "away": "1\nSarmiento",
-          "meta": "próximo · 19:30"
-        },
         {
           "home": "45\nRiestra",
           "away": "Vélez",

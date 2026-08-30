@@ -1,23 +1,271 @@
 {
-  "generated_at": "2026-08-30T14:03:40.259556+00:00",
+  "generated_at": "2026-08-30T18:14:11.126930+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "1\n2\n2\n2\nE\nD\nV\nD\nV\n11\nBanfield",
+          "away": "8\n7",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "4\n1\n3\n3\nE\nE\nD\nD\nE\n13\nRiver",
+          "away": "5\n7",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nUnión",
+          "away": "Sarmiento",
+          "score": "4-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBoca Jrs.",
+          "away": "Lanús",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nRiestra",
+          "away": "Vélez",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCentral",
+          "away": "Gimnasia",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nHuracán",
+          "away": "Estudiantes RC",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAtl. Tucumán",
+          "away": "Belgrano",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres",
+          "away": "Central Córdoba",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\n15'\nBanfield",
+          "away": "River",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "08\n15'\nBanfield\n0",
+          "away": "0\nRiver",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Argentinos",
+          "away": "Aldosivi",
+          "meta": "próximo · 17:15"
+        },
+        {
+          "home": "00\nEstudiantes",
+          "away": "Newell's",
+          "meta": "próximo · 17:00"
+        },
+        {
+          "home": "Defensa",
+          "away": "Platense",
+          "meta": "próximo · 19:15"
+        },
+        {
+          "home": "Tigre",
+          "away": "Barracas",
+          "meta": "próximo · 19:15"
+        }
+      ]
     },
     "nacional": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "0\n14\n12\n9\n5\nV\nV\nV\nE\nD\n4\nDep. Madryn",
+          "away": "44\n27",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "14\n11\n11\n5\nV\nV\nE\nV\nV\n5\nAlte. Brown",
+          "away": "42\n27",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n8\n8\n10\nE\nE\nV\nD\nV\n11\nCA Mitre",
+          "away": "30\n27",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n6\n11\n9\nD\nD\nV\nD\nD\n13\nCentral Norte",
+          "away": "29\n27",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nAcassuso",
+          "away": "Godoy Cruz",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Telmo",
+          "away": "Morón",
+          "score": "2-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Madryn",
+          "away": "CA Mitre",
+          "score": "4-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nTristan Suárez",
+          "away": "Agropecuario",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAlmagro",
+          "away": "Colegiales",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChicago",
+          "away": "Atlanta",
+          "score": "0-1",
+          "meta": "resultado"
+        }
+      ],
+      "next": []
     },
     "metro": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "9\n16\n12\n5\nE\nV\nE\nE\nV\n4\nVilla Dalmine",
+          "away": "60\n33",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n7\n12\n14\nE\nV\nV\nD\nD\n19\nFlandria",
+          "away": "33\n33",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nArsenal",
+          "away": "Excursionistas",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres RE",
+          "away": "UAI Urquiza",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nLaferrere",
+          "away": "Real Pilar",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBrown de Adrogué",
+          "away": "Liniers",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\nItaliano\nFinal\nCADU",
+          "away": "Camioneros",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nItuzaingó",
+          "away": "Dock Sud",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "08\nFinal\nArmenio",
+          "away": "San Carlos",
+          "score": "1-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": []
     },
     "primerac": {
       "results": [
+        {
+          "home": "1\n12\n6\n7\nD\nE\nV\nV\nD\n2\nCentro Español",
+          "away": "39\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n9\n6\nV\nD\nE\nV\nV\n4\nEstrella del Sur",
+          "away": "39\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "23\n3\n10\n9\n7\nD\nV\nV\nD\nE\n5\nMercedes",
+          "away": "37\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "19\n7\n9\n10\n6\nD\nE\nD\nV\nE\n7\nVictoriano",
+          "away": "36\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n6\nV\nD\nE\nV\nE\n8\nJuventud Unida SM",
+          "away": "36\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "24\n4\n9\n9\n8\nV\nD\nV\nE\nV\n9\nPuerto Nuevo",
+          "away": "36\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "7\n8\n11\nE\nV\nD\nV\nD\n11\nLeandro N. Alem",
+          "away": "28\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "9\n12\nE\nV\nD\nD\nE\n14\nArgentino Rosario",
+          "away": "22\n26",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "08\nFinal\nEl Porvenir",
           "away": "Claypole",
@@ -29,59 +277,33 @@
           "away": "Muñiz",
           "score": "4-0",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nCambaceres",
-          "away": "Paraguayo",
-          "score": "0-0",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nCentral Ballester",
-          "away": "Yupanqui",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Leandro N. Alem",
-          "away": "Puerto Nuevo",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Juventud Unida SM",
-          "away": "Mercedes",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Argentino Rosario",
-          "away": "Centro Español",
-          "meta": "próximo · 12:00"
-        },
-        {
           "home": "00\nSacachispas",
           "away": "JJ Urquiza",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Lugano",
           "away": "Berazategui",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Lamadrid",
           "away": "Cañuelas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Sp. Barracas",
           "away": "Dep. Español",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Fenix",
           "away": "Central Córdoba",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

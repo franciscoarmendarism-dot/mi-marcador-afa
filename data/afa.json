@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-08-31T02:04:44.542856+00:00",
+  "generated_at": "2026-08-31T09:00:30.337588+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "2\n2\nD\nE\nV\nV\nV\n7\nIndependiente Riv.",
-          "away": "11\n7",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "4\n1\n3\n3\nE\nE\nD\nD\nE\n14\nRacing",
-          "away": "5\n7",
-          "score": "2-1",
-          "meta": "resultado"
-        },
         {
           "home": "08\nFinal\nUnión",
           "away": "Sarmiento",
@@ -62,23 +50,35 @@
           "away": "River",
           "score": "2-3",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nArgentinos",
+          "away": "Aldosivi",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nIndependiente Riv.",
+          "away": "Racing",
+          "score": "3-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
           "home": "00\nEstudiantes",
           "away": "Newell's",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Defensa",
           "away": "Platense",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "Tigre",
           "away": "Barracas",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -249,27 +249,27 @@
         {
           "home": "00\nSacachispas",
           "away": "JJ Urquiza",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Lugano",
           "away": "Berazategui",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Lamadrid",
           "away": "Cañuelas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Sp. Barracas",
           "away": "Dep. Español",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Fenix",
           "away": "Central Córdoba",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

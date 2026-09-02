@@ -1,70 +1,60 @@
 {
-  "generated_at": "2026-09-01T22:53:17.487126+00:00",
+  "generated_at": "2026-09-02T01:46:54.943647+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "08\nFinal\nUnión",
+          "home": "45\nEstudiantes RC",
           "away": "Sarmiento",
-          "score": "4-1",
-          "meta": "resultado"
+          "meta": "próximo · 17:00"
         },
         {
-          "home": "Final\nBoca Jrs.",
-          "away": "Lanús",
-          "score": "1-0",
-          "meta": "resultado"
+          "home": "Belgrano",
+          "away": "Huracán",
+          "meta": "próximo · 17:00"
         },
         {
-          "home": "08\nFinal\nRiestra",
-          "away": "Vélez",
-          "score": "1-1",
-          "meta": "resultado"
+          "home": "30\nAldosivi",
+          "away": "Banfield",
+          "meta": "próximo · 12:30"
         },
         {
-          "home": "Final\nCentral",
-          "away": "Gimnasia",
-          "score": "1-2",
-          "meta": "resultado"
+          "home": "Gimnasia",
+          "away": "Tigre",
+          "meta": "próximo · 14:30"
         },
         {
-          "home": "Final\nHuracán",
-          "away": "Estudiantes RC",
-          "score": "1-1",
-          "meta": "resultado"
+          "home": "00\nSan Lorenzo",
+          "away": "Talleres",
+          "meta": "próximo · 19:15"
         },
         {
-          "home": "Final\nAtl. Tucumán",
-          "away": "Belgrano",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "45\nCentral",
+          "away": "Newell's",
+          "meta": "próximo · 15:00"
         },
         {
-          "home": "Final\nTalleres",
-          "away": "Central Córdoba",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "Central Córdoba",
+          "away": "Independiente",
+          "meta": "próximo · 15:00"
         },
         {
-          "home": "08\nFinal\nBanfield",
-          "away": "River",
-          "score": "2-3",
-          "meta": "resultado"
+          "home": "Lanús",
+          "away": "Defensa",
+          "meta": "próximo · 17:15"
         },
         {
-          "home": "Final\nArgentinos",
-          "away": "Aldosivi",
-          "score": "2-1",
-          "meta": "resultado"
+          "home": "River",
+          "away": "Independiente Riv.",
+          "meta": "próximo · 19:30"
         },
         {
-          "home": "Final\nIndependiente Riv.",
-          "away": "Racing",
-          "score": "3-1",
-          "meta": "resultado"
+          "home": "00\nBarracas",
+          "away": "Argentinos",
+          "meta": "próximo · 19:15"
         }
-      ],
-      "next": []
+      ]
     },
     "nacional": {
       "results": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:24:11.442841+00:00",
+  "generated_at": "2026-09-02T13:03:18.358984+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -160,6 +160,46 @@
       "results": [],
       "next": [
         {
+          "home": "00\nYupanqui",
+          "away": "Leones de Rosario FC",
+          "meta": "próximo · 17:00"
+        },
+        {
+          "home": "00\nVictoriano",
+          "away": "Argentino Rosario",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Centro Español",
+          "away": "Sacachispas",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Central Córdoba",
+          "away": "El Porvenir",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Dep. Español",
+          "away": "Fenix",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Cañuelas",
+          "away": "Luján",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "CA Atlas",
+          "away": "Lamadrid",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Claypole",
+          "away": "Central Ballester",
+          "meta": "próximo · 15:00"
+        },
+        {
           "home": "00\nBerazategui",
           "away": "Estrella del Sur",
           "meta": "próximo · 13:00"
@@ -167,16 +207,6 @@
         {
           "home": "JJ Urquiza",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Paraguayo",
-          "away": "Leandro N. Alem",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Puerto Nuevo",
-          "away": "CA Lugano",
           "meta": "próximo · 13:00"
         }
       ]

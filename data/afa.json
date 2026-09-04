@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:53:05.821173+00:00",
+  "generated_at": "2026-09-04T01:46:50.912437+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,52 +7,52 @@
         {
           "home": "45\nEstudiantes RC",
           "away": "Sarmiento",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Belgrano",
           "away": "Huracán",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "30\nAldosivi",
           "away": "Banfield",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 10:30"
         },
         {
           "home": "Gimnasia",
           "away": "Tigre",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "00\nSan Lorenzo",
           "away": "Talleres",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "45\nCentral",
           "away": "Newell's",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Central Córdoba",
           "away": "Independiente",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Lanús",
           "away": "Defensa",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 15:15"
         },
         {
           "home": "River",
           "away": "Independiente Riv.",
-          "meta": "próximo · 19:30"
+          "meta": "próximo · 17:30"
         },
         {
           "home": "00\nBarracas",
           "away": "Argentinos",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 17:15"
         }
       ]
     },
@@ -127,32 +127,32 @@
         {
           "home": "00\nItaliano",
           "away": "Flandria",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nReal Pilar",
           "away": "Talleres RE",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Villa Dalmine",
           "away": "Arsenal",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Liniers",
           "away": "Laferrere",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nDock Sud",
           "away": "Comunicaciones",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -162,17 +162,17 @@
         {
           "home": "00\nYupanqui",
           "away": "Leones de Rosario FC",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "00\nVictoriano",
           "away": "Argentino Rosario",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Centro Español",
           "away": "Sacachispas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Central Córdoba",
@@ -180,34 +180,34 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Cañuelas",
-          "away": "Luján",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Claypole",
-          "away": "Central Ballester",
-          "meta": "próximo · 15:00"
-        },
-        {
           "home": "00\nBerazategui",
           "away": "Estrella del Sur",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "Cañuelas",
+          "away": "Luján",
+          "meta": "próximo · 11:00"
         },
         {
           "home": "JJ Urquiza",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Paraguayo",
           "away": "Leandro N. Alem",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Puerto Nuevo",
           "away": "CA Lugano",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "Dep. Español",
+          "away": "Fenix",
+          "meta": "próximo · 11:00"
         }
       ]
     }

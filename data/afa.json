@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:29:32.115782+00:00",
+  "generated_at": "2026-09-04T12:59:30.740742+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -140,6 +140,11 @@
           "meta": "próximo · 17:00"
         },
         {
+          "home": "00\nDock Sud",
+          "away": "Comunicaciones",
+          "meta": "próximo · 11:00"
+        },
+        {
           "home": "00\nSan Carlos",
           "away": "Brown de Adrogué",
           "meta": "próximo · 13:00"
@@ -148,11 +153,6 @@
           "home": "Liniers",
           "away": "Laferrere",
           "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nDock Sud",
-          "away": "Comunicaciones",
-          "meta": "próximo · 18:00"
         }
       ]
     },

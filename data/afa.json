@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:47:44.272072+00:00",
+  "generated_at": "2026-09-05T07:10:51.607808+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -26,49 +26,106 @@
         {
           "home": "30\nAldosivi",
           "away": "Banfield",
-          "meta": "próximo · 10:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Gimnasia",
           "away": "Tigre",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 14:30"
         },
         {
           "home": "00\nSan Lorenzo",
           "away": "Talleres",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "45\nCentral",
           "away": "Newell's",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Central Córdoba",
           "away": "Independiente",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Lanús",
           "away": "Defensa",
-          "meta": "próximo · 15:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "River",
           "away": "Independiente Riv.",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nBarracas",
           "away": "Argentinos",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
     "nacional": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "Final\nFerro",
+          "away": "CA Mitre",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nSan Telmo",
+          "away": "Los Andes",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "30\nChacarita",
+          "away": "Atlanta",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Acassuso",
+          "away": "All Boys",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "00\nAgropecuario",
+          "away": "Atlético Rafaela",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "San Miguel",
+          "away": "Godoy Cruz",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "30\nSan Martín",
+          "away": "Midland",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "Temperley",
+          "away": "Colegiales",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "Chaco For Ever",
+          "away": "Estudiantes",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "Dep. Madryn",
+          "away": "Ciudad De Bolivar",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "Maipú",
+          "away": "Patronato",
+          "meta": "próximo · 15:00"
+        }
+      ]
     },
     "metro": {
       "results": [],
@@ -76,32 +133,32 @@
         {
           "home": "00\nItaliano",
           "away": "Flandria",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nReal Pilar",
           "away": "Talleres RE",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Villa Dalmine",
           "away": "Arsenal",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nDock Sud",
           "away": "Comunicaciones",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Liniers",
           "away": "Laferrere",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     },
@@ -124,47 +181,47 @@
         {
           "home": "00\nVictoriano",
           "away": "Argentino Rosario",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Centro Español",
           "away": "Sacachispas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Central Córdoba",
           "away": "El Porvenir",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "00\nBerazategui",
           "away": "Estrella del Sur",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "JJ Urquiza",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Paraguayo",
           "away": "Leandro N. Alem",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Puerto Nuevo",
           "away": "CA Lugano",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Dep. Español",
           "away": "Fenix",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Cañuelas",
           "away": "Luján",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-09-05T12:12:02.557300+00:00",
+  "generated_at": "2026-09-05T16:59:43.502187+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "1\n3\n1\n3\nE\nD\nD\nD\nV\n11\nBanfield",
+          "away": "8\n8",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n1\n2\n4\nD\nE\nD\nD\nD\n15\nAldosivi",
+          "away": "3\n8",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "09\nFinal\nEstudiantes RC",
           "away": "Sarmiento",
@@ -20,12 +32,18 @@
           "away": "Riestra",
           "score": "1-1",
           "meta": "resultado"
+        },
+        {
+          "home": "09\n28'\nAldosivi",
+          "away": "Banfield",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "30\nAldosivi",
-          "away": "Banfield",
+          "home": "09\n28'\nAldosivi\n0",
+          "away": "0\nBanfield",
           "meta": "próximo · 10:30"
         },
         {

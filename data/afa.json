@@ -1,32 +1,8 @@
 {
-  "generated_at": "2026-09-04T22:37:09.442510+00:00",
+  "generated_at": "2026-09-05T01:47:44.272072+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "6\n2\n3\n2\n2\nE\nV\nV\nD\nE\n6\nPlatense",
-          "away": "11\n8",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n2\n4\n1\nV\nE\nE\nE\nV\n10\nRiestra",
-          "away": "8\n8",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "12\n3\n5\n0\n3\nV\nD\nV\nV\nV\n3\nBelgrano",
-          "away": "12\n8",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n2\n2\n4\n1\nE\nE\nV\nD\nE\n9\nHuracán",
-          "away": "10\n8",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nEstudiantes RC",
           "away": "Sarmiento",
@@ -34,15 +10,15 @@
           "meta": "resultado"
         },
         {
-          "home": "32'\nBelgrano",
+          "home": "Final\nBelgrano",
           "away": "Huracán",
-          "score": "0-0",
+          "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "33'\nPlatense",
+          "home": "Final\nPlatense",
           "away": "Riestra",
-          "score": "1-0",
+          "score": "1-1",
           "meta": "resultado"
         }
       ],
@@ -91,58 +67,8 @@
     },
     "nacional": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nSan Telmo",
-          "away": "Los Andes",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "30\nChacarita",
-          "away": "Atlanta",
-          "meta": "próximo · 11:30"
-        },
-        {
-          "home": "Acassuso",
-          "away": "All Boys",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nAgropecuario",
-          "away": "Atlético Rafaela",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "San Miguel",
-          "away": "Godoy Cruz",
-          "meta": "próximo · 11:30"
-        },
-        {
-          "home": "30\nSan Martín",
-          "away": "Midland",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Temperley",
-          "away": "Colegiales",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Chaco For Ever",
-          "away": "Estudiantes",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Dep. Madryn",
-          "away": "Ciudad De Bolivar",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Maipú",
-          "away": "Patronato",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
     },
     "metro": {
       "results": [],
@@ -182,27 +108,15 @@
     "primerac": {
       "results": [
         {
-          "home": "24\n1\n9\n11\n6\nV\nD\nE\nE\nV\n8\nMercedes",
-          "away": "36\n27",
-          "score": "0-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "15\n5\n8\n12\n6\nE\nV\nD\nE\nV\n10\nCambaceres",
-          "away": "32\n27",
-          "score": "0-2",
-          "meta": "resultado"
-        },
-        {
           "home": "09\nFinal\nYupanqui",
           "away": "Leones de Rosario FC",
           "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "34'\nMercedes",
+          "home": "Final\nMercedes",
           "away": "Cambaceres",
-          "score": "0-2",
+          "score": "0-3",
           "meta": "resultado"
         }
       ],

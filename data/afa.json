@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-06T01:41:45.631593+00:00",
+  "generated_at": "2026-09-06T07:22:52.877105+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "7\n7\n5\n1\n2\nE\nV\nV\nV\nD\n2\nVélez",
-          "away": "16\n8",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "4\n2\n3\n3\nD\nV\nE\nV\nD\n12\nEstudiantes",
-          "away": "7\n8",
-          "score": "1-0",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nEstudiantes RC",
           "away": "Sarmiento",
@@ -52,7 +40,7 @@
           "meta": "resultado"
         },
         {
-          "home": "69'\nVélez",
+          "home": "Final\nVélez",
           "away": "Estudiantes",
           "score": "1-0",
           "meta": "resultado"

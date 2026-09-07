@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-06T22:31:28.998198+00:00",
+  "generated_at": "2026-09-07T01:39:26.480484+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "3\n2\nE\nD\nE\nV\nV\n7\nIndependiente Riv.",
-          "away": "12\n8",
-          "score": "0-0",
+          "home": "12\n0\n5\n0\n3\nV\nV\nD\nD\nV\n4\nAtl. Tucumán",
+          "away": "13\n8",
+          "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "1\n3\n1\n3\nE\nD\nD\nD\nV\n11\nRiver",
-          "away": "8\n8",
-          "score": "0-0",
+          "home": "4\n1\n2\n5\nV\nD\nD\nE\nD\n15\nRacing",
+          "away": "5\n8",
+          "score": "0-1",
           "meta": "resultado"
         },
         {
@@ -66,14 +66,9 @@
       ],
       "next": [
         {
-          "home": "0\nDefensa\n17'\nRiver\n0",
-          "away": "0\nIndependiente Riv.",
-          "meta": "próximo · 19:30"
-        },
-        {
           "home": "00\nBarracas",
           "away": "Argentinos",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 17:15"
         }
       ]
     },

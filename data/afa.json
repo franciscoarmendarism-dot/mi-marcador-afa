@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-09-07T18:54:54.166570+00:00",
+  "generated_at": "2026-09-07T23:08:13.304137+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nArgentinos",
+          "away": "17\n8",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n3\n2\n3\nD\nV\nE\nD\nV\n9\nBarracas",
+          "away": "11\n8",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "09\nFinal\nEstudiantes RC",
           "away": "Sarmiento",
@@ -50,35 +62,95 @@
           "away": "Newell's",
           "score": "1-1",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nCentral Córdoba",
-          "away": "Independiente",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nLanús",
-          "away": "Defensa",
-          "score": "1-0",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nBarracas",
-          "away": "Argentinos",
+          "home": "09\n51'\nBarracas\n0",
+          "away": "0\nArgentinos",
           "meta": "próximo · 19:15"
         }
       ]
     },
     "nacional": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "Final\nFerro",
+          "away": "CA Mitre",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nSan Telmo",
+          "away": "Los Andes",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChacarita",
+          "away": "Atlanta",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAcassuso",
+          "away": "All Boys",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColón",
+          "away": "Morón",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nAgropecuario",
+          "away": "Atlético Rafaela",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Miguel",
+          "away": "Godoy Cruz",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Martín",
+          "away": "Midland",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTemperley",
+          "away": "Colegiales",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChaco For Ever",
+          "away": "Estudiantes",
+          "score": "1-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": []
     },
     "metro": {
       "results": [
+        {
+          "home": "17\n12\n5\nV\nV\nV\nE\nD\n2\nExcursionistas",
+          "away": "63\n34",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n4\n19\n11\nV\nD\nD\nE\nD\n22\nItuzaingó",
+          "away": "15\n34",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "09\nFinal\nItaliano",
           "away": "Flandria",
@@ -120,24 +192,18 @@
           "away": "Laferrere",
           "score": "2-2",
           "meta": "resultado"
+        },
+        {
+          "home": "09\n9'\nExcursionistas",
+          "away": "Ituzaingó",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": []
     },
     "primerac": {
       "results": [
-        {
-          "home": "3\n9\n10\n8\nE\nD\nV\nV\nE\n7\nSp. Barracas",
-          "away": "36\n27",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "15\n6\n8\n12\nD\nE\nV\nD\nD\n14\nMuñiz",
-          "away": "23\n27",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nYupanqui",
           "away": "Leones de Rosario FC",
@@ -184,6 +250,18 @@
           "home": "Final\nParaguayo",
           "away": "Leandro N. Alem",
           "score": "4-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPuerto Nuevo",
+          "away": "CA Lugano",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Español",
+          "away": "Fenix",
+          "score": "1-0",
           "meta": "resultado"
         }
       ],

@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-08T01:50:35.905055+00:00",
+  "generated_at": "2026-09-08T07:30:51.904319+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "6\n5\n4\n4\n0\nV\nE\nE\nE\nE\n3\nInstituto",
-          "away": "16\n8",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "9\n0\n4\n2\n2\nD\nV\nV\nE\nV\n5\nUnión",
-          "away": "13\n8",
-          "score": "3-1",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nEstudiantes RC",
           "away": "Sarmiento",
@@ -61,6 +49,18 @@
           "home": "09\nFinal\nCentral",
           "away": "Newell's",
           "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCentral Córdoba",
+          "away": "Independiente",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nLanús",
+          "away": "Defensa",
+          "score": "1-0",
           "meta": "resultado"
         }
       ],

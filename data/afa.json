@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-07T23:08:13.304137+00:00",
+  "generated_at": "2026-09-08T01:50:35.905055+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "G\nE\nP\nÚltimas\n1\nArgentinos",
-          "away": "17\n8",
-          "score": "0-0",
+          "home": "6\n5\n4\n4\n0\nV\nE\nE\nE\nE\n3\nInstituto",
+          "away": "16\n8",
+          "score": "3-1",
           "meta": "resultado"
         },
         {
-          "home": "1\n3\n2\n3\nD\nV\nE\nD\nV\n9\nBarracas",
-          "away": "11\n8",
-          "score": "0-0",
+          "home": "9\n0\n4\n2\n2\nD\nV\nV\nE\nV\n5\nUnión",
+          "away": "13\n8",
+          "score": "3-1",
           "meta": "resultado"
         },
         {
@@ -64,13 +64,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "09\n51'\nBarracas\n0",
-          "away": "0\nArgentinos",
-          "meta": "próximo · 19:15"
-        }
-      ]
+      "next": []
     },
     "nacional": {
       "results": [
@@ -138,69 +132,44 @@
       "next": []
     },
     "metro": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "17\n12\n5\nV\nV\nV\nE\nD\n2\nExcursionistas",
-          "away": "63\n34",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "12\n4\n19\n11\nV\nD\nD\nE\nD\n22\nItuzaingó",
-          "away": "15\n34",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nItaliano",
-          "away": "Flandria",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "0\nArmenio\nFinal\nReal Pilar",
-          "away": "Talleres RE",
-          "score": "0-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nVilla Dalmine",
-          "away": "Arsenal",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nMerlo",
-          "away": "CADU",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nDock Sud",
+          "home": "00\nItuzaingó",
           "away": "Comunicaciones",
-          "score": "0-1",
-          "meta": "resultado"
+          "meta": "próximo · 18:00"
         },
         {
-          "home": "Final\nSan Carlos",
-          "away": "Brown de Adrogué",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "00\nLaferrere",
+          "away": "San Carlos",
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "Final\nLiniers",
-          "away": "Laferrere",
-          "score": "2-2",
-          "meta": "resultado"
+          "home": "Armenio",
+          "away": "Italiano",
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "09\n9'\nExcursionistas",
-          "away": "Ituzaingó",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "CADU",
+          "away": "Dock Sud",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Arsenal",
+          "away": "UAI Urquiza",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Talleres RE",
+          "away": "Liniers",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "00\nFlandria",
+          "away": "Camioneros",
+          "meta": "próximo · 13:00"
         }
-      ],
-      "next": []
+      ]
     },
     "primerac": {
       "results": [

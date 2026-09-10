@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:15:30.069529+00:00",
+  "generated_at": "2026-09-10T22:50:31.797241+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -162,7 +162,26 @@
       ]
     },
     "primerac": {
-      "results": [],
+      "results": [
+        {
+          "home": "16\n5\n8\n13\n6\nE\nE\nV\nD\nE\n9\nMercedes",
+          "away": "36\n28",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n13\n9\n5\nV\nV\nV\nD\nD\n3\nDep. Español",
+          "away": "44\n28",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nET\nMercedes",
+          "away": "Dep. Español",
+          "score": "0-1",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
           "home": "00\nLuján",

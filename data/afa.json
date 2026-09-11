@@ -1,20 +1,169 @@
 {
-  "generated_at": "2026-09-11T17:58:52.708634+00:00",
+  "generated_at": "2026-09-11T20:25:27.653249+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nVélez",
+          "away": "17\n9",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n3\n4\n1\n3\nV\nV\nD\nD\nV\n6\nNewell's",
+          "away": "13\n9",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\n25'\nNewell's",
+          "away": "Vélez",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "09\n25'\nNewell's\n0",
+          "away": "0\nVélez",
+          "meta": "próximo · 17:15"
+        },
+        {
+          "home": "45\nEstudiantes",
+          "away": "Platense",
+          "meta": "próximo · 18:00"
+        },
+        {
+          "home": "45\nTigre",
+          "away": "Central",
+          "meta": "próximo · 12:45"
+        },
+        {
+          "home": "Sarmiento",
+          "away": "Belgrano",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Argentinos",
+          "away": "Gimnasia",
+          "meta": "próximo · 17:15"
+        },
+        {
+          "home": "00\nBanfield",
+          "away": "Barracas",
+          "meta": "próximo · 17:00"
+        },
+        {
+          "home": "Riestra",
+          "away": "Lanús",
+          "meta": "próximo · 19:15"
+        }
+      ]
     },
     "nacional": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "Final\nFerro",
+          "away": "CA Mitre",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nSan Telmo",
+          "away": "Los Andes",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChacarita",
+          "away": "Atlanta",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAcassuso",
+          "away": "All Boys",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColón",
+          "away": "Morón",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nAgropecuario",
+          "away": "Atlético Rafaela",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Miguel",
+          "away": "Godoy Cruz",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Martín",
+          "away": "Midland",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTemperley",
+          "away": "Colegiales",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChaco For Ever",
+          "away": "Estudiantes",
+          "score": "1-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": []
     },
     "metro": {
       "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
+      "next": [
+        {
+          "home": "00\nItuzaingó",
+          "away": "Comunicaciones",
+          "meta": "próximo · 18:00"
+        },
+        {
+          "home": "00\nLaferrere",
+          "away": "San Carlos",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Armenio",
+          "away": "Italiano",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "CADU",
+          "away": "Dock Sud",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Arsenal",
+          "away": "UAI Urquiza",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Talleres RE",
+          "away": "Liniers",
+          "meta": "próximo · 14:00"
+        },
+        {
+          "home": "00\nFlandria",
+          "away": "Camioneros",
+          "meta": "próximo · 13:00"
+        }
+      ]
     },
     "primerac": {
       "results": [
@@ -29,47 +178,47 @@
         {
           "home": "00\nLuján",
           "away": "Paraguayo",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Estrella del Sur",
           "away": "Yupanqui",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Muñiz",
           "away": "Leandro N. Alem",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Juventud Unida SM",
           "away": "El Porvenir",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Central Ballester",
           "away": "Puerto Nuevo",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Cañuelas",
           "away": "Victoriano",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Berazategui",
           "away": "CA Atlas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nJJ Urquiza",
           "away": "Lamadrid",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Cambaceres",
           "away": "Sp. Barracas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

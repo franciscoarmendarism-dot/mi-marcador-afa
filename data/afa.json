@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-12T01:56:39.318190+00:00",
+  "generated_at": "2026-09-12T07:24:57.860643+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "5\n3\n5\n1\n2\nV\nE\nV\nV\nV\n5\nBoca Jrs.",
-          "away": "14\n9",
-          "score": "3-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n1\n5\nE\nD\nV\nD\nD\n14\nCentral Córdoba",
-          "away": "7\n9",
-          "score": "3-0",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nNewell's",
           "away": "Vélez",
@@ -22,9 +10,9 @@
           "meta": "resultado"
         },
         {
-          "home": "69'\nBoca Jrs.",
+          "home": "Final\nBoca Jrs.",
           "away": "Central Córdoba",
-          "score": "3-0",
+          "score": "3-1",
           "meta": "resultado"
         }
       ],
@@ -79,18 +67,6 @@
     "nacional": {
       "results": [
         {
-          "home": "G\nE\nP\nÚltimas\n1\nTristan Suárez",
-          "away": "52\n28",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "14\n7\n7\nV\nE\nE\nV\nD\n4\nGimnasia y Tiro",
-          "away": "45\n29",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
           "home": "Final\nFerro",
           "away": "CA Mitre",
           "score": "0-0",
@@ -137,13 +113,58 @@
           "away": "Midland",
           "score": "3-2",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nTemperley",
+          "away": "Colegiales",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChaco For Ever",
+          "away": "Estudiantes",
+          "score": "1-0",
+          "meta": "resultado"
         }
       ],
       "next": []
     },
     "metro": {
-      "results": [],
-      "next": []
+      "results": [
+        {
+          "home": "09\nFinal\nItuzaingó",
+          "away": "Comunicaciones",
+          "score": "2-2",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "00\nLaferrere",
+          "away": "San Carlos",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Armenio",
+          "away": "Italiano",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "CADU",
+          "away": "Dock Sud",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Arsenal",
+          "away": "UAI Urquiza",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Talleres RE",
+          "away": "Liniers",
+          "meta": "próximo · 14:00"
+        }
+      ]
     },
     "primerac": {
       "results": [
@@ -191,12 +212,7 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "00\nJJ Urquiza",
-          "away": "Lamadrid",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Cambaceres",
+          "home": "00\nCambaceres",
           "away": "Sp. Barracas",
           "meta": "próximo · 13:00"
         }

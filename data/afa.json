@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:24:57.860643+00:00",
+  "generated_at": "2026-09-12T12:28:56.906872+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -163,6 +163,11 @@
           "home": "Talleres RE",
           "away": "Liniers",
           "meta": "próximo · 14:00"
+        },
+        {
+          "home": "00\nFlandria",
+          "away": "Camioneros",
+          "meta": "próximo · 13:00"
         }
       ]
     },

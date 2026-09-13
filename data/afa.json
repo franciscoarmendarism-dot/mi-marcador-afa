@@ -1,15 +1,148 @@
 {
-  "generated_at": "2026-09-13T13:31:09.176521+00:00",
+  "generated_at": "2026-09-13T17:46:26.969560+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "09\nFinal\nNewell's",
+          "away": "Vélez",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBoca Jrs.",
+          "away": "Central Córdoba",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nIndependiente Riv.",
+          "away": "Aldosivi",
+          "score": "4-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nEstudiantes",
+          "away": "Platense",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAtl. Tucumán",
+          "away": "River",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres",
+          "away": "Unión",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\n1'\nTigre",
+          "away": "Central",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "09\n1'\nTigre\n0",
+          "away": "0\nCentral",
+          "meta": "próximo · 10:45"
+        },
+        {
+          "home": "Sarmiento",
+          "away": "Belgrano",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Argentinos",
+          "away": "Gimnasia",
+          "meta": "próximo · 15:15"
+        },
+        {
+          "home": "Independiente",
+          "away": "San Lorenzo",
+          "meta": "próximo · 17:30"
+        },
+        {
+          "home": "00\nBanfield",
+          "away": "Barracas",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Riestra",
+          "away": "Lanús",
+          "meta": "próximo · 17:15"
+        }
+      ]
     },
     "nacional": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "Final\nFerro",
+          "away": "CA Mitre",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nSan Telmo",
+          "away": "Los Andes",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChacarita",
+          "away": "Atlanta",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAcassuso",
+          "away": "All Boys",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColón",
+          "away": "Morón",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nAgropecuario",
+          "away": "Atlético Rafaela",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Miguel",
+          "away": "Godoy Cruz",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Martín",
+          "away": "Midland",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTemperley",
+          "away": "Colegiales",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChaco For Ever",
+          "away": "Estudiantes",
+          "score": "1-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": []
     },
     "metro": {
       "results": [],
@@ -75,14 +208,9 @@
       ],
       "next": [
         {
-          "home": "00\nJJ Urquiza",
-          "away": "Lamadrid",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Cambaceres",
+          "home": "00\nCambaceres",
           "away": "Sp. Barracas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         }
       ]
     }

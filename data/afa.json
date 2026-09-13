@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:41:45.729175+00:00",
+  "generated_at": "2026-09-13T01:49:54.112695+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -32,14 +32,15 @@
           "away": "River",
           "score": "1-2",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres",
+          "away": "Unión",
+          "score": "2-1",
+          "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "1\nPlatense\nFinal\nAtl. Tucumán\n1",
-          "away": "2\nRiver",
-          "meta": "próximo · 18:00"
-        },
         {
           "home": "45\nTigre",
           "away": "Central",
@@ -173,6 +174,12 @@
           "home": "Final\nTalleres RE",
           "away": "Liniers",
           "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nExcursionistas",
+          "away": "Villa Dalmine",
+          "score": "3-0",
           "meta": "resultado"
         }
       ],

@@ -1,173 +1,35 @@
 {
-  "generated_at": "2026-09-15T13:56:22.046020+00:00",
+  "generated_at": "2026-09-15T18:34:03.495331+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [
-        {
-          "home": "09\nFinal\nNewell's",
-          "away": "Vélez",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nBoca Jrs.",
-          "away": "Central Córdoba",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nIndependiente Riv.",
-          "away": "Aldosivi",
-          "score": "4-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nEstudiantes",
-          "away": "Platense",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAtl. Tucumán",
-          "away": "River",
-          "score": "1-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nTalleres",
-          "away": "Unión",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nTigre",
-          "away": "Central",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nSarmiento",
-          "away": "Belgrano",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nArgentinos",
-          "away": "Gimnasia",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nIndependiente",
-          "away": "San Lorenzo",
-          "score": "1-1",
-          "meta": "resultado"
-        }
-      ],
-      "next": []
+      "results": [],
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
     },
     "nacional": {
-      "results": [
-        {
-          "home": "09\nFinal\nGimnasia y Tiro",
-          "away": "Tristan Suárez",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nAtlanta",
-          "away": "Güemes",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nColegiales",
-          "away": "Chicago",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAll Boys",
-          "away": "San Telmo",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAlmagro",
-          "away": "Maipú",
-          "score": "2-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCiudad De Bolivar",
-          "away": "Central Norte",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nQuilmes",
-          "away": "San Martín",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nLos Andes",
-          "away": "San Miguel",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAlte. Brown",
-          "away": "Ferro",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nEstudiantes",
-          "away": "Acassuso",
-          "score": "1-0",
-          "meta": "resultado"
-        }
-      ],
-      "next": []
+      "results": [],
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
     },
     "metro": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nCamioneros",
-          "away": "Armenio",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Merlo",
-          "away": "Flandria",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Italiano",
-          "away": "Brown de Adrogué",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "00\nReal Pilar",
-          "away": "Arsenal",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "UAI Urquiza",
-          "away": "Excursionistas",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "00\nSan Carlos",
-          "away": "Talleres RE",
-          "meta": "próximo · 12:00"
-        }
-      ]
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
     },
     "primerac": {
       "results": [
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nSacachispas",
+          "away": "47\n28",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n6\n10\n12\nE\nD\nD\nE\nE\n13\nClaypole",
+          "away": "27\n28",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "09\nFinal\nMercedes",
           "away": "Dep. Español",
@@ -214,18 +76,6 @@
           "home": "Final\nBerazategui",
           "away": "CA Atlas",
           "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCA Lugano",
-          "away": "Leones de Rosario FC",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nJJ Urquiza",
-          "away": "Lamadrid",
-          "score": "0-0",
           "meta": "resultado"
         }
       ],

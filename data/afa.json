@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T02:14:45.621700+00:00",
+  "generated_at": "2026-09-15T08:06:20.474257+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -135,39 +135,34 @@
       "results": [],
       "next": [
         {
-          "home": "00\nComunicaciones",
-          "away": "CADU",
-          "meta": "próximo · 12:00"
-        },
-        {
           "home": "00\nCamioneros",
           "away": "Armenio",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Merlo",
           "away": "Flandria",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Italiano",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "San Carlos",
-          "away": "Talleres RE",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nReal Pilar",
           "away": "Arsenal",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "UAI Urquiza",
           "away": "Excursionistas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nSan Carlos",
+          "away": "Talleres RE",
+          "meta": "próximo · 13:00"
         }
       ]
     },

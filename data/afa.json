@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:08:20.571075+00:00",
+  "generated_at": "2026-09-15T02:14:45.621700+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -64,18 +64,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nBanfield",
-          "away": "Barracas",
-          "meta": "próximo · 17:00"
-        },
-        {
-          "home": "Riestra",
-          "away": "Lanús",
-          "meta": "próximo · 19:15"
-        }
-      ]
+      "next": []
     },
     "nacional": {
       "results": [

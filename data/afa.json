@@ -1,85 +1,169 @@
 {
-  "generated_at": "2026-09-15T18:34:03.495331+00:00",
+  "generated_at": "2026-09-16T02:07:01.999827+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
+      "next": [
+        {
+          "home": "00\nCentral Córdoba",
+          "away": "Defensa",
+          "meta": "próximo · 19:15"
+        },
+        {
+          "home": "30\nGimnasia",
+          "away": "Banfield",
+          "meta": "próximo · 12:30"
+        },
+        {
+          "home": "45\nUnión",
+          "away": "Independiente",
+          "meta": "próximo · 17:00"
+        },
+        {
+          "home": "River",
+          "away": "Huracán",
+          "meta": "próximo · 19:15"
+        },
+        {
+          "home": "45\nSan Lorenzo",
+          "away": "Boca Jrs.",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Central",
+          "away": "Argentinos",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Platense",
+          "away": "Newell's",
+          "meta": "próximo · 17:15"
+        },
+        {
+          "home": "Belgrano",
+          "away": "Estudiantes RC",
+          "meta": "próximo · 19:30"
+        },
+        {
+          "home": "30\nAldosivi",
+          "away": "Atl. Tucumán",
+          "meta": "próximo · 17:00"
+        },
+        {
+          "home": "Barracas",
+          "away": "Independiente Riv.",
+          "meta": "próximo · 19:15"
+        }
+      ]
     },
     "nacional": {
       "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
+      "next": [
+        {
+          "home": "00\nTristan Suárez",
+          "away": "Atlanta",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Morón",
+          "away": "Godoy Cruz",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Agropecuario",
+          "away": "Gimnasia y Tiro",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Chacarita",
+          "away": "Quilmes",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "30\nColón",
+          "away": "Los Andes",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Chicago",
+          "away": "Patronato",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Güemes",
+          "away": "Midland",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "San Martín",
+          "away": "Colegiales",
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Chaco For Ever",
+          "away": "Alte. Brown",
+          "meta": "próximo · 15:00"
+        }
+      ]
     },
     "metro": {
       "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
+      "next": []
     },
     "primerac": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "G\nE\nP\nÚltimas\n1\nSacachispas",
-          "away": "47\n28",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "00\nCambaceres",
+          "away": "JJ Urquiza",
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "8\n6\n10\n12\nE\nD\nD\nE\nE\n13\nClaypole",
-          "away": "27\n28",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "Juventud Unida SM",
+          "away": "Centro Español",
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "09\nFinal\nMercedes",
-          "away": "Dep. Español",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nLuján",
-          "away": "Paraguayo",
-          "score": "3-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nEstrella del Sur",
-          "away": "Yupanqui",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nMuñiz",
-          "away": "Leandro N. Alem",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nJuventud Unida SM",
-          "away": "El Porvenir",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCentral Ballester",
-          "away": "Puerto Nuevo",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCañuelas",
+          "home": "Sacachispas",
           "away": "Victoriano",
-          "score": "2-0",
-          "meta": "resultado"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "Final\nBerazategui",
+          "home": "Argentino Rosario",
+          "away": "Berazategui",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "CA Lugano",
+          "away": "Estrella del Sur",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Luján",
           "away": "CA Atlas",
-          "score": "2-0",
-          "meta": "resultado"
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Sp. Barracas",
+          "away": "Cañuelas",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Fenix",
+          "away": "Muñiz",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "El Porvenir",
+          "away": "Dep. Español",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Central Ballester",
+          "away": "Central Córdoba",
+          "meta": "próximo · 13:00"
         }
-      ],
-      "next": []
+      ]
     }
   }
 }

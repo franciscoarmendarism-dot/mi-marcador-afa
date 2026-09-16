@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:59:54.869626+00:00",
+  "generated_at": "2026-09-16T13:49:35.117978+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -145,18 +145,8 @@
       "results": [],
       "next": [
         {
-          "home": "00\nCambaceres",
-          "away": "JJ Urquiza",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Juventud Unida SM",
+          "home": "00\nJuventud Unida SM",
           "away": "Centro Español",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Sacachispas",
-          "away": "Victoriano",
           "meta": "próximo · 13:00"
         },
         {
@@ -165,18 +155,8 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "CA Lugano",
-          "away": "Estrella del Sur",
-          "meta": "próximo · 13:00"
-        },
-        {
           "home": "Luján",
           "away": "CA Atlas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Sp. Barracas",
-          "away": "Cañuelas",
           "meta": "próximo · 13:00"
         },
         {
@@ -185,13 +165,33 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "El Porvenir",
-          "away": "Dep. Español",
+          "home": "Central Ballester",
+          "away": "Central Córdoba",
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Central Ballester",
-          "away": "Central Córdoba",
+          "home": "00\nPuerto Nuevo",
+          "away": "Paraguayo",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Leandro N. Alem",
+          "away": "Mercedes",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nSacachispas",
+          "away": "Victoriano",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Sp. Barracas",
+          "away": "Cañuelas",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "El Porvenir",
+          "away": "Dep. Español",
           "meta": "próximo · 13:00"
         }
       ]

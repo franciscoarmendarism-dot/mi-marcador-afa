@@ -1,200 +1,25 @@
 {
-  "generated_at": "2026-09-16T13:49:35.117978+00:00",
+  "generated_at": "2026-09-16T18:31:54.987130+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nCentral Córdoba",
-          "away": "Defensa",
-          "meta": "próximo · 19:15"
-        },
-        {
-          "home": "30\nGimnasia",
-          "away": "Banfield",
-          "meta": "próximo · 12:30"
-        },
-        {
-          "home": "45\nUnión",
-          "away": "Independiente",
-          "meta": "próximo · 17:00"
-        },
-        {
-          "home": "River",
-          "away": "Huracán",
-          "meta": "próximo · 19:15"
-        },
-        {
-          "home": "45\nSan Lorenzo",
-          "away": "Boca Jrs.",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Central",
-          "away": "Argentinos",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Platense",
-          "away": "Newell's",
-          "meta": "próximo · 17:15"
-        },
-        {
-          "home": "Belgrano",
-          "away": "Estudiantes RC",
-          "meta": "próximo · 19:30"
-        },
-        {
-          "home": "30\nAldosivi",
-          "away": "Atl. Tucumán",
-          "meta": "próximo · 17:00"
-        },
-        {
-          "home": "Barracas",
-          "away": "Independiente Riv.",
-          "meta": "próximo · 19:15"
-        }
-      ]
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/liga-profesional/hc\", waiting until \"networkidle\"\n"
     },
     "nacional": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nTristan Suárez",
-          "away": "Atlanta",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Morón",
-          "away": "Godoy Cruz",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Agropecuario",
-          "away": "Gimnasia y Tiro",
-          "meta": "próximo · 13:30"
-        },
-        {
-          "home": "Chacarita",
-          "away": "Quilmes",
-          "meta": "próximo · 13:30"
-        },
-        {
-          "home": "30\nColón",
-          "away": "Los Andes",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Chicago",
-          "away": "Patronato",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Güemes",
-          "away": "Midland",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "San Martín",
-          "away": "Colegiales",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Chaco For Ever",
-          "away": "Alte. Brown",
-          "meta": "próximo · 15:00"
-        }
-      ]
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
     },
     "metro": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nCamioneros",
-          "away": "Armenio",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Merlo",
-          "away": "Flandria",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Italiano",
-          "away": "Brown de Adrogué",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nReal Pilar",
-          "away": "Arsenal",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "UAI Urquiza",
-          "away": "Excursionistas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nSan Carlos",
-          "away": "Talleres RE",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
     },
     "primerac": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nJuventud Unida SM",
-          "away": "Centro Español",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Argentino Rosario",
-          "away": "Berazategui",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Luján",
-          "away": "CA Atlas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Fenix",
-          "away": "Muñiz",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Central Ballester",
-          "away": "Central Córdoba",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nPuerto Nuevo",
-          "away": "Paraguayo",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Leandro N. Alem",
-          "away": "Mercedes",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nSacachispas",
-          "away": "Victoriano",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Sp. Barracas",
-          "away": "Cañuelas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "El Porvenir",
-          "away": "Dep. Español",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-c/ffjb\", waiting until \"networkidle\"\n"
     }
   }
 }

@@ -1,12 +1,31 @@
 {
-  "generated_at": "2026-09-18T20:14:10.598217+00:00",
+  "generated_at": "2026-09-18T22:54:11.015849+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
+      "results": [
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nDefensa",
+          "away": "20\n10",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\n2\n5\nV\nD\nE\nE\nD\n15\nCentral Córdoba",
+          "away": "7\n10",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "4'\nCentral Córdoba",
+          "away": "Defensa",
+          "score": "1-2",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "00\nCentral Córdoba",
-          "away": "Defensa",
+          "home": "4'\nCentral Córdoba\n1",
+          "away": "2\nDefensa",
           "meta": "próximo · 18:15"
         },
         {
@@ -149,7 +168,26 @@
       ]
     },
     "primerac": {
-      "results": [],
+      "results": [
+        {
+          "home": "18\n3\n8\n13\n7\nD\nE\nE\nV\nD\n10\nCambaceres",
+          "away": "36\n29",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "3\n9\n9\n11\nV\nV\nE\nV\nD\n11\nJJ Urquiza",
+          "away": "29\n29",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\n67'\nCambaceres",
+          "away": "JJ Urquiza",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
           "home": "00\nJuventud Unida SM",

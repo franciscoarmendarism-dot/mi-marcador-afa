@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-19T02:02:20.361708+00:00",
+  "generated_at": "2026-09-19T07:37:00.952449+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "8\n5\n5\n3\n1\nE\nE\nV\nE\nD\n2\nSarmiento",
-          "away": "16\n10",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n3\n3\n3\nE\nE\nE\nD\nD\n12\nRacing",
-          "away": "8\n10",
-          "score": "3-1",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nCentral Córdoba",
           "away": "Defensa",
@@ -22,7 +10,7 @@
           "meta": "resultado"
         },
         {
-          "home": "87'\nRacing",
+          "home": "Final\nRacing",
           "away": "Sarmiento",
           "score": "3-1",
           "meta": "resultado"
@@ -205,7 +193,7 @@
         },
         {
           "home": "00\nSacachispas",
-          "away": "Victoriano",
+          "away": "Victoriano\nVer más\nDeportivo",
           "meta": "próximo · 13:00"
         },
         {

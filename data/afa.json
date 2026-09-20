@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-19T22:33:37.804669+00:00",
+  "generated_at": "2026-09-20T02:06:48.854426+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "15\n0\n5\n2\n3\nE\nE\nV\nV\nD\n3\nHuracán",
-          "away": "16\n10",
-          "score": "0-1",
+          "home": "G\nE\nP\nÚltimas\n1\nInstituto",
+          "away": "22\n10",
+          "score": "3-1",
           "meta": "resultado"
         },
         {
-          "home": "5\n2\n3\n4\n2\nD\nV\nE\nE\nV\n9\nRiver",
-          "away": "13\n10",
-          "score": "0-1",
+          "home": "5\n2\n3\n4\nD\nE\nD\nV\nE\n14\nTalleres",
+          "away": "8\n10",
+          "score": "3-1",
           "meta": "resultado"
         },
         {
@@ -40,18 +40,19 @@
           "meta": "resultado"
         },
         {
-          "home": "33'\nRiver",
+          "home": "Final\nRiver",
           "away": "Huracán",
-          "score": "0-1",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "88'\nInstituto",
+          "away": "Talleres",
+          "score": "3-1",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "2\nIndependiente\n33'\nRiver\n0",
-          "away": "1\nHuracán",
-          "meta": "próximo · 19:15"
-        },
         {
           "home": "45\nSan Lorenzo",
           "away": "Boca Jrs.",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T15:26:16.266385+00:00",
+  "generated_at": "2026-09-21T21:19:49.501694+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -66,87 +66,21 @@
       ],
       "next": [
         {
-          "home": "30\nAldosivi",
-          "away": "Atl. Tucumán",
-          "meta": "próximo · 16:00"
+          "home": "09\nFinal\nAldosivi\n1",
+          "away": "0\nAtl. Tucumán",
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Barracas",
           "away": "Independiente Riv.",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
     "nacional": {
-      "results": [
-        {
-          "home": "09\nFinal\nAcassuso",
-          "away": "CA Mitre",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nSan Telmo",
-          "away": "Estudiantes",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nFerro",
-          "away": "Ciudad De Bolivar",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nSan Miguel",
-          "away": "All Boys",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nTemperley",
-          "away": "Almagro",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nChacarita",
-          "away": "Quilmes",
-          "score": "3-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nMorón",
-          "away": "Godoy Cruz",
-          "score": "1-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAgropecuario",
-          "away": "Gimnasia y Tiro",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nColón",
-          "away": "Los Andes",
-          "score": "3-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nGüemes",
-          "away": "Midland",
-          "score": "0-2",
-          "meta": "resultado"
-        }
-      ],
-      "next": [
-        {
-          "home": "00\nTristan Suárez",
-          "away": "Atlanta",
-          "meta": "próximo · 16:00"
-        }
-      ]
+      "results": [],
+      "next": [],
+      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-nacional/ebj\", waiting until \"networkidle\"\n"
     },
     "metro": {
       "results": [],
@@ -154,37 +88,37 @@
         {
           "home": "00\nVilla Dalmine",
           "away": "UAI Urquiza",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Excursionistas",
           "away": "Real Pilar",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nArsenal",
           "away": "Liniers",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Italiano",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Brown de Adrogué",
           "away": "Camioneros",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Armenio",
           "away": "Merlo",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Flandria",
           "away": "Dock Sud",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },
@@ -237,35 +171,21 @@
           "away": "Leones de Rosario FC",
           "score": "1-1",
           "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nSacachispas",
+          "away": "Victoriano",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSp. Barracas",
+          "away": "Cañuelas",
+          "score": "0-2",
+          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nSacachispas",
-          "away": "Victoriano",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Sp. Barracas",
-          "away": "Cañuelas",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Fenix",
-          "away": "Muñiz",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "El Porvenir",
-          "away": "Dep. Español",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Central Ballester",
-          "away": "Central Córdoba",
-          "meta": "próximo · 12:00"
-        }
-      ]
+      "next": []
     }
   }
 }

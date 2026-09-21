@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-21T02:07:31.851451+00:00",
+  "generated_at": "2026-09-21T08:18:44.859396+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "7\n6\n7\n1\n2\nV\nV\nD\nV\nE\n2\nVélez",
-          "away": "20\n10",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "12\n1\n4\n1\n5\nD\nV\nV\nV\nE\n10\nTigre",
-          "away": "12\n10",
-          "score": "2-1",
-          "meta": "resultado"
-        },
         {
           "home": "09\nFinal\nCentral Córdoba",
           "away": "Defensa",
@@ -62,18 +50,30 @@
           "away": "Argentinos",
           "score": "1-0",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nPlatense",
+          "away": "Newell's",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBelgrano",
+          "away": "Estudiantes RC",
+          "score": "2-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
           "home": "30\nAldosivi",
           "away": "Atl. Tucumán",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Barracas",
           "away": "Independiente Riv.",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -144,7 +144,7 @@
         {
           "home": "00\nTristan Suárez",
           "away": "Atlanta",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -154,37 +154,37 @@
         {
           "home": "00\nVilla Dalmine",
           "away": "UAI Urquiza",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Excursionistas",
           "away": "Real Pilar",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nArsenal",
           "away": "Liniers",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Italiano",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Brown de Adrogué",
           "away": "Camioneros",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Armenio",
           "away": "Merlo",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Flandria",
           "away": "Dock Sud",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },
@@ -243,27 +243,27 @@
         {
           "home": "00\nSacachispas",
           "away": "Victoriano",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Sp. Barracas",
           "away": "Cañuelas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Fenix",
           "away": "Muñiz",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "El Porvenir",
           "away": "Dep. Español",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Central Ballester",
           "away": "Central Córdoba",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

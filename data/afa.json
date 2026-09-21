@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:18:44.859396+00:00",
+  "generated_at": "2026-09-21T15:26:16.266385+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,12 +68,12 @@
         {
           "home": "30\nAldosivi",
           "away": "Atl. Tucumán",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Barracas",
           "away": "Independiente Riv.",
-          "meta": "próximo · 19:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -144,7 +144,7 @@
         {
           "home": "00\nTristan Suárez",
           "away": "Atlanta",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -154,37 +154,37 @@
         {
           "home": "00\nVilla Dalmine",
           "away": "UAI Urquiza",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Excursionistas",
           "away": "Real Pilar",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nArsenal",
           "away": "Liniers",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Italiano",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Brown de Adrogué",
           "away": "Camioneros",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Armenio",
           "away": "Merlo",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Flandria",
           "away": "Dock Sud",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },
@@ -243,27 +243,27 @@
         {
           "home": "00\nSacachispas",
           "away": "Victoriano",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Sp. Barracas",
           "away": "Cañuelas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Fenix",
           "away": "Muñiz",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "El Porvenir",
           "away": "Dep. Español",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Central Ballester",
           "away": "Central Córdoba",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     }

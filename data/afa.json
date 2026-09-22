@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:01:26.495460+00:00",
+  "generated_at": "2026-09-22T13:44:57.582203+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -137,37 +137,37 @@
         {
           "home": "00\nVilla Dalmine",
           "away": "UAI Urquiza",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Excursionistas",
           "away": "Real Pilar",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "00\nArsenal",
           "away": "Liniers",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Italiano",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Brown de Adrogué",
           "away": "Camioneros",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Armenio",
           "away": "Merlo",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Flandria",
           "away": "Dock Sud",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         }
       ]
     },
@@ -177,52 +177,52 @@
         {
           "home": "00\nDep. Español",
           "away": "Central Ballester",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Estrella del Sur",
           "away": "Argentino Rosario",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Victoriano",
           "away": "Juventud Unida SM",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Mercedes",
           "away": "Puerto Nuevo",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Central Córdoba",
           "away": "Claypole",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Paraguayo",
           "away": "CA Lugano",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Muñiz",
           "away": "El Porvenir",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Cañuelas",
           "away": "Fenix",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Atlas",
           "away": "Sp. Barracas",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nBerazategui",
           "away": "Sacachispas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         }
       ]
     }

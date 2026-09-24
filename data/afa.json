@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:53:43.172221+00:00",
+  "generated_at": "2026-09-24T13:52:47.664674+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -55,7 +55,12 @@
       "results": [],
       "next": [
         {
-          "home": "30\nEstudiantes",
+          "home": "30\nAlte. Brown",
+          "away": "Acassuso",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "Estudiantes",
           "away": "San Miguel",
           "meta": "próximo · 14:00"
         },
@@ -87,11 +92,6 @@
         {
           "home": "Atlanta",
           "away": "Agropecuario",
-          "meta": "próximo · 13:30"
-        },
-        {
-          "home": "Alte. Brown",
-          "away": "Acassuso",
           "meta": "próximo · 13:30"
         },
         {
@@ -140,33 +140,38 @@
       "results": [],
       "next": [
         {
-          "home": "00\nDep. Español",
-          "away": "Central Ballester",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Estrella del Sur",
+          "home": "00\nEstrella del Sur",
           "away": "Argentino Rosario",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Victoriano",
           "away": "Juventud Unida SM",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Central Córdoba",
+          "away": "Claypole",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Paraguayo",
+          "away": "CA Lugano",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Dep. Español",
+          "away": "Central Ballester",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Yupanqui",
+          "away": "Lamadrid",
           "meta": "próximo · 15:00"
         },
         {
           "home": "Mercedes",
           "away": "Puerto Nuevo",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Central Córdoba",
-          "away": "Claypole",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Paraguayo",
-          "away": "CA Lugano",
           "meta": "próximo · 15:00"
         },
         {
@@ -177,11 +182,6 @@
         {
           "home": "Cañuelas",
           "away": "Fenix",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "CA Atlas",
-          "away": "Sp. Barracas",
           "meta": "próximo · 15:00"
         },
         {

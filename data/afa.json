@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:16:40.468512+00:00",
+  "generated_at": "2026-09-25T14:15:52.662020+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -170,23 +170,23 @@
           "meta": "próximo · 15:00"
         },
         {
-          "home": "Mercedes",
-          "away": "Puerto Nuevo",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Muñiz",
-          "away": "El Porvenir",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Cañuelas",
+          "home": "00\nCañuelas",
           "away": "Fenix",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "00\nBerazategui",
-          "away": "Sacachispas",
+          "home": "CA Atlas",
+          "away": "Sp. Barracas",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nJJ Urquiza",
+          "away": "Leandro N. Alem",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Centro Español",
+          "away": "Cambaceres",
           "meta": "próximo · 13:00"
         }
       ]

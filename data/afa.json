@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:40:36.553277+00:00",
+  "generated_at": "2026-09-26T02:21:46.970661+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -109,39 +109,15 @@
     "metro": {
       "results": [
         {
-          "home": "G\nE\nP\nÚltimas\n1\nExcursionistas",
-          "away": "74\n37",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n14\n16\n11\n9\nE\nD\nV\nV\nD\n7\nReal Pilar",
-          "away": "58\n37",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n9\n14\n13\nE\nV\nD\nD\nD\n17\nCADU",
-          "away": "40\n37",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "15\n4\n19\n13\nD\nV\nD\nD\nE\n22\nItuzaingó",
-          "away": "15\n37",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\n84'\nItuzaingó",
+          "home": "09\nFinal\nItuzaingó",
           "away": "CADU",
           "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "39'\nExcursionistas",
+          "home": "Final\nExcursionistas",
           "away": "Real Pilar",
-          "score": "1-0",
+          "score": "3-0",
           "meta": "resultado"
         }
       ],
@@ -171,19 +147,7 @@
     "primerac": {
       "results": [
         {
-          "home": "24\n8\n11\n12\n6\nE\nE\nV\nE\nV\n4\nMercedes",
-          "away": "43\n30",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "8\n4\n9\n13\n7\nV\nD\nE\nE\nV\n9\nPuerto Nuevo",
-          "away": "38\n30",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\n80'\nMercedes",
+          "home": "09\nFinal\nMercedes",
           "away": "Puerto Nuevo",
           "score": "1-0",
           "meta": "resultado"
@@ -216,18 +180,13 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Yupanqui",
-          "away": "Lamadrid",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "00\nCañuelas",
-          "away": "Fenix",
+          "home": "00\nBerazategui",
+          "away": "Sacachispas",
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Berazategui",
-          "away": "Sacachispas",
+          "home": "Cañuelas",
+          "away": "Fenix",
           "meta": "próximo · 13:00"
         },
         {

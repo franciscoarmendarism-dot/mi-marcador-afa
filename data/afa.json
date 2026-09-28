@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T02:21:16.949674+00:00",
+  "generated_at": "2026-09-28T09:03:46.244220+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,47 +7,47 @@
         {
           "home": "15\nIndependiente",
           "away": "Instituto",
-          "meta": "próximo · 19:30"
+          "meta": "próximo · 18:30"
         },
         {
           "home": "Independiente Riv.",
           "away": "Gimnasia",
-          "meta": "próximo · 19:30"
+          "meta": "próximo · 18:30"
         },
         {
           "home": "45\nDefensa",
           "away": "San Lorenzo",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Atl. Tucumán",
           "away": "Barracas",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "45\nHuracán",
           "away": "Aldosivi",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Talleres",
           "away": "Belgrano",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 16:15"
         },
         {
           "home": "Argentinos",
           "away": "Tigre",
-          "meta": "próximo · 19:30"
+          "meta": "próximo · 18:30"
         },
         {
           "home": "45\nRiestra",
           "away": "Central Córdoba",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Vélez",
           "away": "Platense",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -230,12 +230,12 @@
         {
           "home": "00\nCentro Español",
           "away": "Cambaceres",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "JJ Urquiza",
           "away": "Leandro N. Alem",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     }

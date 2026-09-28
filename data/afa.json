@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:28:04.106867+00:00",
+  "generated_at": "2026-09-28T02:21:16.949674+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -114,13 +114,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "Godoy Cruz\nFinal\nGimnasia y Tiro\n1",
-          "away": "0\nAtlético Rafaela",
-          "meta": "próximo · 19:00"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [

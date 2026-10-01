@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:38:48.111273+00:00",
+  "generated_at": "2026-10-01T22:05:39.701899+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,47 +7,47 @@
         {
           "home": "15\nIndependiente",
           "away": "Instituto",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "Independiente Riv.",
           "away": "Gimnasia",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "45\nDefensa",
           "away": "San Lorenzo",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Atl. Tucumán",
           "away": "Barracas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "45\nHuracán",
           "away": "Aldosivi",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Talleres",
           "away": "Belgrano",
-          "meta": "próximo · 15:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Argentinos",
           "away": "Tigre",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "45\nRiestra",
           "away": "Central Córdoba",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Vélez",
           "away": "Platense",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -57,52 +57,52 @@
         {
           "home": "00\nTristan Suárez",
           "away": "Quilmes",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nMorón",
           "away": "All Boys",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Colón",
           "away": "Estudiantes",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "San Miguel",
           "away": "CA Mitre",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nAgropecuario",
           "away": "Midland",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Chacarita",
           "away": "Patronato",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "San Telmo",
           "away": "Alte. Brown",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Güemes",
           "away": "Colegiales",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "San Martín",
           "away": "Almagro",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Chaco For Ever",
           "away": "Defensores",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         }
       ]
     },
@@ -112,32 +112,32 @@
         {
           "home": "00\nDock Sud",
           "away": "Armenio",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Camioneros",
           "away": "Laferrere",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Arsenal",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Liniers",
           "away": "Excursionistas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nComunicaciones",
           "away": "Flandria",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nUAI Urquiza",
           "away": "Ituzaingó",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -147,52 +147,52 @@
         {
           "home": "00\nSacachispas",
           "away": "Estrella del Sur",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Paraguayo",
           "away": "Mercedes",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Puerto Nuevo",
           "away": "JJ Urquiza",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Cambaceres",
           "away": "Victoriano",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Juventud Unida SM",
           "away": "Berazategui",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CA Lugano",
           "away": "Argentino Rosario",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "El Porvenir",
           "away": "Cañuelas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Central Ballester",
           "away": "Muñiz",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nFenix",
           "away": "CA Atlas",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Claypole",
           "away": "Dep. Español",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     }

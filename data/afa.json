@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:53:21.858844+00:00",
+  "generated_at": "2026-10-01T09:33:29.888963+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -110,7 +110,12 @@
       "results": [],
       "next": [
         {
-          "home": "00\nCamioneros",
+          "home": "00\nDock Sud",
+          "away": "Armenio",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Camioneros",
           "away": "Laferrere",
           "meta": "próximo · 13:00"
         },
@@ -122,11 +127,6 @@
         {
           "home": "Liniers",
           "away": "Excursionistas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Dock Sud",
-          "away": "Armenio",
           "meta": "próximo · 13:00"
         },
         {
@@ -190,8 +190,8 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "00\nClaypole",
-          "away": "Dep. Español",
+          "home": "00\nFenix",
+          "away": "CA Atlas",
           "meta": "próximo · 12:00"
         }
       ]

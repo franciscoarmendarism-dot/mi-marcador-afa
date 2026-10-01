@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:40:40.685779+00:00",
+  "generated_at": "2026-10-01T02:53:21.858844+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -133,6 +133,11 @@
           "home": "00\nComunicaciones",
           "away": "Flandria",
           "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nUAI Urquiza",
+          "away": "Ituzaingó",
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -185,9 +190,9 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "00\nCentral Córdoba",
-          "away": "Yupanqui",
-          "meta": "próximo · 13:00"
+          "home": "00\nClaypole",
+          "away": "Dep. Español",
+          "meta": "próximo · 12:00"
         }
       ]
     }

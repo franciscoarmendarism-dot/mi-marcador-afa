@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:08:15.469433+00:00",
+  "generated_at": "2026-10-02T16:58:01.754722+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -133,6 +133,11 @@
           "home": "00\nComunicaciones",
           "away": "Flandria",
           "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nUAI Urquiza",
+          "away": "Ituzaingó",
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -155,13 +160,13 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "El Porvenir",
-          "away": "Cañuelas",
+          "home": "Luján",
+          "away": "Lamadrid",
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Central Ballester",
-          "away": "Muñiz",
+          "home": "El Porvenir",
+          "away": "Cañuelas",
           "meta": "próximo · 13:00"
         },
         {

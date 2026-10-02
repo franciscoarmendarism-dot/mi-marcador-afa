@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:55:52.595473+00:00",
+  "generated_at": "2026-10-02T09:08:15.469433+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -87,10 +87,10 @@
         {
           "home": "San Telmo",
           "away": "Alte. Brown",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:30"
         },
         {
-          "home": "Güemes",
+          "home": "00\nGüemes",
           "away": "Colegiales",
           "meta": "próximo · 15:00"
         },
@@ -102,7 +102,7 @@
         {
           "home": "Chaco For Ever",
           "away": "Defensores",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 15:30"
         }
       ]
     },
@@ -133,11 +133,6 @@
           "home": "00\nComunicaciones",
           "away": "Flandria",
           "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nUAI Urquiza",
-          "away": "Ituzaingó",
-          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -145,12 +140,7 @@
       "results": [],
       "next": [
         {
-          "home": "00\nSacachispas",
-          "away": "Estrella del Sur",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Paraguayo",
+          "home": "00\nParaguayo",
           "away": "Mercedes",
           "meta": "próximo · 13:00"
         },
@@ -160,18 +150,8 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "Cambaceres",
-          "away": "Victoriano",
-          "meta": "próximo · 13:00"
-        },
-        {
           "home": "Juventud Unida SM",
           "away": "Berazategui",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "CA Lugano",
-          "away": "Argentino Rosario",
           "meta": "próximo · 13:00"
         },
         {
@@ -182,6 +162,16 @@
         {
           "home": "Central Ballester",
           "away": "Muñiz",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nSacachispas",
+          "away": "Estrella del Sur",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "CA Lugano",
+          "away": "Argentino Rosario",
           "meta": "próximo · 13:00"
         },
         {

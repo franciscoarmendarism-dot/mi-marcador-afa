@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:42:10.343230+00:00",
+  "generated_at": "2026-10-03T08:40:46.448738+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -149,6 +149,11 @@
           "home": "00\nComunicaciones",
           "away": "Flandria",
           "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nUAI Urquiza",
+          "away": "Ituzaingó",
+          "meta": "próximo · 17:00"
         }
       ]
     },

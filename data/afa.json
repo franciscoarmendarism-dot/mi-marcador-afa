@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:25:34.375384+00:00",
+  "generated_at": "2026-10-04T03:13:39.370417+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -44,27 +44,27 @@
         {
           "home": "45\nHuracán",
           "away": "Aldosivi",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Talleres",
           "away": "Belgrano",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 15:15"
         },
         {
           "home": "Argentinos",
           "away": "Tigre",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 17:30"
         },
         {
           "home": "45\nRiestra",
           "away": "Central Córdoba",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Vélez",
           "away": "Platense",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         }
       ]
     },
@@ -111,42 +111,42 @@
         {
           "home": "00\nAgropecuario",
           "away": "Midland",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 11:30"
         },
         {
           "home": "Chacarita",
           "away": "Patronato",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 11:30"
         },
         {
           "home": "San Telmo",
           "away": "Alte. Brown",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "00\nGüemes",
           "away": "Colegiales",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "San Martín",
           "away": "Almagro",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Chaco For Ever",
           "away": "Defensores",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Atlético Rafaela",
           "away": "Atlanta",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Godoy Cruz",
           "away": "Los Andes",
-          "meta": "próximo · 15:30"
+          "meta": "próximo · 14:30"
         }
       ]
     },
@@ -187,12 +187,12 @@
         {
           "home": "00\nComunicaciones",
           "away": "Flandria",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nUAI Urquiza",
           "away": "Ituzaingó",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         }
       ]
     },
@@ -215,42 +215,42 @@
         {
           "home": "00\nPuerto Nuevo",
           "away": "JJ Urquiza",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Sacachispas",
           "away": "Estrella del Sur",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "CA Lugano",
           "away": "Argentino Rosario",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Mercedes\nAplazado\nEl Porvenir",
           "away": "Cañuelas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Luján",
           "away": "Lamadrid",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nFenix",
           "away": "CA Atlas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Claypole",
           "away": "Dep. Español",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Central Ballester",
           "away": "Muñiz",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         }
       ]
     }

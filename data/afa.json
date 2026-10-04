@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-04T20:36:08.540517+00:00",
+  "generated_at": "2026-10-04T23:41:29.787424+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "2\n2\n4\n4\nE\nD\nE\nE\nE\n13\nTalleres",
-          "away": "9\n11",
-          "score": "0-0",
+          "home": "G\nE\nP\nÚltimas\n1\nArgentinos",
+          "away": "21\n11",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
-          "home": "16\n0\n5\n3\n3\nE\nE\nV\nV\nD\n6\nBelgrano",
-          "away": "17\n11",
-          "score": "0-0",
+          "home": "9\n0\n3\n4\n4\nD\nD\nV\nE\nE\n11\nTigre",
+          "away": "12\n11",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
@@ -58,21 +58,16 @@
           "meta": "resultado"
         },
         {
-          "home": "36'\nTalleres",
+          "home": "Final\nTalleres",
           "away": "Belgrano",
-          "score": "0-0",
+          "score": "0-1",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "0\nAldosivi\n36'\nTalleres\n0",
-          "away": "0\nBelgrano",
-          "meta": "próximo · 17:15"
-        },
-        {
-          "home": "Argentinos",
-          "away": "Tigre",
+          "home": "1\nBelgrano\n64'\nArgentinos\n2",
+          "away": "1\nTigre",
           "meta": "próximo · 19:30"
         },
         {
@@ -90,78 +85,67 @@
     "nacional": {
       "results": [
         {
-          "home": "9\n13\n9\nV\nD\nE\nE\nE\n10\nChaco For Ever",
-          "away": "39\n32",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "8\n9\n10\n13\nV\nV\nD\nV\nE\n12\nDefensores",
-          "away": "36\n32",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n9\n9\n14\nE\nD\nD\nD\nV\n14\nCentral Norte",
-          "away": "35\n32",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "40\n8\n15\n9\n8\nD\nE\nE\nV\nV\n4\nAtlanta",
-          "away": "53\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "27\n5\n13\n9\n9\nV\nD\nE\nV\nV\n7\nSan Martín",
-          "away": "46\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "31\n7\n12\n8\n11\nV\nE\nE\nE\nD\n9\nColegiales",
-          "away": "44\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "8\n12\nV\nD\nV\nD\nV\n10\nAtlético Rafaela",
-          "away": "43\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "6\n9\n9\n13\nV\nE\nD\nV\nD\n15\nAlmagro",
-          "away": "36\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "9\n9\n6\n17\nV\nD\nV\nD\nD\n18\nGüemes",
-          "away": "24\n32",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
           "home": "10\nFinal\nFerro",
           "away": "Dep. Madryn",
           "score": "0-2",
           "meta": "resultado"
-        }
-      ],
-      "next": [
-        {
-          "home": "0\nDefensores\n5'\nAtlético Rafaela\n0",
-          "away": "0\nAtlanta",
-          "meta": "próximo · 16:00"
         },
         {
-          "home": "Godoy Cruz",
-          "away": "Los Andes",
-          "meta": "próximo · 16:30"
+          "home": "10\nFinal\nTristan Suárez",
+          "away": "Quilmes",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nMorón",
+          "away": "All Boys",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColón",
+          "away": "Estudiantes",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Miguel",
+          "away": "CA Mitre",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAcassuso",
+          "away": "Ciudad De Bolivar",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nAgropecuario",
+          "away": "Midland",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nChacarita",
+          "away": "Patronato",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Telmo",
+          "away": "Alte. Brown",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nGüemes",
+          "away": "Colegiales",
+          "score": "0-1",
+          "meta": "resultado"
         }
-      ]
+      ],
+      "next": []
     },
     "metro": {
       "results": [

@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-10-09T09:45:42.495316+00:00",
+  "generated_at": "2026-10-09T17:39:48.366464+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
+      "results": [
+        {
+          "home": "16\n0\n5\n3\n3\nE\nE\nE\nV\nV\n7\nSarmiento",
+          "away": "17\n11",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n2\n4\n5\nE\nE\nD\nD\nD\n14\nAldosivi",
+          "away": "9\n12",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nIndependiente",
+          "away": "Instituto",
+          "score": "1-4",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nIndependiente Riv.",
+          "away": "Gimnasia",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBoca Jrs.",
+          "away": "Unión",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nDefensa",
+          "away": "San Lorenzo",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAtl. Tucumán",
+          "away": "Barracas",
+          "score": "2-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nNewell's",
+          "away": "Lanús",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nHuracán",
+          "away": "Aldosivi",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres",
+          "away": "Belgrano",
+          "score": "0-1",
+          "meta": "resultado"
+        }
+      ],
       "next": []
     },
     "nacional": {
@@ -82,63 +143,22 @@
           "home": "Flandria",
           "away": "CADU",
           "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Ituzaingó",
+          "away": "Arg. de Quilmes",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "00\nBrown de Adrogué",
+          "away": "Dock Sud",
+          "meta": "próximo · 13:00"
         }
       ]
     },
     "primerac": {
       "results": [],
-      "next": [
-        {
-          "home": "00\nArgentino Rosario",
-          "away": "Sacachispas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Estrella del Sur",
-          "away": "Juventud Unida SM",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Berazategui",
-          "away": "Cambaceres",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Victoriano",
-          "away": "Leandro N. Alem",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Centro Español",
-          "away": "Puerto Nuevo",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "JJ Urquiza",
-          "away": "Paraguayo",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Mercedes",
-          "away": "CA Lugano",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Muñiz",
-          "away": "Claypole",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Cañuelas",
-          "away": "Central Ballester",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "CA Atlas",
-          "away": "El Porvenir",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": []
     }
   }
 }

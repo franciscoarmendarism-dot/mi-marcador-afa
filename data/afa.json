@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:44:27.488108+00:00",
+  "generated_at": "2026-10-11T16:55:50.135756+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -97,47 +97,47 @@
         {
           "home": "00\nDep. Madryn",
           "away": "Chaco For Ever",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Defensores",
           "away": "Acassuso",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Alte. Brown",
           "away": "San Miguel",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Estudiantes",
           "away": "Morón",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nCA Mitre",
           "away": "Colón",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Temperley",
           "away": "Chicago",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Patronato",
           "away": "Güemes",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Central Norte",
           "away": "Ferro",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Maipú",
           "away": "San Martín",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 16:30"
         }
       ]
     },
@@ -190,7 +190,7 @@
         {
           "home": "00\nUAI Urquiza",
           "away": "Real Pilar",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },

@@ -1,32 +1,8 @@
 {
-  "generated_at": "2026-10-11T21:10:36.475387+00:00",
+  "generated_at": "2026-10-12T03:03:09.048326+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "6\n2\n4\n6\nE\nE\nE\nD\nD\n14\nPlatense",
-          "away": "10\n12",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nArgentinos",
-          "away": "24\n12",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "10\n6\n7\n3\n2\nV\nD\nE\nE\nV\n2\nCentral",
-          "away": "22\n12",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n4\nV\nV\nD\nE\nE\n8\nIndependiente Riv.",
-          "away": "18\n12",
-          "score": "1-0",
-          "meta": "resultado"
-        },
         {
           "home": "10\nFinal\nIndependiente",
           "away": "Instituto",
@@ -62,42 +38,36 @@
           "away": "Lanús",
           "score": "0-0",
           "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nHuracán",
+          "away": "Aldosivi",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres",
+          "away": "Belgrano",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nArgentinos",
+          "away": "Tigre",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nEstudiantes RC",
+          "away": "Racing",
+          "score": "1-2",
+          "meta": "resultado"
         }
       ],
       "next": []
     },
     "nacional": {
       "results": [
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nFerro",
-          "away": "62\n33",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n15\n11\nE\nV\nD\nD\nE\n15\nCentral Norte",
-          "away": "34\n33",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "14\n9\n10\nV\nE\nD\nV\nV\n6\nGimnasia y Tiro",
-          "away": "49\n33",
-          "score": "2-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "30\n4\n13\n10\n10\nD\nV\nD\nE\nV\n7\nMaipú",
-          "away": "48\n33",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "31\n1\n13\n8\n12\nE\nV\nV\nD\nV\n9\nSan Martín",
-          "away": "46\n33",
-          "score": "1-1",
-          "meta": "resultado"
-        },
         {
           "home": "10\nFinal\nColegiales",
           "away": "Tristan Suárez",
@@ -127,15 +97,39 @@
           "away": "Chaco For Ever",
           "score": "1-2",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nDefensores",
+          "away": "Acassuso",
+          "score": "0-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAlte. Brown",
+          "away": "San Miguel",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nEstudiantes",
+          "away": "Morón",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\nGimnasia y Tiro\nFinal\nTemperley",
+          "away": "Chicago",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPatronato",
+          "away": "Güemes",
+          "score": "2-0",
+          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "1\nFerro\n47'\nMaipú\n1",
-          "away": "1\nSan Martín",
-          "meta": "próximo · 15:30"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [
@@ -186,7 +180,7 @@
         {
           "home": "00\nUAI Urquiza",
           "away": "Real Pilar",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         }
       ]
     },

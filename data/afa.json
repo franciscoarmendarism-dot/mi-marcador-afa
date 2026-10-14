@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-14T19:01:06.164659+00:00",
+  "generated_at": "2026-10-14T23:31:38.899317+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "11\n5\n6\n4\n2\nE\nV\nD\nE\nE\n4\nSarmiento",
+          "away": "22\n12",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "4\n5\n3\n4\nD\nE\nV\nV\nD\n9\nRiver",
+          "away": "16\n12",
+          "score": "1-0",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nIndependiente",
           "away": "Instituto",
@@ -49,18 +61,6 @@
           "home": "Final\nTalleres",
           "away": "Belgrano",
           "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nArgentinos",
-          "away": "Tigre",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nEstudiantes RC",
-          "away": "Racing",
-          "score": "1-2",
           "meta": "resultado"
         }
       ],

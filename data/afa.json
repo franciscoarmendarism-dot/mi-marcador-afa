@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:07:14.885413+00:00",
+  "generated_at": "2026-10-14T14:08:19.996909+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -72,52 +72,52 @@
         {
           "home": "00\nAtlético Rafaela",
           "away": "Quilmes",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 20:00"
         },
         {
-          "home": "00\nAgropecuario",
+          "home": "30\nChacarita",
+          "away": "Maipú",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Agropecuario",
           "away": "Colegiales",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Tristan Suárez",
           "away": "Patronato",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Chacarita",
-          "away": "Maipú",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "San Miguel",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Acassuso",
           "away": "Dep. Madryn",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Los Andes",
-          "away": "All Boys",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "San Telmo",
-          "away": "Defensores",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nMorón",
           "away": "CA Mitre",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 13:30"
         },
         {
-          "home": "Chaco For Ever",
+          "home": "Los Andes",
+          "away": "All Boys",
+          "meta": "próximo · 13:30"
+        },
+        {
+          "home": "00\nChaco For Ever",
           "away": "Central Norte",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Güemes",
+          "away": "Almagro",
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -127,42 +127,32 @@
         {
           "home": "00\nArg. de Quilmes",
           "away": "Flandria",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "CADU",
           "away": "Armenio",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 10:00"
-        },
-        {
-          "home": "Dock Sud",
-          "away": "Laferrere",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Italiano",
           "away": "Arsenal",
-          "meta": "próximo · 10:00"
-        },
-        {
-          "home": "00\nMerlo",
-          "away": "Talleres RE",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nSan Carlos",
           "away": "Villa Dalmine",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Real Pilar",
           "away": "Ituzaingó",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

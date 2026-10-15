@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:45:56.735384+00:00",
+  "generated_at": "2026-10-15T18:45:02.243252+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -72,11 +72,6 @@
         {
           "home": "Agropecuario",
           "away": "Colegiales",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Tristan Suárez",
-          "away": "Patronato",
           "meta": "próximo · 13:30"
         },
         {
@@ -87,6 +82,11 @@
         {
           "home": "Acassuso",
           "away": "Dep. Madryn",
+          "meta": "próximo · 14:30"
+        },
+        {
+          "home": "Tristan Suárez",
+          "away": "Patronato",
           "meta": "próximo · 16:00"
         },
         {

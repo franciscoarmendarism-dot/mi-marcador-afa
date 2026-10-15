@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-15T18:45:02.243252+00:00",
+  "generated_at": "2026-10-15T23:23:11.505281+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
+      "results": [
+        {
+          "home": "11\n5\n6\n4\n2\nE\nV\nD\nE\nE\n4\nGimnasia",
+          "away": "22\n13",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "18\n3\n6\n2\n4\nE\nV\nD\nE\nV\n6\nHuracán",
+          "away": "19\n13",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n24'\nHuracán",
+          "away": "Gimnasia",
+          "score": "0-1",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
           "home": "00\nDefensa",

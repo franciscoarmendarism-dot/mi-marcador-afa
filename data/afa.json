@@ -1,19 +1,37 @@
 {
-  "generated_at": "2026-10-16T18:29:57.322394+00:00",
+  "generated_at": "2026-10-16T23:05:47.899619+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nInstituto",
+          "away": "29\n13",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n10\n9\n2\n2\nE\nV\nV\nV\nD\n2\nDefensa",
+          "away": "24\n13",
+          "score": "0-1",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nHuracán",
           "away": "Gimnasia",
           "score": "1-2",
           "meta": "resultado"
+        },
+        {
+          "home": "10\n47'\nDefensa",
+          "away": "Instituto",
+          "score": "0-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nDefensa",
-          "away": "Instituto",
+          "home": "10\n47'\nDefensa\n0",
+          "away": "1\nInstituto",
           "meta": "próximo · 19:30"
         },
         {
@@ -122,13 +140,13 @@
       "results": [],
       "next": [
         {
-          "home": "00\nLiniers",
-          "away": "UAI Urquiza",
+          "home": "00\nDock Sud",
+          "away": "Laferrere",
           "meta": "próximo · 09:00"
         },
         {
-          "home": "Dock Sud",
-          "away": "Laferrere",
+          "home": "Liniers",
+          "away": "UAI Urquiza",
           "meta": "próximo · 11:00"
         },
         {
@@ -157,8 +175,8 @@
           "meta": "próximo · 17:00"
         },
         {
-          "home": "Real Pilar",
-          "away": "Ituzaingó",
+          "home": "Merlo",
+          "away": "Talleres RE",
           "meta": "próximo · 17:00"
         }
       ]

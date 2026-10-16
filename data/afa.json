@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:36:14.465639+00:00",
+  "generated_at": "2026-10-16T18:29:57.322394+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -122,13 +122,13 @@
       "results": [],
       "next": [
         {
-          "home": "00\nDock Sud",
-          "away": "Laferrere",
+          "home": "00\nLiniers",
+          "away": "UAI Urquiza",
           "meta": "próximo · 09:00"
         },
         {
-          "home": "Liniers",
-          "away": "UAI Urquiza",
+          "home": "Dock Sud",
+          "away": "Laferrere",
           "meta": "próximo · 11:00"
         },
         {
@@ -157,8 +157,8 @@
           "meta": "próximo · 17:00"
         },
         {
-          "home": "Merlo",
-          "away": "Talleres RE",
+          "home": "Real Pilar",
+          "away": "Ituzaingó",
           "meta": "próximo · 17:00"
         }
       ]

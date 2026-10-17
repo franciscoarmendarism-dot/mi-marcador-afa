@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-16T23:05:47.899619+00:00",
+  "generated_at": "2026-10-17T01:55:49.039390+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "G\nE\nP\nÚltimas\n1\nInstituto",
-          "away": "29\n13",
-          "score": "0-1",
+          "home": "10\n10\n9\n2\n2\nV\nE\nV\nV\nV\n2\nBoca Jrs.",
+          "away": "24\n13",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
-          "home": "10\n10\n9\n2\n2\nE\nV\nV\nV\nD\n2\nDefensa",
-          "away": "24\n13",
-          "score": "0-1",
+          "home": "6\n2\n4\n6\nE\nE\nE\nD\nD\n15\nTalleres",
+          "away": "9\n13",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
@@ -22,18 +22,19 @@
           "meta": "resultado"
         },
         {
-          "home": "10\n47'\nDefensa",
+          "home": "10\nFinal\nDefensa",
           "away": "Instituto",
           "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "69'\nBoca Jrs.",
+          "away": "Talleres",
+          "score": "2-1",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "10\n47'\nDefensa\n0",
-          "away": "1\nInstituto",
-          "meta": "próximo · 19:30"
-        },
         {
           "home": "00\nBanfield",
           "away": "Argentinos",
@@ -82,13 +83,45 @@
       ]
     },
     "nacional": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nAtlético Rafaela",
-          "away": "Quilmes",
-          "meta": "próximo · 20:00"
+          "home": "27\n13\n16\n11\n6\nV\nV\nD\nV\nE\n3\nAtlanta",
+          "away": "59\n34",
+          "score": "1-1",
+          "meta": "resultado"
         },
+        {
+          "home": "14\n9\n10\nV\nE\nD\nV\nV\n6\nGimnasia y Tiro",
+          "away": "50\n34",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n11\nE\nD\nD\nV\nE\n10\nAtlético Rafaela",
+          "away": "45\n34",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n10\n10\n13\nV\nE\nD\nV\nD\n14\nQuilmes",
+          "away": "39\n34",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n90'\nAtlético Rafaela",
+          "away": "Quilmes",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "ET\nGimnasia y Tiro",
+          "away": "Atlanta",
+          "score": "1-1",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
         {
           "home": "30\nChacarita",
           "away": "Maipú",
@@ -132,6 +165,11 @@
         {
           "home": "Güemes",
           "away": "Almagro",
+          "meta": "próximo · 16:00"
+        },
+        {
+          "home": "Godoy Cruz",
+          "away": "Estudiantes",
           "meta": "próximo · 16:00"
         }
       ]

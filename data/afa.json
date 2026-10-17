@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-17T17:35:32.208222+00:00",
+  "generated_at": "2026-10-17T19:47:29.103713+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nArgentinos",
+          "away": "25\n13",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n0\n3\n5\n4\nE\nD\nD\nD\nV\n11\nBanfield",
+          "away": "13\n13",
+          "score": "0-1",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nHuracán",
           "away": "Gimnasia",
@@ -20,67 +32,109 @@
           "away": "Talleres",
           "score": "2-1",
           "meta": "resultado"
+        },
+        {
+          "home": "10\n88'\nBanfield",
+          "away": "Argentinos",
+          "score": "0-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nBanfield",
-          "away": "Argentinos",
-          "meta": "próximo · 14:30"
+          "home": "10\n88'\nBanfield\n0",
+          "away": "1\nArgentinos",
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Independiente Riv.",
           "away": "Tigre",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Platense",
           "away": "Lanús",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "Atl. Tucumán",
           "away": "Central",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "45\nRacing",
           "away": "Independiente",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Estudiantes RC",
           "away": "Aldosivi",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Estudiantes",
           "away": "San Lorenzo",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "00\nSarmiento",
           "away": "Barracas",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Newell's",
           "away": "Central Córdoba",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
     "nacional": {
       "results": [
         {
-          "home": "26\n12\n14\n9\n10\nV\nE\nD\nV\nV\n7\nMaipú",
-          "away": "49\n34",
+          "home": "9\n13\n16\n9\n8\nE\nV\nE\nV\nV\n4\nDep. Madryn",
+          "away": "54\n34",
           "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "8\n9\n9\n15\nD\nD\nV\nE\nD\n17\nChacarita",
-          "away": "34\n34",
+          "home": "11\n8\nE\nV\nE\nV\nD\n6\nCiudad De Bolivar",
+          "away": "51\n34",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n6\n16\n11\nE\nD\nE\nE\nD\n17\nAcassuso",
+          "away": "33\n34",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n8\n9\n17\nV\nD\nV\nV\nD\n18\nSan Miguel",
+          "away": "32\n34",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nTristan Suárez",
+          "away": "60\n34",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "6\n12\n14\n9\n10\nV\nE\nD\nV\nV\n7\nColegiales",
+          "away": "50\n34",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "9\n11\n8\n14\nV\nV\nD\nD\nE\n13\nAgropecuario",
+          "away": "40\n34",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "29\n1\n10\n9\n15\nD\nD\nE\nV\nD\n15\nPatronato",
+          "away": "38\n34",
           "score": "0-0",
           "meta": "resultado"
         },
@@ -95,123 +149,130 @@
           "away": "Atlanta",
           "score": "3-1",
           "meta": "resultado"
-        },
-        {
-          "home": "10\n1'\nChacarita",
-          "away": "Maipú",
-          "score": "0-0",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "10\n1'\nChacarita\n0",
-          "away": "0\nMaipú",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Agropecuario",
-          "away": "Colegiales",
-          "meta": "próximo · 12:30"
-        },
-        {
-          "home": "San Miguel",
-          "away": "Ciudad De Bolivar",
-          "meta": "próximo · 12:30"
-        },
-        {
-          "home": "Acassuso",
-          "away": "Dep. Madryn",
-          "meta": "próximo · 13:30"
-        },
-        {
-          "home": "Tristan Suárez",
-          "away": "Patronato",
-          "meta": "próximo · 15:00"
+          "home": "0\nDep. Madryn\n14'\nTristan Suárez\n0",
+          "away": "0\nPatronato",
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nMorón",
           "away": "CA Mitre",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Los Andes",
           "away": "All Boys",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "00\nChaco For Ever",
           "away": "Central Norte",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Güemes",
           "away": "Almagro",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Godoy Cruz",
           "away": "Estudiantes",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
+        },
+        {
+          "home": "San Martín",
+          "away": "Temperley",
+          "meta": "próximo · 16:30"
         }
       ]
     },
     "metro": {
       "results": [
         {
-          "home": "4\n17\n19\n11\n9\nE\nD\nV\nE\nD\n5\nCamioneros",
-          "away": "67\n40",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "10\nFinal\nDock Sud",
-          "away": "Laferrere",
-          "score": "1-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nLiniers",
-          "away": "UAI Urquiza",
+          "home": "G\nE\nP\nÚltimas\n1\nExcursionistas",
+          "away": "78\n40",
           "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "31\n33\n23\n9\n8\nV\nD\nV\nV\nV\n2\nArsenal",
+          "away": "73\n40",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "26\n27\n20\n13\n7\nV\nD\nV\nD\nV\n3\nItaliano",
+          "away": "69\n40",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n18\n13\n9\nV\nE\nD\nD\nD\n6\nVilla Dalmine",
+          "away": "65\n40",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "27\n12\n17\n14\n9\nE\nD\nE\nV\nD\n7\nArmenio",
+          "away": "62\n40",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "17\n10\n12\nD\nV\nD\nV\nV\n9\nComunicaciones",
+          "away": "57\n40",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "4\n12\n15\n13\nD\nV\nD\nV\nV\n12\nSan Carlos",
+          "away": "50\n40",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n10\n15\n15\nE\nE\nV\nD\nD\n15\nFlandria",
+          "away": "45\n40",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "15\n14\nE\nE\nD\nV\nD\n17\nArg. de Quilmes",
+          "away": "44\n40",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\n18\nD\nD\nD\nD\nV\n19\nBrown de Adrogué",
+          "away": "43\n40",
+          "score": "0-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nArg. de Quilmes",
-          "away": "Flandria",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "CADU",
-          "away": "Armenio",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Comunicaciones",
-          "away": "Brown de Adrogué",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Italiano",
-          "away": "Arsenal",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "00\nSan Carlos",
-          "away": "Villa Dalmine",
-          "meta": "próximo · 16:00"
+          "home": "1\nExcursionistas\n88'\nSan Carlos\n3",
+          "away": "0\nVilla Dalmine",
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Merlo",
           "away": "Talleres RE",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
     "primerac": {
       "results": [
+        {
+          "home": "10\n80'\nBerazategui",
+          "away": "Luján",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "Global",
           "away": "Berazategui",

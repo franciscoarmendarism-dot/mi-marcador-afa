@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:58:26.428679+00:00",
+  "generated_at": "2026-10-19T21:49:04.987643+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -202,18 +202,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "Global 0",
-          "away": "0\nBerazategui",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nEstrella del Sur",
-          "away": "Lamadrid",
-          "meta": "próximo · 13:00"
-        }
-      ]
+      "next": []
     }
   }
 }

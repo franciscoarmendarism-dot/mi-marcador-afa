@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:56:20.690091+00:00",
+  "generated_at": "2026-10-20T18:48:39.214445+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -125,44 +125,29 @@
       "results": [],
       "next": [
         {
-          "home": "00\nReal Pilar",
-          "away": "Liniers",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "00\nUAI Urquiza",
-          "away": "San Carlos",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Excursionistas",
+          "home": "00\nExcursionistas",
           "away": "Italiano",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Arsenal",
           "away": "Camioneros",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nLaferrere",
           "away": "Comunicaciones",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
-          "home": "Brown de Adrogué",
-          "away": "CADU",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Talleres RE",
-          "away": "Dock Sud",
-          "meta": "próximo · 12:00"
+          "home": "Ituzaingó",
+          "away": "Flandria",
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Armenio",
           "away": "Arg. de Quilmes",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

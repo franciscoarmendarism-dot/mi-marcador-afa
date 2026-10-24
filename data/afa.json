@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-24T19:56:26.339767+00:00",
+  "generated_at": "2026-10-24T22:47:10.779666+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "13\n5\n6\n6\n1\nV\nD\nE\nV\nE\n6\nNewell's",
+          "away": "21\n14",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n5\n4\n4\nE\nE\nD\nV\nE\n9\nSan Lorenzo",
+          "away": "18\n14",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nGimnasia",
           "away": "Sarmiento",
@@ -20,22 +32,24 @@
           "away": "Lanús",
           "score": "1-1",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nTalleres",
+          "away": "Defensa",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "32'\nSan Lorenzo",
+          "away": "Newell's",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "10\nFinal\nBanfield\n1",
-          "away": "1\nLanús",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Talleres",
-          "away": "Defensa",
-          "meta": "próximo · 15:15"
-        },
-        {
-          "home": "San Lorenzo",
-          "away": "Newell's",
+          "home": "2\nDefensa\n32'\nSan Lorenzo\n0",
+          "away": "0\nNewell's",
           "meta": "próximo · 17:30"
         },
         {
@@ -68,51 +82,40 @@
     "nacional": {
       "results": [
         {
-          "home": "G\nE\nP\nÚltimas\n1\nFerro",
-          "away": "65\n35",
-          "score": "0-1",
+          "home": "15\n17\n7\n10\nD\nD\nV\nD\nD\n4\nDep. Madryn",
+          "away": "57\n35",
+          "score": "2-0",
           "meta": "resultado"
         },
         {
-          "home": "13\n9\n12\nD\nV\nD\nV\nV\n9\nChaco For Ever",
-          "away": "43\n35",
-          "score": "0-1",
+          "home": "7\n8\n14\n12\nE\nD\nE\nD\nV\n14\nSan Telmo",
+          "away": "38\n35",
+          "score": "2-0",
           "meta": "resultado"
         },
         {
-          "home": "G\nE\nP\nÚltimas\n1\nTristan Suárez",
-          "away": "62\n35",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "6\n12\n9\n13\nV\nD\nD\nD\nV\n12\nAlmagro",
-          "away": "44\n35",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "10\n65'\nAlmagro",
+          "home": "10\nFinal\nAlmagro",
           "away": "Tristan Suárez",
-          "score": "1-0",
+          "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "45'\nFerro",
+          "home": "Final\nFerro",
           "away": "Chaco For Ever",
-          "score": "0-1",
+          "score": "0-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "43'\nDep. Madryn",
+          "away": "San Telmo",
+          "score": "2-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "0\nTristan Suárez\n45'\nFerro\n0",
-          "away": "1\nChaco For Ever",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "00\nDep. Madryn",
-          "away": "San Telmo",
+          "home": "43'\nDep. Madryn\n2",
+          "away": "0\nSan Telmo",
           "meta": "próximo · 16:00"
         },
         {
@@ -154,78 +157,66 @@
           "home": "Maipú",
           "away": "Güemes",
           "meta": "próximo · 13:00"
+        },
+        {
+          "home": "00\nChicago",
+          "away": "San Martín",
+          "meta": "próximo · 11:30"
         }
       ]
     },
     "metro": {
       "results": [
         {
-          "home": "31\n37\n24\n9\n8\nV\nE\nV\nD\nV\n2\nArsenal",
-          "away": "76\n41",
+          "home": "14\n18\n13\n10\nD\nV\nE\nD\nD\n7\nReal Pilar",
+          "away": "65\n41",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "7\n10\n17\n14\nV\nD\nE\nE\nE\n18\nLiniers",
+          "away": "45\n41",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nExcursionistas",
+          "away": "Italiano",
+          "score": "4-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nArsenal",
+          "away": "Camioneros",
           "score": "2-1",
           "meta": "resultado"
         },
         {
-          "home": "19\n11\n10\nD\nE\nD\nV\nE\n5\nVilla Dalmine",
-          "away": "68\n41",
+          "home": "0\nMerlo\nFinal\nLaferrere",
+          "away": "Comunicaciones",
           "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "7\n13\n18\n14\n9\nD\nE\nD\nE\nV\n6\nCamioneros",
-          "away": "67\n41",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "34\n14\n18\n13\n10\nV\nE\nD\nD\nD\n7\nArmenio",
-          "away": "62\n41",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "39\n3\n17\n11\n12\nE\nD\nV\nD\nV\n9\nLaferrere",
-          "away": "58\n41",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "5\n13\n13\nV\nE\nV\nD\nD\n10\nComunicaciones",
-          "away": "57\n41",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n12\n14\n14\nV\nD\nV\nV\nE\n13\nFlandria",
-          "away": "48\n41",
+          "home": "Final\nItuzaingó",
+          "away": "Flandria",
           "score": "1-3",
           "meta": "resultado"
         },
         {
-          "home": "10\n13\n9\n19\nV\nV\nE\nD\nD\n14\nMerlo",
-          "away": "48\n41",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\n18\nD\nD\nD\nD\nV\n17\nArg. de Quilmes",
-          "away": "47\n41",
+          "home": "Final\nArmenio",
+          "away": "Arg. de Quilmes",
           "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "13\n6\n21\n13\nE\nV\nV\nE\nD\n22\nItuzaingó",
-          "away": "17\n41",
-          "score": "1-3",
+          "home": "ET\nReal Pilar",
+          "away": "Liniers",
+          "score": "1-0",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "3\nFlandria\n65'\nArmenio\n0",
-          "away": "1\nArg. de Quilmes",
-          "meta": "próximo · 15:00"
-        },
         {
           "home": "00\nUAI Urquiza",
           "away": "San Carlos",

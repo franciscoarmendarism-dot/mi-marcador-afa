@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:42:00.001285+00:00",
+  "generated_at": "2026-10-24T19:56:26.339767+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -14,12 +14,18 @@
           "away": "Atl. Tucumán",
           "score": "0-1",
           "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nBanfield",
+          "away": "Lanús",
+          "score": "1-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "45\nBanfield",
-          "away": "Lanús",
+          "home": "10\nFinal\nBanfield\n1",
+          "away": "1\nLanús",
           "meta": "próximo · 13:00"
         },
         {
@@ -60,16 +66,48 @@
       ]
     },
     "nacional": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "30\nAlmagro",
-          "away": "Tristan Suárez",
-          "meta": "próximo · 12:00"
+          "home": "G\nE\nP\nÚltimas\n1\nFerro",
+          "away": "65\n35",
+          "score": "0-1",
+          "meta": "resultado"
         },
         {
-          "home": "Ferro",
+          "home": "13\n9\n12\nD\nV\nD\nV\nV\n9\nChaco For Ever",
+          "away": "43\n35",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "G\nE\nP\nÚltimas\n1\nTristan Suárez",
+          "away": "62\n35",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "6\n12\n9\n13\nV\nD\nD\nD\nV\n12\nAlmagro",
+          "away": "44\n35",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n65'\nAlmagro",
+          "away": "Tristan Suárez",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "45'\nFerro",
           "away": "Chaco For Ever",
+          "score": "0-1",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "0\nTristan Suárez\n45'\nFerro\n0",
+          "away": "1\nChaco For Ever",
           "meta": "próximo · 13:00"
         },
         {
@@ -111,35 +149,81 @@
           "home": "CA Mitre",
           "away": "Godoy Cruz",
           "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Maipú",
+          "away": "Güemes",
+          "meta": "próximo · 13:00"
         }
       ]
     },
     "metro": {
-      "results": [],
+      "results": [
+        {
+          "home": "31\n37\n24\n9\n8\nV\nE\nV\nD\nV\n2\nArsenal",
+          "away": "76\n41",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "19\n11\n10\nD\nE\nD\nV\nE\n5\nVilla Dalmine",
+          "away": "68\n41",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "7\n13\n18\n14\n9\nD\nE\nD\nE\nV\n6\nCamioneros",
+          "away": "67\n41",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "34\n14\n18\n13\n10\nV\nE\nD\nD\nD\n7\nArmenio",
+          "away": "62\n41",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "39\n3\n17\n11\n12\nE\nD\nV\nD\nV\n9\nLaferrere",
+          "away": "58\n41",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n13\n13\nV\nE\nV\nD\nD\n10\nComunicaciones",
+          "away": "57\n41",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "3\n12\n14\n14\nV\nD\nV\nV\nE\n13\nFlandria",
+          "away": "48\n41",
+          "score": "1-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n13\n9\n19\nV\nV\nE\nD\nD\n14\nMerlo",
+          "away": "48\n41",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\n18\nD\nD\nD\nD\nV\n17\nArg. de Quilmes",
+          "away": "47\n41",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "13\n6\n21\n13\nE\nV\nV\nE\nD\n22\nItuzaingó",
+          "away": "17\n41",
+          "score": "1-3",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "00\nExcursionistas",
-          "away": "Italiano",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Arsenal",
-          "away": "Camioneros",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "00\nLaferrere",
-          "away": "Comunicaciones",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Ituzaingó",
-          "away": "Flandria",
-          "meta": "próximo · 11:30"
-        },
-        {
-          "home": "Armenio",
-          "away": "Arg. de Quilmes",
+          "home": "3\nFlandria\n65'\nArmenio\n0",
+          "away": "1\nArg. de Quilmes",
           "meta": "próximo · 15:00"
         },
         {

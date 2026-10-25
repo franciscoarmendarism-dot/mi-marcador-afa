@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-25T20:12:50.535178+00:00",
+  "generated_at": "2026-10-25T22:53:50.011520+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "13\n7\n8\n3\n3\nV\nD\nV\nV\nE\n3\nBoca Jrs.",
-          "away": "25\n14",
-          "score": "0-0",
+          "home": "18\n3\n7\n4\n3\nV\nV\nE\nE\nE\n4\nRiver",
+          "away": "23\n14",
+          "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "5\n1\n6\n2\n6\nD\nD\nV\nD\nE\n8\nIndependiente",
-          "away": "20\n14",
-          "score": "0-0",
+          "home": "3\n3\n4\n7\nD\nE\nD\nD\nD\n13\nRacing",
+          "away": "12\n14",
+          "score": "1-0",
           "meta": "resultado"
         },
         {
@@ -58,21 +58,16 @@
           "meta": "resultado"
         },
         {
-          "home": "14'\nIndependiente",
+          "home": "Final\nIndependiente",
           "away": "Boca Jrs.",
-          "score": "0-0",
+          "score": "0-1",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "0\nBelgrano\n14'\nIndependiente\n0",
-          "away": "0\nBoca Jrs.",
-          "meta": "próximo · 16:15"
-        },
-        {
-          "home": "River",
-          "away": "Racing",
+          "home": "1\nBoca Jrs.\n38'\nRiver\n1",
+          "away": "0\nRacing",
           "meta": "próximo · 18:30"
         },
         {
@@ -90,62 +85,62 @@
     "nacional": {
       "results": [
         {
-          "home": "31\n7\n19\n8\n8\nD\nV\nE\nD\nV\n2\nGodoy Cruz",
-          "away": "61\n35",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "32\n16\n17\n10\n8\nV\nE\nV\nE\nV\n3\nMorón",
-          "away": "58\n35",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "16\n15\n12\n8\nV\nE\nE\nV\nE\n6\nAlte. Brown",
-          "away": "51\n35",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n13\n12\n10\nD\nV\nV\nV\nV\n8\nEstudiantes",
-          "away": "49\n35",
+          "home": "10\nFinal\nAlmagro",
+          "away": "Tristan Suárez",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "9\n11\n10\n14\nD\nV\nE\nE\nD\n11\nLos Andes",
-          "away": "42\n35",
+          "home": "Final\nFerro",
+          "away": "Chaco For Ever",
+          "score": "0-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Madryn",
+          "away": "San Telmo",
+          "score": "4-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColegiales",
+          "away": "Atlético Rafaela",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "26\n1\n9\n15\n11\nE\nD\nD\nV\nD\n12\nCA Mitre",
-          "away": "40\n35",
-          "score": "0-0",
+          "home": "Final\nCiudad De Bolivar",
+          "away": "Colón",
+          "score": "0-2",
           "meta": "resultado"
         },
         {
-          "home": "8\n14\n12\nE\nD\nE\nD\nV\n14\nCentral Norte",
-          "away": "38\n35",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "12\n9\n11\n15\nD\nE\nD\nV\nV\n16\nAll Boys",
-          "away": "35\n35",
+          "home": "10\nFinal\nAlte. Brown",
+          "away": "Morón",
           "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "11\n6\n17\n12\nE\nE\nD\nE\nE\n17\nAcassuso",
-          "away": "34\n35",
-          "score": "0-0",
+          "home": "Final\nEstudiantes",
+          "away": "Los Andes",
+          "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "16\n18\n16\n15\n4\nE\nV\nE\nE\nV\n2\nTemperley",
-          "away": "61\n35",
+          "home": "2\nAll Boys\nFinal\nTemperley",
+          "away": "Chacarita",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPatronato",
+          "away": "Agropecuario",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\nAtlanta\nFinal\nCentral Norte",
+          "away": "Acassuso",
           "score": "0-0",
           "meta": "resultado"
         }

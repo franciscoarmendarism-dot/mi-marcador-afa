@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-25T13:25:49.042401+00:00",
+  "generated_at": "2026-10-25T17:56:52.532329+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "18\n3\n7\n4\n3\nV\nV\nE\nE\nE\n4\nBelgrano",
+          "away": "23\n14",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "6\n3\n3\n7\nE\nD\nV\nV\nD\n14\nAldosivi",
+          "away": "9\n14",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nGimnasia",
           "away": "Sarmiento",
@@ -38,12 +50,18 @@
           "away": "Huracán",
           "score": "2-0",
           "meta": "resultado"
+        },
+        {
+          "home": "10\n11'\nAldosivi",
+          "away": "Belgrano",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "45\nAldosivi",
-          "away": "Belgrano",
+          "home": "10\n11'\nAldosivi\n0",
+          "away": "0\nBelgrano",
           "meta": "próximo · 13:00"
         },
         {

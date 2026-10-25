@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-25T17:56:52.532329+00:00",
+  "generated_at": "2026-10-25T20:12:50.535178+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "18\n3\n7\n4\n3\nV\nV\nE\nE\nE\n4\nBelgrano",
-          "away": "23\n14",
+          "home": "13\n7\n8\n3\n3\nV\nD\nV\nV\nE\n3\nBoca Jrs.",
+          "away": "25\n14",
           "score": "0-0",
           "meta": "resultado"
         },
         {
-          "home": "6\n3\n3\n7\nE\nD\nV\nV\nD\n14\nAldosivi",
-          "away": "9\n14",
+          "home": "5\n1\n6\n2\n6\nD\nD\nV\nD\nE\n8\nIndependiente",
+          "away": "20\n14",
           "score": "0-0",
           "meta": "resultado"
         },
@@ -52,113 +52,109 @@
           "meta": "resultado"
         },
         {
-          "home": "10\n11'\nAldosivi",
+          "home": "10\nFinal\nAldosivi",
           "away": "Belgrano",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "14'\nIndependiente",
+          "away": "Boca Jrs.",
           "score": "0-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "10\n11'\nAldosivi\n0",
-          "away": "0\nBelgrano",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Independiente",
-          "away": "Boca Jrs.",
-          "meta": "próximo · 15:15"
+          "home": "0\nBelgrano\n14'\nIndependiente\n0",
+          "away": "0\nBoca Jrs.",
+          "meta": "próximo · 16:15"
         },
         {
           "home": "River",
           "away": "Racing",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 18:30"
         },
         {
           "home": "Barracas",
           "away": "Estudiantes RC",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 18:30"
         },
         {
           "home": "00\nUnión",
           "away": "Estudiantes",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
     "nacional": {
       "results": [
         {
-          "home": "10\nFinal\nAlmagro",
-          "away": "Tristan Suárez",
+          "home": "31\n7\n19\n8\n8\nD\nV\nE\nD\nV\n2\nGodoy Cruz",
+          "away": "61\n35",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "32\n16\n17\n10\n8\nV\nE\nV\nE\nV\n3\nMorón",
+          "away": "58\n35",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "16\n15\n12\n8\nV\nE\nE\nV\nE\n6\nAlte. Brown",
+          "away": "51\n35",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n13\n12\n10\nD\nV\nV\nV\nV\n8\nEstudiantes",
+          "away": "49\n35",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "Final\nFerro",
-          "away": "Chaco For Ever",
-          "score": "0-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nDep. Madryn",
-          "away": "San Telmo",
-          "score": "4-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nColegiales",
-          "away": "Atlético Rafaela",
+          "home": "9\n11\n10\n14\nD\nV\nE\nE\nD\n11\nLos Andes",
+          "away": "42\n35",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "Final\nCiudad De Bolivar",
-          "away": "Colón",
-          "score": "0-2",
+          "home": "26\n1\n9\n15\n11\nE\nD\nD\nV\nD\n12\nCA Mitre",
+          "away": "40\n35",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "8\n14\n12\nE\nD\nE\nD\nV\n14\nCentral Norte",
+          "away": "38\n35",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n9\n11\n15\nD\nE\nD\nV\nV\n16\nAll Boys",
+          "away": "35\n35",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\n6\n17\n12\nE\nE\nD\nE\nE\n17\nAcassuso",
+          "away": "34\n35",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "16\n18\n16\n15\n4\nE\nV\nE\nE\nV\n2\nTemperley",
+          "away": "61\n35",
+          "score": "0-0",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "30\nAlte. Brown",
-          "away": "Morón",
-          "meta": "próximo · 11:30"
-        },
-        {
-          "home": "Estudiantes",
-          "away": "Los Andes",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "00\nTemperley",
-          "away": "Chacarita",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Patronato",
-          "away": "Agropecuario",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "00\nCentral Norte",
-          "away": "Acassuso",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "CA Mitre",
-          "away": "Godoy Cruz",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Maipú",
-          "away": "Güemes",
-          "meta": "próximo · 13:00"
-        },
-        {
           "home": "00\nChicago",
           "away": "San Martín",
-          "meta": "próximo · 11:30"
+          "meta": "próximo · 12:30"
         }
       ]
     },
@@ -199,13 +195,19 @@
           "away": "Liniers",
           "score": "2-1",
           "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nTalleres RE",
+          "away": "Dock Sud",
+          "score": "4-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
           "home": "00\nUAI Urquiza",
           "away": "San Carlos",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },
@@ -218,9 +220,9 @@
           "meta": "resultado"
         },
         {
-          "home": "Global",
+          "home": "0\nGlobal",
           "away": "Berazategui",
-          "score": "0-0",
+          "score": "3-0",
           "meta": "resultado"
         }
       ],

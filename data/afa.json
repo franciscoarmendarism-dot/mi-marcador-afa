@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-24T22:47:10.779666+00:00",
+  "generated_at": "2026-10-25T02:06:11.172159+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "13\n5\n6\n6\n1\nV\nD\nE\nV\nE\n6\nNewell's",
-          "away": "21\n14",
-          "score": "0-0",
+          "home": "G\nE\nP\nÚltimas\n1\nCentral",
+          "away": "28\n14",
+          "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "1\n5\n4\n4\nE\nE\nD\nV\nE\n9\nSan Lorenzo",
-          "away": "18\n14",
-          "score": "0-0",
+          "home": "10\n1\n5\n4\n4\nE\nV\nV\nD\nE\n8\nHuracán",
+          "away": "19\n14",
+          "score": "1-0",
           "meta": "resultado"
         },
         {
@@ -40,18 +40,19 @@
           "meta": "resultado"
         },
         {
-          "home": "32'\nSan Lorenzo",
+          "home": "Final\nSan Lorenzo",
           "away": "Newell's",
           "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "73'\nCentral",
+          "away": "Huracán",
+          "score": "1-0",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "2\nDefensa\n32'\nSan Lorenzo\n0",
-          "away": "0\nNewell's",
-          "meta": "próximo · 17:30"
-        },
         {
           "home": "45\nAldosivi",
           "away": "Belgrano",
@@ -82,18 +83,6 @@
     "nacional": {
       "results": [
         {
-          "home": "15\n17\n7\n10\nD\nD\nV\nD\nD\n4\nDep. Madryn",
-          "away": "57\n35",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n8\n14\n12\nE\nD\nE\nD\nV\n14\nSan Telmo",
-          "away": "38\n35",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
           "home": "10\nFinal\nAlmagro",
           "away": "Tristan Suárez",
           "score": "1-1",
@@ -106,23 +95,25 @@
           "meta": "resultado"
         },
         {
-          "home": "43'\nDep. Madryn",
+          "home": "Final\nDep. Madryn",
           "away": "San Telmo",
-          "score": "2-0",
+          "score": "4-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColegiales",
+          "away": "Atlético Rafaela",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCiudad De Bolivar",
+          "away": "Colón",
+          "score": "0-2",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "43'\nDep. Madryn\n2",
-          "away": "0\nSan Telmo",
-          "meta": "próximo · 16:00"
-        },
-        {
-          "home": "Colegiales",
-          "away": "Atlético Rafaela",
-          "meta": "próximo · 17:00"
-        },
         {
           "home": "30\nAlte. Brown",
           "away": "Morón",
@@ -168,18 +159,6 @@
     "metro": {
       "results": [
         {
-          "home": "14\n18\n13\n10\nD\nV\nE\nD\nD\n7\nReal Pilar",
-          "away": "65\n41",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n10\n17\n14\nV\nD\nE\nE\nE\n18\nLiniers",
-          "away": "45\n41",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
           "home": "Final\nExcursionistas",
           "away": "Italiano",
           "score": "4-0",
@@ -210,9 +189,9 @@
           "meta": "resultado"
         },
         {
-          "home": "ET\nReal Pilar",
+          "home": "Final\nReal Pilar",
           "away": "Liniers",
-          "score": "1-0",
+          "score": "2-1",
           "meta": "resultado"
         }
       ],

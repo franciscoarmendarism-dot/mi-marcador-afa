@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-26T15:34:55.949367+00:00",
+  "generated_at": "2026-10-26T22:01:24.363609+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "5\n5\n3\n6\nE\nV\nV\nD\nD\n10\nEstudiantes",
+          "away": "15\n14",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "15\n1\n4\n3\n7\nD\nE\nV\nD\nV\n11\nUnión",
+          "away": "15\n14",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nGimnasia",
           "away": "Sarmiento",
@@ -50,25 +62,13 @@
           "away": "Boca Jrs.",
           "score": "0-1",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nRiver",
-          "away": "Racing",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nBarracas",
-          "away": "Estudiantes RC",
-          "score": "2-1",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nUnión",
-          "away": "Estudiantes",
-          "meta": "próximo · 19:15"
+          "home": "10\n2'\nUnión\n0",
+          "away": "0\nEstudiantes",
+          "meta": "próximo · 17:15"
         }
       ]
     },
@@ -135,13 +135,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nChicago",
-          "away": "San Martín",
-          "meta": "próximo · 13:30"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [
@@ -186,13 +180,19 @@
           "away": "Dock Sud",
           "score": "4-0",
           "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nUAI Urquiza",
+          "away": "San Carlos",
+          "score": "2-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nUAI Urquiza",
-          "away": "San Carlos",
-          "meta": "próximo · 17:00"
+          "home": "10\nFinal\nUAI Urquiza\n2",
+          "away": "0\nSan Carlos",
+          "meta": "próximo · 15:00"
         }
       ]
     },

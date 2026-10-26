@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-10-25T22:53:50.011520+00:00",
+  "generated_at": "2026-10-26T02:07:01.269544+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "18\n3\n7\n4\n3\nV\nV\nE\nE\nE\n4\nRiver",
-          "away": "23\n14",
-          "score": "1-0",
+          "home": "10\n10\n9\n2\n2\nV\nE\nV\nV\nV\n2\nVélez",
+          "away": "27\n14",
+          "score": "0-4",
           "meta": "resultado"
         },
         {
-          "home": "3\n3\n4\n7\nD\nE\nD\nD\nD\n13\nRacing",
-          "away": "12\n14",
-          "score": "1-0",
+          "home": "2\n6\n5\nE\nD\nE\nE\nD\n14\nCentral Córdoba",
+          "away": "10\n14",
+          "score": "0-4",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\n3\n6\n4\n4\nD\nD\nV\nV\nV\n6\nBarracas",
+          "away": "22\n14",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "7\n3\n2\n9\nV\nD\nD\nD\nV\n15\nEstudiantes RC",
+          "away": "9\n14",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
@@ -50,35 +62,13 @@
           "away": "Huracán",
           "score": "2-0",
           "meta": "resultado"
-        },
-        {
-          "home": "10\nFinal\nAldosivi",
-          "away": "Belgrano",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nIndependiente",
-          "away": "Boca Jrs.",
-          "score": "0-1",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "1\nBoca Jrs.\n38'\nRiver\n1",
-          "away": "0\nRacing",
-          "meta": "próximo · 18:30"
-        },
-        {
-          "home": "Barracas",
-          "away": "Estudiantes RC",
-          "meta": "próximo · 18:30"
-        },
-        {
           "home": "00\nUnión",
           "away": "Estudiantes",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         }
       ]
     },
@@ -149,7 +139,7 @@
         {
           "home": "00\nChicago",
           "away": "San Martín",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         }
       ]
     },
@@ -202,7 +192,7 @@
         {
           "home": "00\nUAI Urquiza",
           "away": "San Carlos",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

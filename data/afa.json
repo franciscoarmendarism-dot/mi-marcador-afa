@@ -1,32 +1,8 @@
 {
-  "generated_at": "2026-10-26T02:07:01.269544+00:00",
+  "generated_at": "2026-10-26T08:13:34.265692+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "10\n10\n9\n2\n2\nV\nE\nV\nV\nV\n2\nVélez",
-          "away": "27\n14",
-          "score": "0-4",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n6\n5\nE\nD\nE\nE\nD\n14\nCentral Córdoba",
-          "away": "10\n14",
-          "score": "0-4",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\n3\n6\n4\n4\nD\nD\nV\nV\nV\n6\nBarracas",
-          "away": "22\n14",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n3\n2\n9\nV\nD\nD\nD\nV\n15\nEstudiantes RC",
-          "away": "9\n14",
-          "score": "2-1",
-          "meta": "resultado"
-        },
         {
           "home": "10\nFinal\nGimnasia",
           "away": "Sarmiento",
@@ -61,6 +37,30 @@
           "home": "Final\nCentral",
           "away": "Huracán",
           "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nAldosivi",
+          "away": "Belgrano",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nIndependiente",
+          "away": "Boca Jrs.",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nRiver",
+          "away": "Racing",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBarracas",
+          "away": "Estudiantes RC",
+          "score": "2-1",
           "meta": "resultado"
         }
       ],

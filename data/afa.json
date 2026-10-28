@@ -1,123 +1,113 @@
 {
-  "generated_at": "2026-10-27T19:50:32.564742+00:00",
+  "generated_at": "2026-10-28T00:07:38.097190+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "10\nFinal\nGimnasia",
-          "away": "Sarmiento",
-          "score": "2-0",
-          "meta": "resultado"
+          "home": "00\nHuracán",
+          "away": "Tigre",
+          "meta": "próximo · 16:00"
         },
         {
-          "home": "2\nPlatense\nFinal\nTigre",
-          "away": "Atl. Tucumán",
-          "score": "0-1",
-          "meta": "resultado"
+          "home": "Estudiantes RC",
+          "away": "Gimnasia",
+          "meta": "próximo · 18:15"
         },
         {
-          "home": "10\nFinal\nBanfield",
-          "away": "Lanús",
-          "score": "1-1",
-          "meta": "resultado"
+          "home": "Sarmiento",
+          "away": "Central",
+          "meta": "próximo · 18:15"
         },
         {
-          "home": "Final\nTalleres",
-          "away": "Defensa",
-          "score": "1-2",
-          "meta": "resultado"
+          "home": "00\nRiestra",
+          "away": "Talleres",
+          "meta": "próximo · 16:15"
         },
         {
-          "home": "Final\nSan Lorenzo",
-          "away": "Newell's",
-          "score": "0-0",
-          "meta": "resultado"
+          "home": "Vélez",
+          "away": "San Lorenzo",
+          "meta": "próximo · 18:30"
         },
         {
-          "home": "Final\nCentral",
-          "away": "Huracán",
-          "score": "2-0",
-          "meta": "resultado"
+          "home": "00\nBoca Jrs.",
+          "away": "River",
+          "meta": "próximo · 14:30"
         },
         {
-          "home": "10\nFinal\nAldosivi",
-          "away": "Belgrano",
-          "score": "1-0",
-          "meta": "resultado"
+          "home": "Belgrano",
+          "away": "Barracas",
+          "meta": "próximo · 14:30"
         },
         {
-          "home": "Final\nIndependiente",
-          "away": "Boca Jrs.",
-          "score": "0-1",
-          "meta": "resultado"
+          "home": "Newell's",
+          "away": "Unión",
+          "meta": "próximo · 16:45"
         },
         {
-          "home": "Final\nRiver",
-          "away": "Racing",
-          "score": "1-0",
-          "meta": "resultado"
+          "home": "00\nPlatense",
+          "away": "Central Córdoba",
+          "meta": "próximo · 15:00"
         },
         {
-          "home": "Final\nBarracas",
-          "away": "Estudiantes RC",
-          "score": "2-1",
-          "meta": "resultado"
+          "home": "Defensa",
+          "away": "Independiente",
+          "meta": "próximo · 17:15"
         }
-      ],
-      "next": []
+      ]
     },
     "nacional": {
       "results": [],
       "next": [
         {
-          "home": "00\nSan Miguel",
+          "home": "00\nGodoy Cruz",
+          "away": "Alte. Brown",
+          "meta": "próximo · 12:00"
+        },
+        {
+          "home": "San Miguel",
           "away": "Dep. Madryn",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "San Telmo",
           "away": "Central Norte",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Godoy Cruz",
-          "away": "Alte. Brown",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Atlanta",
           "away": "Midland",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Acassuso",
           "away": "Ferro",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Agropecuario",
           "away": "Almagro",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Tristan Suárez",
           "away": "Maipú",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Güemes",
           "away": "Temperley",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "30\nMorón",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Los Andes",
           "away": "CA Mitre",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         }
       ]
     },

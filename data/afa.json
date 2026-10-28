@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:07:38.097190+00:00",
+  "generated_at": "2026-10-28T09:05:21.284967+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,52 +7,52 @@
         {
           "home": "00\nHuracán",
           "away": "Tigre",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Estudiantes RC",
           "away": "Gimnasia",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "Sarmiento",
           "away": "Central",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 19:15"
         },
         {
           "home": "00\nRiestra",
           "away": "Talleres",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Vélez",
           "away": "San Lorenzo",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nBoca Jrs.",
           "away": "River",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Belgrano",
           "away": "Barracas",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Newell's",
           "away": "Unión",
-          "meta": "próximo · 16:45"
+          "meta": "próximo · 17:45"
         },
         {
           "home": "00\nPlatense",
           "away": "Central Córdoba",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Defensa",
           "away": "Independiente",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -60,54 +60,54 @@
       "results": [],
       "next": [
         {
-          "home": "00\nGodoy Cruz",
-          "away": "Alte. Brown",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "San Miguel",
+          "home": "00\nSan Miguel",
           "away": "Dep. Madryn",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "San Telmo",
           "away": "Central Norte",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "Godoy Cruz",
+          "away": "Alte. Brown",
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Atlanta",
           "away": "Midland",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Acassuso",
           "away": "Ferro",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Agropecuario",
           "away": "Almagro",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Tristan Suárez",
           "away": "Maipú",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Güemes",
           "away": "Temperley",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "30\nMorón",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Los Andes",
           "away": "CA Mitre",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 15:00"
         }
       ]
     },

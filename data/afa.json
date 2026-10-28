@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:05:21.284967+00:00",
+  "generated_at": "2026-10-28T17:33:43.839849+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -60,18 +60,18 @@
       "results": [],
       "next": [
         {
-          "home": "00\nSan Miguel",
+          "home": "00\nGodoy Cruz",
+          "away": "Alte. Brown",
+          "meta": "próximo · 13:00"
+        },
+        {
+          "home": "San Miguel",
           "away": "Dep. Madryn",
           "meta": "próximo · 13:00"
         },
         {
           "home": "San Telmo",
           "away": "Central Norte",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Godoy Cruz",
-          "away": "Alte. Brown",
           "meta": "próximo · 13:00"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:16:18.924012+00:00",
+  "generated_at": "2026-10-29T11:54:57.423395+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -100,13 +100,13 @@
           "meta": "próximo · 13:00"
         },
         {
-          "home": "30\nMorón",
-          "away": "Ciudad De Bolivar",
-          "meta": "próximo · 13:30"
+          "home": "30\nLos Andes",
+          "away": "CA Mitre",
+          "meta": "próximo · 14:00"
         },
         {
-          "home": "Los Andes",
-          "away": "CA Mitre",
+          "home": "Morón",
+          "away": "Ciudad De Bolivar",
           "meta": "próximo · 15:00"
         }
       ]

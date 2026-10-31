@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-31T16:27:27.575398+00:00",
+  "generated_at": "2026-10-31T20:45:20.800485+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "6\n3\n5\n6\nV\nD\nE\nE\nD\n13\nRiestra",
+          "away": "12\n15",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n2\n6\n7\nD\nE\nD\nE\nE\n14\nTalleres",
+          "away": "12\n15",
+          "score": "0-1",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nHuracán",
           "away": "Tigre",
@@ -26,12 +38,18 @@
           "away": "Aldosivi",
           "score": "2-1",
           "meta": "resultado"
+        },
+        {
+          "home": "1'\nRiestra",
+          "away": "Talleres",
+          "score": "0-1",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nRiestra",
-          "away": "Talleres",
+          "home": "1'\nRiestra\n0",
+          "away": "1\nTalleres",
           "meta": "próximo · 17:15"
         },
         {
@@ -72,102 +90,127 @@
       ]
     },
     "nacional": {
-      "results": [],
+      "results": [
+        {
+          "home": "31\n7\n19\n9\n8\nE\nD\nV\nE\nD\n3\nMorón",
+          "away": "61\n36",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "12\n11\nD\nV\nE\nE\nD\n7\nCiudad De Bolivar",
+          "away": "51\n36",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "13\n10\n12\nE\nD\nV\nD\nV\n9\nChaco For Ever",
+          "away": "46\n36",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\nFinal\nGodoy Cruz",
+          "away": "Alte. Brown",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Miguel",
+          "away": "Dep. Madryn",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Telmo",
+          "away": "Central Norte",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAtlanta",
+          "away": "Midland",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAcassuso",
+          "away": "Ferro",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nAgropecuario",
+          "away": "Almagro",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTristan Suárez",
+          "away": "Maipú",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "00\nGodoy Cruz",
-          "away": "Alte. Brown",
-          "meta": "próximo · 13:00"
+          "home": "00\nAll Boys",
+          "away": "Estudiantes",
+          "meta": "próximo · 12:00"
         },
         {
-          "home": "San Miguel",
-          "away": "Dep. Madryn",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "San Telmo",
-          "away": "Central Norte",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Atlanta",
-          "away": "Midland",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Acassuso",
-          "away": "Ferro",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Agropecuario",
-          "away": "Almagro",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Tristan Suárez",
-          "away": "Maipú",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Güemes",
-          "away": "Temperley",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "30\nLos Andes",
-          "away": "CA Mitre",
-          "meta": "próximo · 14:00"
-        },
-        {
-          "home": "Morón",
-          "away": "Ciudad De Bolivar",
-          "meta": "próximo · 15:00"
+          "home": "Atlético Rafaela",
+          "away": "Patronato",
+          "meta": "próximo · 12:00"
         }
       ]
     },
     "metro": {
       "results": [
         {
-          "home": "14\n18\n13\n10\nD\nV\nE\nD\nD\n7\nReal Pilar",
-          "away": "66\n42",
+          "home": "33\n36\n24\n9\n9\nD\nV\nE\nV\nD\n2\nArsenal",
+          "away": "77\n42",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "5\n12\n15\n14\nD\nE\nD\nV\nD\n12\nSan Carlos",
-          "away": "51\n42",
+          "home": "10\n13\n10\n19\nE\nV\nV\nV\nE\n14\nMerlo",
+          "away": "49\n42",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "10\n26'\nSan Carlos",
+          "home": "10\nFinal\nSan Carlos",
           "away": "Real Pilar",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCamioneros",
+          "away": "Excursionistas",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nItaliano",
+          "away": "Villa Dalmine",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nFlandria",
+          "away": "Armenio",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "85'\nMerlo",
+          "away": "Arsenal",
           "score": "1-1",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "10\n26'\nSan Carlos\n1",
-          "away": "1\nReal Pilar",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Flandria",
-          "away": "Armenio",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Camioneros",
-          "away": "Excursionistas",
-          "meta": "próximo · 13:00"
-        },
-        {
-          "home": "Italiano",
-          "away": "Villa Dalmine",
-          "meta": "próximo · 13:30"
-        },
         {
           "home": "00\nArg. de Quilmes",
           "away": "Brown de Adrogué",

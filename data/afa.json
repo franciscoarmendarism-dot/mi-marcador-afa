@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:22:06.641588+00:00",
+  "generated_at": "2026-10-31T16:27:27.575398+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -32,42 +32,42 @@
         {
           "home": "00\nRiestra",
           "away": "Talleres",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Vélez",
           "away": "San Lorenzo",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 19:30"
         },
         {
           "home": "00\nBoca Jrs.",
           "away": "River",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Belgrano",
           "away": "Barracas",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Newell's",
           "away": "Unión",
-          "meta": "próximo · 16:45"
+          "meta": "próximo · 17:45"
         },
         {
           "home": "00\nPlatense",
           "away": "Central Córdoba",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Defensa",
           "away": "Independiente",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "Independiente Riv.",
           "away": "Banfield",
-          "meta": "próximo · 17:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -77,92 +77,111 @@
         {
           "home": "00\nGodoy Cruz",
           "away": "Alte. Brown",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "San Miguel",
           "away": "Dep. Madryn",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "San Telmo",
           "away": "Central Norte",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Atlanta",
           "away": "Midland",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Acassuso",
           "away": "Ferro",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Agropecuario",
           "away": "Almagro",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Tristan Suárez",
           "away": "Maipú",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Güemes",
           "away": "Temperley",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "30\nLos Andes",
           "away": "CA Mitre",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Morón",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 15:00"
         }
       ]
     },
     "metro": {
-      "results": [],
+      "results": [
+        {
+          "home": "14\n18\n13\n10\nD\nV\nE\nD\nD\n7\nReal Pilar",
+          "away": "66\n42",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "5\n12\n15\n14\nD\nE\nD\nV\nD\n12\nSan Carlos",
+          "away": "51\n42",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "10\n26'\nSan Carlos",
+          "away": "Real Pilar",
+          "score": "1-1",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "00\nSan Carlos",
-          "away": "Real Pilar",
-          "meta": "próximo · 12:00"
+          "home": "10\n26'\nSan Carlos\n1",
+          "away": "1\nReal Pilar",
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Flandria",
           "away": "Armenio",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Camioneros",
           "away": "Excursionistas",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Italiano",
           "away": "Villa Dalmine",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "00\nArg. de Quilmes",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Talleres RE",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "CADU",
           "away": "Laferrere",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },

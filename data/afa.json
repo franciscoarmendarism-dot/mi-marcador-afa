@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:57:52.061371+00:00",
+  "generated_at": "2026-11-01T09:59:05.290791+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -50,32 +50,32 @@
         {
           "home": "00\nBoca Jrs.",
           "away": "River",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Belgrano",
           "away": "Barracas",
-          "meta": "próximo · 13:30"
+          "meta": "próximo · 15:30"
         },
         {
           "home": "Newell's",
           "away": "Unión",
-          "meta": "próximo · 15:45"
+          "meta": "próximo · 17:45"
         },
         {
           "home": "00\nPlatense",
           "away": "Central Córdoba",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Defensa",
           "away": "Independiente",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 18:15"
         },
         {
           "home": "Independiente Riv.",
           "away": "Banfield",
-          "meta": "próximo · 16:15"
+          "meta": "próximo · 18:15"
         }
       ]
     },
@@ -146,12 +146,12 @@
         {
           "home": "00\nAll Boys",
           "away": "Estudiantes",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Atlético Rafaela",
           "away": "Patronato",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },
@@ -192,17 +192,17 @@
         {
           "home": "00\nArg. de Quilmes",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Talleres RE",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "CADU",
           "away": "Laferrere",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 12:00"
         }
       ]
     },

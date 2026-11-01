@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-10-31T23:50:22.204950+00:00",
+  "generated_at": "2026-11-01T02:57:52.061371+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "10\n11\n10\n2\n2\nV\nV\nE\nV\nV\n2\nVélez",
-          "away": "30\n15",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n5\n4\n5\nD\nE\nE\nD\nV\n9\nSan Lorenzo",
-          "away": "18\n15",
-          "score": "2-1",
-          "meta": "resultado"
-        },
         {
           "home": "10\nFinal\nHuracán",
           "away": "Tigre",
@@ -46,18 +34,19 @@
           "meta": "resultado"
         },
         {
-          "home": "75'\nVélez",
+          "home": "Final\nVélez",
           "away": "San Lorenzo",
-          "score": "2-1",
+          "score": "2-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nEstudiantes",
+          "away": "Instituto",
+          "score": "3-3",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "3\nTalleres\n75'\nVélez\n2",
-          "away": "1\nSan Lorenzo",
-          "meta": "próximo · 17:30"
-        },
         {
           "home": "00\nBoca Jrs.",
           "away": "River",
@@ -220,15 +209,15 @@
     "primerac": {
       "results": [
         {
-          "home": "10\nFinal\nBerazategui",
-          "away": "Luján",
-          "score": "0-0",
+          "home": "10\nFinal\nCentral Córdoba",
+          "away": "Cañuelas",
+          "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "0\nGlobal",
-          "away": "Berazategui",
-          "score": "3-0",
+          "home": "Final\nEstrella del Sur",
+          "away": "Dep. Español",
+          "score": "1-1",
           "meta": "resultado"
         }
       ],

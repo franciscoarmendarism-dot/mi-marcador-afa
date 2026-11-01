@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:21:23.446564+00:00",
+  "generated_at": "2026-11-01T21:27:07.004124+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -44,12 +44,18 @@
           "away": "Instituto",
           "score": "3-3",
           "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nBoca Jrs.",
+          "away": "River",
+          "score": "1-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nBoca Jrs.",
-          "away": "River",
+          "home": "11\nFinal\nBoca Jrs.\n1",
+          "away": "0\nRiver",
           "meta": "próximo · 15:30"
         },
         {
@@ -157,12 +163,6 @@
     },
     "metro": {
       "results": [
-        {
-          "home": "7\n12\n12\n18\nV\nD\nD\nD\nD\n16\nDock Sud",
-          "away": "48\n42",
-          "score": "1-1",
-          "meta": "resultado"
-        },
         {
           "home": "10\nFinal\nSan Carlos",
           "away": "Real Pilar",

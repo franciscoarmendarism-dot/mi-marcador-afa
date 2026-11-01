@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:59:05.290791+00:00",
+  "generated_at": "2026-11-01T17:21:23.446564+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -157,6 +157,12 @@
     },
     "metro": {
       "results": [
+        {
+          "home": "7\n12\n12\n18\nV\nD\nD\nD\nD\n16\nDock Sud",
+          "away": "48\n42",
+          "score": "1-1",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nSan Carlos",
           "away": "Real Pilar",

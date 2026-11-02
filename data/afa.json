@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:27:07.004124+00:00",
+  "generated_at": "2026-11-02T03:06:42.916181+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -50,24 +50,21 @@
           "away": "River",
           "score": "1-0",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nBelgrano",
+          "away": "Barracas",
+          "score": "2-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nNewell's",
+          "away": "Unión",
+          "score": "1-1",
+          "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "11\nFinal\nBoca Jrs.\n1",
-          "away": "0\nRiver",
-          "meta": "próximo · 15:30"
-        },
-        {
-          "home": "Belgrano",
-          "away": "Barracas",
-          "meta": "próximo · 15:30"
-        },
-        {
-          "home": "Newell's",
-          "away": "Unión",
-          "meta": "próximo · 17:45"
-        },
         {
           "home": "00\nPlatense",
           "away": "Central Córdoba",

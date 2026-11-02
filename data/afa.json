@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:06:42.916181+00:00",
+  "generated_at": "2026-11-02T14:02:28.609246+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -68,17 +68,17 @@
         {
           "home": "00\nPlatense",
           "away": "Central Córdoba",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Defensa",
           "away": "Independiente",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 17:15"
         },
         {
           "home": "Independiente Riv.",
           "away": "Banfield",
-          "meta": "próximo · 18:15"
+          "meta": "próximo · 17:15"
         }
       ]
     },
@@ -149,12 +149,12 @@
         {
           "home": "00\nAll Boys",
           "away": "Estudiantes",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Atlético Rafaela",
           "away": "Patronato",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },
@@ -195,17 +195,17 @@
         {
           "home": "00\nArg. de Quilmes",
           "away": "Brown de Adrogué",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Talleres RE",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "CADU",
           "away": "Laferrere",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },

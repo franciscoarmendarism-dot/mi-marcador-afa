@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-02T14:02:28.609246+00:00",
+  "generated_at": "2026-11-02T22:55:56.615457+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "15\n10\n7\n7\n1\nE\nV\nV\nD\nE\n4\nDefensa",
+          "away": "28\n15",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "6\n1\n6\n3\n6\nE\nD\nD\nV\nD\n8\nIndependiente",
+          "away": "20\n15",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n4\n3\n8\nE\nD\nD\nE\nV\n12\nPlatense",
+          "away": "15\n15",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "2\n6\n7\nD\nD\nE\nD\nE\n15\nCentral Córdoba",
+          "away": "11\n15",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "10\nFinal\nHuracán",
           "away": "Tigre",
@@ -38,41 +62,12 @@
           "away": "San Lorenzo",
           "score": "2-2",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nEstudiantes",
-          "away": "Instituto",
-          "score": "3-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\nFinal\nBoca Jrs.",
-          "away": "River",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nBelgrano",
-          "away": "Barracas",
-          "score": "2-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nNewell's",
-          "away": "Unión",
-          "score": "1-1",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nPlatense",
-          "away": "Central Córdoba",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Defensa",
-          "away": "Independiente",
+          "home": "0\nCentral Córdoba\nET\nDefensa\n1",
+          "away": "1\nIndependiente",
           "meta": "próximo · 17:15"
         },
         {
@@ -145,18 +140,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nAll Boys",
-          "away": "Estudiantes",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Atlético Rafaela",
-          "away": "Patronato",
-          "meta": "próximo · 11:00"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [
@@ -189,23 +173,57 @@
           "away": "Arsenal",
           "score": "1-1",
           "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nArg. de Quilmes",
+          "away": "Brown de Adrogué",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nComunicaciones",
+          "away": "Talleres RE",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCADU",
+          "away": "Laferrere",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "3\nUAI Urquiza\nFinal\nLiniers",
+          "away": "Ituzaingó",
+          "score": "2-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nArg. de Quilmes",
-          "away": "Brown de Adrogué",
-          "meta": "próximo · 11:00"
+          "home": "00\nArmenio",
+          "away": "Italiano",
+          "meta": "próximo · 20:00"
         },
         {
-          "home": "Comunicaciones",
-          "away": "Talleres RE",
-          "meta": "próximo · 11:00"
+          "home": "Talleres RE",
+          "away": "Real Pilar",
+          "meta": "próximo · 20:00"
         },
         {
-          "home": "CADU",
-          "away": "Laferrere",
-          "meta": "próximo · 11:00"
+          "home": "Arsenal",
+          "away": "Comunicaciones",
+          "meta": "próximo · 20:00"
+        },
+        {
+          "home": "Camioneros",
+          "away": "Villa Dalmine",
+          "meta": "próximo · 20:00"
+        },
+        {
+          "home": "Armenio",
+          "away": "Italiano",
+          "meta": "próximo · 20:00"
         }
       ]
     },
@@ -221,6 +239,12 @@
           "home": "Final\nEstrella del Sur",
           "away": "Dep. Español",
           "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nSp. Barracas",
+          "away": "Leones de Rosario FC",
+          "score": "4-1",
           "meta": "resultado"
         }
       ],

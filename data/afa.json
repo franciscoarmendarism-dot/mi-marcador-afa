@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:10:19.668335+00:00",
+  "generated_at": "2026-11-03T20:41:46.274902+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -97,84 +97,35 @@
       ]
     },
     "metro": {
-      "results": [
-        {
-          "home": "10\nFinal\nSan Carlos",
-          "away": "Real Pilar",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCamioneros",
-          "away": "Excursionistas",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nItaliano",
-          "away": "Villa Dalmine",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nFlandria",
-          "away": "Armenio",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nMerlo",
-          "away": "Arsenal",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\nFinal\nArg. de Quilmes",
-          "away": "Brown de Adrogué",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nComunicaciones",
-          "away": "Talleres RE",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCADU",
-          "away": "Laferrere",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\nUAI Urquiza\nFinal\nLiniers",
-          "away": "Ituzaingó",
-          "score": "2-0",
-          "meta": "resultado"
-        }
-      ],
+      "results": [],
       "next": [
         {
-          "home": "00\nArmenio",
-          "away": "Italiano",
-          "meta": "próximo · 18:00"
-        },
-        {
-          "home": "Talleres RE",
+          "home": "00\nTalleres RE",
           "away": "Real Pilar",
           "meta": "próximo · 18:00"
         },
         {
-          "home": "Arsenal",
-          "away": "Comunicaciones",
-          "meta": "próximo · 18:00"
+          "home": "00\nComunicaciones",
+          "away": "Arsenal",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "00\nItaliano",
+          "away": "Armenio",
+          "meta": "próximo · 11:00"
         }
       ]
     },
     "primerac": {
       "results": [
         {
-          "home": "10\nFinal\nCentral Córdoba",
+          "home": "1\nGlobal",
+          "away": "Defensores de Glew",
+          "score": "3-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCentral Córdoba",
           "away": "Cañuelas",
           "score": "1-1",
           "meta": "resultado"
@@ -190,9 +141,38 @@
           "away": "Leones de Rosario FC",
           "score": "4-1",
           "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Sp. Barracas",
+          "score": "1-4",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Estrella del Sur",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Central Córdoba",
+          "score": "1-1",
+          "meta": "resultado"
         }
       ],
-      "next": []
+      "next": [
+        {
+          "home": "Global 1",
+          "away": "4\nSp. Barracas",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "Global 1",
+          "away": "1\nEstrella del Sur",
+          "meta": "próximo · 11:00"
+        }
+      ]
     }
   }
 }

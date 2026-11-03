@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:24:40.882907+00:00",
+  "generated_at": "2026-11-03T13:10:19.668335+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -72,27 +72,27 @@
         {
           "home": "00\nAtlanta",
           "away": "Estudiantes",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Temperley",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Dep. Madryn",
           "away": "Maipú",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "00\nColón",
           "away": "Midland",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Morón",
           "away": "Colegiales",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },
@@ -157,17 +157,17 @@
         {
           "home": "00\nArmenio",
           "away": "Italiano",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "Talleres RE",
           "away": "Real Pilar",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "Arsenal",
           "away": "Comunicaciones",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },

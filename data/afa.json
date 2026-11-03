@@ -1,32 +1,8 @@
 {
-  "generated_at": "2026-11-02T22:55:56.615457+00:00",
+  "generated_at": "2026-11-03T04:24:40.882907+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "15\n10\n7\n7\n1\nE\nV\nV\nD\nE\n4\nDefensa",
-          "away": "28\n15",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "6\n1\n6\n3\n6\nE\nD\nD\nV\nD\n8\nIndependiente",
-          "away": "20\n15",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n4\n3\n8\nE\nD\nD\nE\nV\n12\nPlatense",
-          "away": "15\n15",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "2\n6\n7\nD\nD\nE\nD\nE\n15\nCentral Córdoba",
-          "away": "11\n15",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "10\nFinal\nHuracán",
           "away": "Tigre",
@@ -62,85 +38,63 @@
           "away": "San Lorenzo",
           "score": "2-2",
           "meta": "resultado"
-        }
-      ],
-      "next": [
-        {
-          "home": "0\nCentral Córdoba\nET\nDefensa\n1",
-          "away": "1\nIndependiente",
-          "meta": "próximo · 17:15"
         },
         {
-          "home": "Independiente Riv.",
-          "away": "Banfield",
-          "meta": "próximo · 17:15"
-        }
-      ]
-    },
-    "nacional": {
-      "results": [
-        {
-          "home": "10\nFinal\nGodoy Cruz",
-          "away": "Alte. Brown",
-          "score": "2-1",
+          "home": "Final\nEstudiantes",
+          "away": "Instituto",
+          "score": "3-3",
           "meta": "resultado"
         },
         {
-          "home": "Final\nSan Miguel",
-          "away": "Dep. Madryn",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nSan Telmo",
-          "away": "Central Norte",
+          "home": "11\nFinal\nBoca Jrs.",
+          "away": "River",
           "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "Final\nAtlanta",
-          "away": "Midland",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAcassuso",
-          "away": "Ferro",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nAgropecuario",
-          "away": "Almagro",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nTristan Suárez",
-          "away": "Maipú",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nGüemes",
-          "away": "Temperley",
+          "home": "Final\nBelgrano",
+          "away": "Barracas",
           "score": "2-2",
           "meta": "resultado"
         },
         {
-          "home": "Final\nLos Andes",
-          "away": "CA Mitre",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nMorón",
-          "away": "Ciudad De Bolivar",
-          "score": "2-0",
+          "home": "Final\nNewell's",
+          "away": "Unión",
+          "score": "1-1",
           "meta": "resultado"
         }
       ],
       "next": []
+    },
+    "nacional": {
+      "results": [],
+      "next": [
+        {
+          "home": "00\nAtlanta",
+          "away": "Estudiantes",
+          "meta": "próximo · 10:00"
+        },
+        {
+          "home": "Temperley",
+          "away": "Ciudad De Bolivar",
+          "meta": "próximo · 10:00"
+        },
+        {
+          "home": "Dep. Madryn",
+          "away": "Maipú",
+          "meta": "próximo · 10:00"
+        },
+        {
+          "home": "00\nColón",
+          "away": "Midland",
+          "meta": "próximo · 10:00"
+        },
+        {
+          "home": "Morón",
+          "away": "Colegiales",
+          "meta": "próximo · 10:00"
+        }
+      ]
     },
     "metro": {
       "results": [
@@ -203,27 +157,17 @@
         {
           "home": "00\nArmenio",
           "away": "Italiano",
-          "meta": "próximo · 20:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Talleres RE",
           "away": "Real Pilar",
-          "meta": "próximo · 20:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Arsenal",
           "away": "Comunicaciones",
-          "meta": "próximo · 20:00"
-        },
-        {
-          "home": "Camioneros",
-          "away": "Villa Dalmine",
-          "meta": "próximo · 20:00"
-        },
-        {
-          "home": "Armenio",
-          "away": "Italiano",
-          "meta": "próximo · 20:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

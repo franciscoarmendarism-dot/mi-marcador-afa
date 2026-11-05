@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:57:45.118001+00:00",
+  "generated_at": "2026-11-05T01:08:56.771308+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -87,21 +87,51 @@
       ]
     },
     "metro": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nTalleres RE",
-          "away": "Real Pilar",
-          "meta": "próximo · 18:00"
+          "home": "Global",
+          "away": "Villa Dalmine",
+          "score": "0-0",
+          "meta": "resultado"
         },
         {
-          "home": "00\nComunicaciones",
+          "home": "Global",
+          "away": "Real Pilar",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Armenio",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Comunicaciones",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "Talleres RE\nAplazado\nVilla Dalmine",
+          "away": "Camioneros",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "Comunicaciones",
           "away": "Arsenal",
           "meta": "próximo · 11:00"
         },
         {
-          "home": "00\nItaliano",
-          "away": "Armenio",
+          "home": "Global 0",
+          "away": "0\nReal Pilar",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "Global 0",
+          "away": "0\nArmenio",
           "meta": "próximo · 11:00"
         }
       ]
@@ -155,12 +185,12 @@
         {
           "home": "Global 1",
           "away": "4\nSp. Barracas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Global 1",
           "away": "1\nEstrella del Sur",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 12:00"
         }
       ]
     }

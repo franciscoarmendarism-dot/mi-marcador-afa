@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-11-06T10:02:19.552716+00:00",
+  "generated_at": "2026-11-06T18:38:15.982648+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
+        {
+          "home": "14\n7\n8\n2\n6\nV\nD\nV\nV\nE\n5\nBarracas",
+          "away": "24\n16",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\n4\n4\n7\nV\nD\nE\nD\nD\n12\nRacing",
+          "away": "16\n16",
+          "score": "0-0",
+          "meta": "resultado"
+        },
         {
           "home": "11\nFinal\nAldosivi",
           "away": "River",
@@ -14,12 +26,18 @@
           "away": "Belgrano",
           "score": "2-1",
           "meta": "resultado"
+        },
+        {
+          "home": "11\n37'\nBarracas",
+          "away": "Racing",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "00\nBarracas",
-          "away": "Racing",
+          "home": "11\n37'\nBarracas\n0",
+          "away": "0\nRacing",
           "meta": "próximo · 16:15"
         },
         {
@@ -70,27 +88,27 @@
         {
           "home": "00\nAtlanta",
           "away": "Estudiantes",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Temperley",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 15:00"
+        },
+        {
+          "home": "Colón",
+          "away": "Midland",
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Dep. Madryn",
           "away": "Maipú",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 17:00"
         },
         {
-          "home": "00\nColón",
-          "away": "Midland",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Morón",
+          "home": "00\nMorón",
           "away": "Colegiales",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },

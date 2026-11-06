@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-11-05T19:10:38.332781+00:00",
+  "generated_at": "2026-11-06T01:14:13.687750+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "19\n4\n8\n4\n3\nV\nV\nV\nE\nE\n4\nRiver",
-          "away": "24\n16",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "7\n3\n5\n7\nD\nE\nD\nV\nE\n14\nAldosivi",
-          "away": "12\n16",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\n53'\nAldosivi",
+          "home": "11\nFinal\nAldosivi",
           "away": "River",
-          "score": "0-0",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nGimnasia",
+          "away": "Belgrano",
+          "score": "2-1",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "11\n53'\nAldosivi\n0",
-          "away": "0\nRiver",
-          "meta": "próximo · 16:15"
-        },
         {
           "home": "00\nBarracas",
           "away": "Racing",

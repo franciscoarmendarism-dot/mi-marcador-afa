@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-11-06T18:38:15.982648+00:00",
+  "generated_at": "2026-11-07T00:29:02.663779+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "14\n7\n8\n2\n6\nV\nD\nV\nV\nE\n5\nBarracas",
-          "away": "24\n16",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "1\n4\n4\n7\nV\nD\nE\nD\nD\n12\nRacing",
-          "away": "16\n16",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "11\nFinal\nAldosivi",
           "away": "River",
@@ -28,31 +16,34 @@
           "meta": "resultado"
         },
         {
-          "home": "11\n37'\nBarracas",
+          "home": "11\nFinal\nBarracas",
           "away": "Racing",
-          "score": "0-0",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nIndependiente",
+          "away": "Riestra",
+          "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nUnión",
+          "away": "Vélez",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Lorenzo",
+          "away": "Platense",
+          "score": "0-2",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "11\n37'\nBarracas\n0",
-          "away": "0\nRacing",
-          "meta": "próximo · 16:15"
-        },
-        {
-          "home": "Independiente",
-          "away": "Riestra",
-          "meta": "próximo · 16:15"
-        },
-        {
-          "home": "Unión",
-          "away": "Vélez",
-          "meta": "próximo · 16:15"
-        },
-        {
-          "home": "San Lorenzo",
-          "away": "Platense",
+          "home": "0\nVélez\nFinal\nSan Lorenzo\n0",
+          "away": "2\nPlatense",
           "meta": "próximo · 19:00"
         },
         {

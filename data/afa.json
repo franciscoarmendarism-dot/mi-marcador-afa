@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:21:50.408529+00:00",
+  "generated_at": "2026-11-08T19:13:33.504102+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -171,38 +171,9 @@
           "away": "Leones de Rosario FC",
           "score": "4-1",
           "meta": "resultado"
-        },
-        {
-          "home": "Global",
-          "away": "Sp. Barracas",
-          "score": "1-4",
-          "meta": "resultado"
-        },
-        {
-          "home": "Global",
-          "away": "Estrella del Sur",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Global",
-          "away": "Central Córdoba",
-          "score": "1-1",
-          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "Global 1",
-          "away": "4\nSp. Barracas",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Global 1",
-          "away": "1\nEstrella del Sur",
-          "meta": "próximo · 12:00"
-        }
-      ]
+      "next": []
     }
   }
 }

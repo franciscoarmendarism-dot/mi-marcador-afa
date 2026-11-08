@@ -1,44 +1,8 @@
 {
-  "generated_at": "2026-11-07T21:11:20.072505+00:00",
+  "generated_at": "2026-11-08T03:04:06.909541+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
-        {
-          "home": "13\n11\n10\n3\n2\nE\nV\nV\nE\nV\n2\nBoca Jrs.",
-          "away": "33\n16",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "17\n8\n7\n7\n2\nD\nE\nV\nV\nD\n4\nDefensa",
-          "away": "28\n16",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "G\nE\nP\nÚltimas\n1\nCentral",
-          "away": "32\n16",
-          "score": "0-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "12\n12\n9\n5\n2\nV\nV\nV\nV\nE\n2\nArgentinos",
-          "away": "31\n16",
-          "score": "0-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n6\n5\n5\nE\nV\nD\nE\nD\n8\nHuracán",
-          "away": "22\n16",
-          "score": "0-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "3\n2\n11\nD\nD\nV\nD\nD\n15\nEstudiantes RC",
-          "away": "10\n16",
-          "score": "0-0",
-          "meta": "resultado"
-        },
         {
           "home": "11\nFinal\nAldosivi",
           "away": "River",
@@ -62,15 +26,45 @@
           "away": "Riestra",
           "score": "2-1",
           "meta": "resultado"
+        },
+        {
+          "home": "Final\nUnión",
+          "away": "Vélez",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nSan Lorenzo",
+          "away": "Platense",
+          "score": "0-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTigre",
+          "away": "Sarmiento",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nBanfield",
+          "away": "Atl. Tucumán",
+          "score": "2-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nTalleres",
+          "away": "Estudiantes",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "1\nIndependiente Riv.\nFinal\nCentral",
+          "away": "Estudiantes RC",
+          "score": "2-0",
+          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "2\nHuracán\n36'\nBoca Jrs.\n0",
-          "away": "0\nDefensa",
-          "meta": "próximo · 17:00"
-        }
-      ]
+      "next": []
     },
     "nacional": {
       "results": [],
@@ -103,9 +97,54 @@
       ]
     },
     "metro": {
-      "results": [],
-      "next": [],
-      "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.promiedos.com.ar/league/primera-b-metropolitana/fahh\", waiting until \"networkidle\"\n"
+      "results": [
+        {
+          "home": "Global",
+          "away": "Villa Dalmine",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Real Pilar",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Armenio",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Comunicaciones",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "Talleres RE\nAplazado\nVilla Dalmine",
+          "away": "Camioneros",
+          "meta": "próximo · 09:00"
+        },
+        {
+          "home": "Comunicaciones",
+          "away": "Arsenal",
+          "meta": "próximo · 09:00"
+        },
+        {
+          "home": "Global 0",
+          "away": "0\nReal Pilar",
+          "meta": "próximo · 09:00"
+        },
+        {
+          "home": "Global 0",
+          "away": "0\nArmenio",
+          "meta": "próximo · 09:00"
+        }
+      ]
     },
     "primerac": {
       "results": [

@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-09T21:42:29.985810+00:00",
+  "generated_at": "2026-11-10T05:00:31.583418+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
       "next": [
         {
-          "home": "00\nDefensa",
-          "away": "Barracas",
-          "meta": "próximo · 09:00"
-        },
-        {
           "home": "00\nGimnasia",
           "away": "Newell's",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
-          "home": "Boca Jrs.",
+          "home": "Defensa",
+          "away": "Barracas",
+          "meta": "próximo · 11:00"
+        },
+        {
+          "home": "00\nBoca Jrs.",
           "away": "Independiente Riv.",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Argentinos",
           "away": "Independiente",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Vélez",
           "away": "Belgrano",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },
@@ -42,27 +42,27 @@
         {
           "home": "00\nAtlanta",
           "away": "Estudiantes",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "Temperley",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Colón",
           "away": "Midland",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Dep. Madryn",
           "away": "Maipú",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "00\nMorón",
           "away": "Colegiales",
-          "meta": "próximo · 15:30"
+          "meta": "próximo · 17:30"
         }
       ]
     },
@@ -97,32 +97,32 @@
         {
           "home": "30\nArmenio",
           "away": "Italiano",
-          "meta": "próximo · 10:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Villa Dalmine",
           "away": "Camioneros",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Arsenal",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Global 0",
           "away": "0\nArmenio",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Global 0",
           "away": "0\nComunicaciones",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Global 0",
           "away": "0\nVilla Dalmine",
-          "meta": "próximo · 09:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },

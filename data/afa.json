@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:04:44.490822+00:00",
+  "generated_at": "2026-11-11T03:34:13.045483+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -129,27 +129,63 @@
     "primerac": {
       "results": [
         {
-          "home": "1\nGlobal",
-          "away": "Defensores de Glew",
+          "home": "09\nFinal\nJJ Urquiza",
+          "away": "Juventud Unida SM",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nParaguayo",
+          "away": "Leandro N. Alem",
+          "score": "4-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nPuerto Nuevo",
+          "away": "CA Lugano",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Español",
+          "away": "Fenix",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nCañuelas",
+          "away": "Luján",
           "score": "3-2",
           "meta": "resultado"
         },
         {
-          "home": "Final\nCentral Córdoba",
-          "away": "Cañuelas",
-          "score": "1-1",
+          "home": "09\nFinal\nMuñiz",
+          "away": "Sp. Barracas",
+          "score": "0-2",
           "meta": "resultado"
         },
         {
-          "home": "Final\nEstrella del Sur",
+          "home": "09\nFinal\nClaypole",
+          "away": "Central Ballester",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "09\nFinal\nMercedes",
           "away": "Dep. Español",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "11\nFinal\nSp. Barracas",
-          "away": "Leones de Rosario FC",
-          "score": "4-1",
+          "home": "09\nFinal\nLuján",
+          "away": "Paraguayo",
+          "score": "3-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nEstrella del Sur",
+          "away": "Yupanqui",
+          "score": "1-1",
           "meta": "resultado"
         }
       ],

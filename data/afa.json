@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:09:30.074809+00:00",
+  "generated_at": "2026-11-12T21:38:38.071492+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,12 +7,12 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nRiver",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },
@@ -22,27 +22,27 @@
         {
           "home": "00\nAtlanta",
           "away": "Estudiantes",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "Temperley",
           "away": "Ciudad De Bolivar",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Colón",
           "away": "Midland",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Dep. Madryn",
           "away": "Maipú",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "00\nMorón",
           "away": "Colegiales",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 16:30"
         }
       ]
     },
@@ -77,32 +77,32 @@
         {
           "home": "30\nArmenio",
           "away": "Italiano",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 11:30"
         },
         {
           "home": "Villa Dalmine",
           "away": "Camioneros",
-          "meta": "próximo · 15:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "Comunicaciones",
           "away": "Arsenal",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "Global 0",
           "away": "0\nArmenio",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 0",
           "away": "0\nComunicaciones",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 0",
           "away": "0\nVilla Dalmine",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 10:00"
         }
       ]
     },

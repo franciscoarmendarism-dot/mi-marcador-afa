@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:38:21.612056+00:00",
+  "generated_at": "2026-11-12T04:42:51.351383+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,32 +7,12 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 14:00"
         },
         {
-          "home": "00\nGimnasia",
-          "away": "Newell's",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Boca Jrs.",
-          "away": "Independiente Riv.",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Argentinos",
-          "away": "Independiente",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "Vélez",
-          "away": "Belgrano",
-          "meta": "próximo · 11:00"
-        },
-        {
-          "home": "River",
+          "home": "00\nRiver",
           "away": "Lanús",
-          "meta": "próximo · 11:00"
+          "meta": "próximo · 19:00"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:39:08.562477+00:00",
+  "generated_at": "2026-11-14T19:33:13.976691+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -17,16 +17,24 @@
       ]
     },
     "nacional": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nAtlanta",
+          "home": "11\n70'\nAtlanta",
           "away": "Estudiantes",
-          "meta": "próximo · 13:00"
+          "score": "1-1",
+          "meta": "resultado"
         },
         {
-          "home": "Temperley",
+          "home": "27'\nTemperley",
           "away": "Ciudad De Bolivar",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
+      "next": [
+        {
+          "home": "1\nEstudiantes\n27'\nTemperley\n0",
+          "away": "0\nCiudad De Bolivar",
           "meta": "próximo · 15:00"
         },
         {
@@ -49,6 +57,18 @@
     "metro": {
       "results": [
         {
+          "home": "11\nET\nArmenio",
+          "away": "Italiano",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "ET\nVilla Dalmine",
+          "away": "Camioneros",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
           "home": "Global",
           "away": "Armenio",
           "score": "0-0",
@@ -56,7 +76,7 @@
         },
         {
           "home": "Global",
-          "away": "Comu",
+          "away": "Comunicaciones",
           "score": "0-0",
           "meta": "resultado"
         },
@@ -75,17 +95,12 @@
       ],
       "next": [
         {
-          "home": "30\nArmenio",
-          "away": "Italiano",
-          "meta": "próximo · 12:30"
-        },
-        {
-          "home": "Villa Dalmine",
-          "away": "Camioneros",
+          "home": "0\nItaliano\nET\nVilla Dalmine\n0",
+          "away": "0\nCamioneros",
           "meta": "próximo · 15:00"
         },
         {
-          "home": "Comu",
+          "home": "Comunicaciones",
           "away": "Arsenal",
           "meta": "próximo · 16:00"
         },
@@ -96,7 +111,7 @@
         },
         {
           "home": "Global 0",
-          "away": "0\nComu",
+          "away": "0\nComunicaciones",
           "meta": "próximo · 11:00"
         },
         {

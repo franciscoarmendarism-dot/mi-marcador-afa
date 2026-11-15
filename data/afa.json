@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:33:13.976691+00:00",
+  "generated_at": "2026-11-15T00:29:44.177141+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -19,34 +19,31 @@
     "nacional": {
       "results": [
         {
-          "home": "11\n70'\nAtlanta",
+          "home": "11\nFinal\nAtlanta",
           "away": "Estudiantes",
           "score": "1-1",
           "meta": "resultado"
         },
         {
-          "home": "27'\nTemperley",
+          "home": "Final\nTemperley",
           "away": "Ciudad De Bolivar",
-          "score": "0-0",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColón",
+          "away": "Midland",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "90'\nDep. Madryn",
+          "away": "Maipú",
+          "score": "3-1",
           "meta": "resultado"
         }
       ],
       "next": [
-        {
-          "home": "1\nEstudiantes\n27'\nTemperley\n0",
-          "away": "0\nCiudad De Bolivar",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Colón",
-          "away": "Midland",
-          "meta": "próximo · 16:00"
-        },
-        {
-          "home": "Dep. Madryn",
-          "away": "Maipú",
-          "meta": "próximo · 17:00"
-        },
         {
           "home": "00\nMorón",
           "away": "Colegiales",
@@ -57,15 +54,27 @@
     "metro": {
       "results": [
         {
-          "home": "11\nET\nArmenio",
+          "home": "11\nFinal\nArmenio",
           "away": "Italiano",
-          "score": "0-0",
+          "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "ET\nVilla Dalmine",
+          "home": "Final\nVilla Dalmine",
           "away": "Camioneros",
-          "score": "0-0",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nComunicaciones",
+          "away": "Arsenal",
+          "score": "2-3",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nReal Pilar",
+          "away": "Talleres RE",
+          "score": "2-1",
           "meta": "resultado"
         },
         {
@@ -77,13 +86,13 @@
         {
           "home": "Global",
           "away": "Comunicaciones",
-          "score": "0-0",
+          "score": "3-2",
           "meta": "resultado"
         },
         {
           "home": "Global",
           "away": "Villa Dalmine",
-          "score": "0-0",
+          "score": "1-0",
           "meta": "resultado"
         },
         {
@@ -95,27 +104,17 @@
       ],
       "next": [
         {
-          "home": "0\nItaliano\nET\nVilla Dalmine\n0",
-          "away": "0\nCamioneros",
-          "meta": "próximo · 15:00"
-        },
-        {
-          "home": "Comunicaciones",
-          "away": "Arsenal",
-          "meta": "próximo · 16:00"
-        },
-        {
           "home": "Global 0",
           "away": "0\nArmenio",
           "meta": "próximo · 11:00"
         },
         {
-          "home": "Global 0",
-          "away": "0\nComunicaciones",
+          "home": "Global 3",
+          "away": "2\nComunicaciones",
           "meta": "próximo · 11:00"
         },
         {
-          "home": "Global 0",
+          "home": "Global 1",
           "away": "0\nVilla Dalmine",
           "meta": "próximo · 11:00"
         }

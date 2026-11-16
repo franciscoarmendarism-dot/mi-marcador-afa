@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:07:11.968007+00:00",
+  "generated_at": "2026-11-16T00:30:44.531766+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,12 +7,12 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 13:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "00\nRiver",
           "away": "Lanús",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 19:00"
         }
       ]
     },
@@ -43,19 +43,19 @@
           "meta": "resultado"
         },
         {
-          "home": "11\n1'\nMorón",
+          "home": "11\nFinal\nMorón",
           "away": "Colegiales",
-          "score": "0-0",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "ET\nFerro",
+          "away": "Gimnasia y Tiro",
+          "score": "0-1",
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "11\n1'\nMorón\n0",
-          "away": "0\nColegiales",
-          "meta": "próximo · 16:30"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [
@@ -112,17 +112,17 @@
         {
           "home": "Global 0",
           "away": "1\nArmenio",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Global 3",
           "away": "2\nComunicaciones",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Global 1",
           "away": "0\nDalmine",
-          "meta": "próximo · 10:00"
+          "meta": "próximo · 11:00"
         }
       ]
     },

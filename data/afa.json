@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:22:16.173983+00:00",
+  "generated_at": "2026-11-17T05:32:31.817675+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,66 +7,34 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
     "nacional": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "11\nFinal\nAtlanta",
-          "away": "Estudiantes",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nTemperley",
-          "away": "Ciudad De Bolivar",
-          "score": "1-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nColón",
-          "away": "Midland",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nGimnasia y Esgrima",
-          "away": "Alte. Brown",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Susp\nDep. Madryn",
-          "away": "Maipú",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\nFinal\nMorón",
-          "away": "Colegiales",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nFerro",
+          "home": "00\nTristan Suárez",
           "away": "Gimnasia y Tiro",
-          "score": "0-1",
-          "meta": "resultado"
+          "meta": "próximo · 09:00"
+        },
+        {
+          "home": "Atlanta",
+          "away": "Ciudad De Bolivar",
+          "meta": "próximo · 09:00"
         }
-      ],
-      "next": []
+      ]
     },
     "metro": {
       "results": [
@@ -123,17 +91,17 @@
         {
           "home": "Global 0",
           "away": "1\nArmenio",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 3",
           "away": "2\nComunicaciones",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 1",
           "away": "0\nDalmine",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         }
       ]
     },

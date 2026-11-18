@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:08:46.269296+00:00",
+  "generated_at": "2026-11-18T10:54:50.948792+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -25,14 +25,9 @@
       "results": [],
       "next": [
         {
-          "home": "00\nTristan Suárez",
-          "away": "Gimnasia y Tiro",
-          "meta": "próximo · 09:00"
-        },
-        {
-          "home": "Atlanta",
-          "away": "Ciudad De Bolivar",
-          "meta": "próximo · 09:00"
+          "home": "00\nMorón",
+          "away": "Colón",
+          "meta": "próximo · 16:30"
         }
       ]
     },
@@ -45,13 +40,13 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nDalmine",
+          "home": "Final\nVilla Dalmine",
           "away": "Camioneros",
           "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "Final\nComu",
+          "home": "Final\nComunicaciones",
           "away": "Arsenal",
           "score": "2-3",
           "meta": "resultado"
@@ -70,13 +65,13 @@
         },
         {
           "home": "Global",
-          "away": "Comu",
+          "away": "Comunicaciones",
           "score": "3-2",
           "meta": "resultado"
         },
         {
           "home": "Global",
-          "away": "Dalmine",
+          "away": "Villa Dalmine",
           "score": "1-0",
           "meta": "resultado"
         },
@@ -95,12 +90,12 @@
         },
         {
           "home": "Global 3",
-          "away": "2\nComu",
+          "away": "2\nComunicaciones",
           "meta": "próximo · 10:00"
         },
         {
           "home": "Global 1",
-          "away": "0\nDalmine",
+          "away": "0\nVilla Dalmine",
           "meta": "próximo · 10:00"
         }
       ]

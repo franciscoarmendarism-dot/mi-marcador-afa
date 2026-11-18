@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:04:03.077265+00:00",
+  "generated_at": "2026-11-18T00:08:46.269296+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,17 +7,17 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -25,14 +25,14 @@
       "results": [],
       "next": [
         {
-          "home": "00\nGimnasia y Tiro",
-          "away": "Tristan Suárez",
-          "meta": "próximo · 11:00"
+          "home": "00\nTristan Suárez",
+          "away": "Gimnasia y Tiro",
+          "meta": "próximo · 09:00"
         },
         {
-          "home": "Ciudad De Bolivar",
-          "away": "Atlanta",
-          "meta": "próximo · 11:00"
+          "home": "Atlanta",
+          "away": "Ciudad De Bolivar",
+          "meta": "próximo · 09:00"
         }
       ]
     },
@@ -51,7 +51,7 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nComunicaciones",
+          "home": "Final\nComu",
           "away": "Arsenal",
           "score": "2-3",
           "meta": "resultado"
@@ -70,7 +70,7 @@
         },
         {
           "home": "Global",
-          "away": "Comunicaciones",
+          "away": "Comu",
           "score": "3-2",
           "meta": "resultado"
         },
@@ -91,83 +91,22 @@
         {
           "home": "Global 0",
           "away": "1\nArmenio",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 3",
-          "away": "2\nComunicaciones",
-          "meta": "próximo · 12:00"
+          "away": "2\nComu",
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 1",
           "away": "0\nDalmine",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         }
       ]
     },
     "primerac": {
-      "results": [
-        {
-          "home": "09\nFinal\nJJ Urquiza",
-          "away": "Juventud Unida SM",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nParaguayo",
-          "away": "Leandro N. Alem",
-          "score": "4-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nPuerto Nuevo",
-          "away": "CA Lugano",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nDep. Español",
-          "away": "Fenix",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nCañuelas",
-          "away": "Luján",
-          "score": "3-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nMuñiz",
-          "away": "Sp. Barracas",
-          "score": "0-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nClaypole",
-          "away": "Central Ballester",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nMercedes",
-          "away": "Dep. Español",
-          "score": "1-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "09\nFinal\nLuján",
-          "away": "Paraguayo",
-          "score": "3-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nEstrella del Sur",
-          "away": "Yupanqui",
-          "score": "1-1",
-          "meta": "resultado"
-        }
-      ],
+      "results": [],
       "next": []
     }
   }

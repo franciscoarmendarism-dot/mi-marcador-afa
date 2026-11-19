@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:51:29.150848+00:00",
+  "generated_at": "2026-11-19T19:42:45.483792+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,17 +7,17 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -27,12 +27,12 @@
         {
           "home": "00\nCiudad De Bolivar",
           "away": "Atlanta",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Colón",
           "away": "Morón",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 16:30"
         }
       ]
     },
@@ -91,17 +91,17 @@
         {
           "home": "Global 0",
           "away": "1\nArmenio",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 3",
           "away": "2\nComu",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         },
         {
           "home": "Global 1",
           "away": "0\nDalmine",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 10:00"
         }
       ]
     },

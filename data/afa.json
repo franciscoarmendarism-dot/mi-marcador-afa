@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:41:01.977277+00:00",
+  "generated_at": "2026-11-20T19:21:14.293915+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -45,7 +45,7 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nDalmine",
+          "home": "Final\nVilla Dalmine",
           "away": "Camioneros",
           "score": "0-1",
           "meta": "resultado"
@@ -76,7 +76,7 @@
         },
         {
           "home": "Global",
-          "away": "Dalmine",
+          "away": "Villa Dalmine",
           "score": "1-0",
           "meta": "resultado"
         },
@@ -100,7 +100,7 @@
         },
         {
           "home": "Global 1",
-          "away": "0\nDalmine",
+          "away": "0\nVilla Dalmine",
           "meta": "próximo · 12:00"
         }
       ]

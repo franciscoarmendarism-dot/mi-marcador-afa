@@ -1,23 +1,30 @@
 {
-  "generated_at": "2026-11-21T10:23:57.796632+00:00",
+  "generated_at": "2026-11-21T18:24:40.115247+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [],
+      "results": [
+        {
+          "home": "11\n15'\nDefensa",
+          "away": "Barracas",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": [
         {
-          "home": "00\nDefensa",
-          "away": "Barracas",
-          "meta": "próximo · 14:00"
+          "home": "11\n15'\nDefensa\n0",
+          "away": "0\nBarracas",
+          "meta": "próximo · 12:00"
         },
         {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 14:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -27,12 +34,12 @@
         {
           "home": "00\nCiudad De Bolivar",
           "away": "Atlanta",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 12:30"
         },
         {
           "home": "Colón",
           "away": "Morón",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 16:30"
         }
       ]
     },
@@ -63,47 +70,31 @@
           "meta": "resultado"
         },
         {
-          "home": "Global",
+          "home": "0\nGlobal",
           "away": "Armenio",
           "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "Global",
+          "home": "0\nGlobal",
           "away": "Comu",
           "score": "3-2",
           "meta": "resultado"
         },
         {
-          "home": "Global",
+          "home": "0\nGlobal",
           "away": "Dalmine",
           "score": "1-0",
           "meta": "resultado"
         },
         {
-          "home": "Global",
+          "home": "0\nGlobal",
           "away": "Real Pilar",
           "score": "1-2",
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "Global 0",
-          "away": "1\nArmenio",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Global 3",
-          "away": "2\nComu",
-          "meta": "próximo · 12:00"
-        },
-        {
-          "home": "Global 1",
-          "away": "0\nDalmine",
-          "meta": "próximo · 12:00"
-        }
-      ]
+      "next": []
     },
     "primerac": {
       "results": [],

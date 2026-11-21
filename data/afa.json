@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:21:14.293915+00:00",
+  "generated_at": "2026-11-21T01:51:39.722190+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,17 +7,17 @@
         {
           "home": "00\nDefensa",
           "away": "Barracas",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 13:00"
         },
         {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },
@@ -27,12 +27,12 @@
         {
           "home": "00\nCiudad De Bolivar",
           "away": "Atlanta",
-          "meta": "próximo · 14:30"
+          "meta": "próximo · 13:30"
         },
         {
           "home": "Colón",
           "away": "Morón",
-          "meta": "próximo · 18:30"
+          "meta": "próximo · 17:30"
         }
       ]
     },
@@ -45,13 +45,13 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nVilla Dalmine",
+          "home": "Final\nDalmine",
           "away": "Camioneros",
           "score": "0-1",
           "meta": "resultado"
         },
         {
-          "home": "Final\nComunicaciones",
+          "home": "Final\nComu",
           "away": "Arsenal",
           "score": "2-3",
           "meta": "resultado"
@@ -70,13 +70,13 @@
         },
         {
           "home": "Global",
-          "away": "Comunicaciones",
+          "away": "Comu",
           "score": "3-2",
           "meta": "resultado"
         },
         {
           "home": "Global",
-          "away": "Villa Dalmine",
+          "away": "Dalmine",
           "score": "1-0",
           "meta": "resultado"
         },
@@ -91,17 +91,17 @@
         {
           "home": "Global 0",
           "away": "1\nArmenio",
-          "meta": "próximo · 12:00"
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Global 3",
-          "away": "2\nComunicaciones",
-          "meta": "próximo · 12:00"
+          "away": "2\nComu",
+          "meta": "próximo · 11:00"
         },
         {
           "home": "Global 1",
-          "away": "0\nVilla Dalmine",
-          "meta": "próximo · 12:00"
+          "away": "0\nDalmine",
+          "meta": "próximo · 11:00"
         }
       ]
     },

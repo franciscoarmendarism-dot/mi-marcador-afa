@@ -1,47 +1,56 @@
 {
-  "generated_at": "2026-11-21T18:24:40.115247+00:00",
+  "generated_at": "2026-11-22T00:45:14.819965+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
         {
-          "home": "11\n15'\nDefensa",
+          "home": "11\nFinal\nDefensa",
           "away": "Barracas",
-          "score": "0-0",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nArgentinos",
+          "away": "Independiente",
+          "score": "1-2",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "11\n15'\nDefensa\n0",
-          "away": "0\nBarracas",
-          "meta": "próximo · 12:00"
-        },
-        {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 14:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 19:00"
         }
       ]
     },
     "nacional": {
-      "results": [],
-      "next": [
+      "results": [
         {
-          "home": "00\nCiudad De Bolivar",
+          "home": "11\nFinal\nCiudad De Bolivar",
           "away": "Atlanta",
-          "meta": "próximo · 12:30"
+          "score": "0-1",
+          "meta": "resultado"
         },
         {
-          "home": "Colón",
+          "home": "Final\nColón",
           "away": "Morón",
-          "meta": "próximo · 16:30"
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "10'\nGimnasia y Esgrima",
+          "away": "Dep. Madryn",
+          "score": "0-0",
+          "meta": "resultado"
         }
-      ]
+      ],
+      "next": []
     },
     "metro": {
       "results": [
@@ -76,21 +85,21 @@
           "meta": "resultado"
         },
         {
-          "home": "0\nGlobal",
+          "home": "2\nGlobal",
           "away": "Comu",
-          "score": "3-2",
+          "score": "6-4",
           "meta": "resultado"
         },
         {
           "home": "0\nGlobal",
           "away": "Dalmine",
-          "score": "1-0",
+          "score": "5-0",
           "meta": "resultado"
         },
         {
-          "home": "0\nGlobal",
+          "home": "Global",
           "away": "Real Pilar",
-          "score": "1-2",
+          "score": "2-2",
           "meta": "resultado"
         }
       ],

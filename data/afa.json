@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:28:06.462128+00:00",
+  "generated_at": "2026-11-22T18:47:15.768948+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -20,12 +20,12 @@
         {
           "home": "00\nCentral",
           "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 16:00"
+          "meta": "próximo · 15:00"
         },
         {
           "home": "River",
           "away": "Lanús",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nComu",
+          "home": "Final\nComunicaciones",
           "away": "Arsenal",
           "score": "2-3",
           "meta": "resultado"
@@ -86,7 +86,7 @@
         },
         {
           "home": "2\nGlobal",
-          "away": "Comu",
+          "away": "Comunicaciones",
           "score": "6-4",
           "meta": "resultado"
         },
@@ -106,7 +106,14 @@
       "next": []
     },
     "primerac": {
-      "results": [],
+      "results": [
+        {
+          "home": "11\n11'\nEstrella del Sur",
+          "away": "Cañuelas",
+          "score": "0-0",
+          "meta": "resultado"
+        }
+      ],
       "next": []
     }
   }

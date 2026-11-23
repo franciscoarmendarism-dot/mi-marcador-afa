@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:27:27.815330+00:00",
+  "generated_at": "2026-11-23T23:00:09.869949+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -31,6 +31,12 @@
           "home": "Final\nInstituto",
           "away": "Huracán",
           "score": "2-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "En Tiempo Extra\nGimnasia y Esgrima",
+          "away": "Newell's",
+          "score": "4-2",
           "meta": "resultado"
         }
       ],
@@ -80,7 +86,7 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nComu",
+          "home": "Final\nComunicaciones",
           "away": "Arsenal",
           "score": "2-3",
           "meta": "resultado"
@@ -99,7 +105,7 @@
         },
         {
           "home": "2\nGlobal",
-          "away": "Comu",
+          "away": "Comunicaciones",
           "score": "6-4",
           "meta": "resultado"
         },
@@ -127,22 +133,28 @@
           "meta": "resultado"
         },
         {
+          "home": "11\nFinal\nSp. Barracas",
+          "away": "Berazategui",
+          "score": "1-3",
+          "meta": "resultado"
+        },
+        {
           "home": "Global",
           "away": "Estrella del Sur",
-          "score": "1-0",
+          "score": "2-3",
           "meta": "resultado"
         },
         {
           "home": "Global",
           "away": "Sp. Barracas",
-          "score": "0-0",
+          "score": "3-1",
           "meta": "resultado"
         }
       ],
       "next": [
         {
-          "home": "Global 1",
-          "away": "0\nEstrella del Sur",
+          "home": "Global 2",
+          "away": "3\nEstrella del Sur",
           "meta": "próximo · 12:30"
         }
       ]

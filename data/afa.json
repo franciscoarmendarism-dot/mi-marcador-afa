@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:13:51.706968+00:00",
+  "generated_at": "2026-11-23T11:27:27.815330+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -28,9 +28,9 @@
           "meta": "resultado"
         },
         {
-          "home": "13'\nInstituto",
+          "home": "Final\nInstituto",
           "away": "Huracán",
-          "score": "1-0",
+          "score": "2-1",
           "meta": "resultado"
         }
       ],
@@ -57,7 +57,7 @@
           "meta": "resultado"
         },
         {
-          "home": "11\nET\nGimnasia y Tiro",
+          "home": "11\nFinal\nGimnasia y Tiro",
           "away": "Tristan Suárez",
           "score": "0-0",
           "meta": "resultado"
@@ -125,9 +125,27 @@
           "away": "Cañuelas",
           "score": "3-2",
           "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Estrella del Sur",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Global",
+          "away": "Sp. Barracas",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
-      "next": []
+      "next": [
+        {
+          "home": "Global 1",
+          "away": "0\nEstrella del Sur",
+          "meta": "próximo · 12:30"
+        }
+      ]
     }
   }
 }

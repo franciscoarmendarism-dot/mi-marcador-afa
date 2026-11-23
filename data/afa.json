@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:47:15.768948+00:00",
+  "generated_at": "2026-11-23T01:13:51.706968+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -14,20 +14,27 @@
           "away": "Independiente",
           "score": "1-2",
           "meta": "resultado"
-        }
-      ],
-      "next": [
-        {
-          "home": "00\nCentral",
-          "away": "Gimnasia y Esgrima",
-          "meta": "próximo · 15:00"
         },
         {
-          "home": "River",
+          "home": "11\nFinal\nCentral",
+          "away": "Gimnasia y Esgrima",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nRiver",
           "away": "Lanús",
-          "meta": "próximo · 18:00"
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "13'\nInstituto",
+          "away": "Huracán",
+          "score": "1-0",
+          "meta": "resultado"
         }
-      ]
+      ],
+      "next": []
     },
     "nacional": {
       "results": [
@@ -48,6 +55,12 @@
           "away": "Dep. Madryn",
           "score": "1-0",
           "meta": "resultado"
+        },
+        {
+          "home": "11\nET\nGimnasia y Tiro",
+          "away": "Tristan Suárez",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": []
@@ -67,7 +80,7 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nComunicaciones",
+          "home": "Final\nComu",
           "away": "Arsenal",
           "score": "2-3",
           "meta": "resultado"
@@ -86,7 +99,7 @@
         },
         {
           "home": "2\nGlobal",
-          "away": "Comunicaciones",
+          "away": "Comu",
           "score": "6-4",
           "meta": "resultado"
         },
@@ -108,9 +121,9 @@
     "primerac": {
       "results": [
         {
-          "home": "11\n11'\nEstrella del Sur",
+          "home": "11\nFinal\nEstrella del Sur",
           "away": "Cañuelas",
-          "score": "0-0",
+          "score": "3-2",
           "meta": "resultado"
         }
       ],

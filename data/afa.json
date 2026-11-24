@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:25:36.192046+00:00",
+  "generated_at": "2026-11-24T19:46:42.850764+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -34,7 +34,7 @@
           "meta": "resultado"
         },
         {
-          "home": "En Tiempo Extra\nGimnasia y Esgrima",
+          "home": "o Extra\nGimnasia y Esgrima La Plata",
           "away": "Newell's",
           "score": "4-2",
           "meta": "resultado"
@@ -80,7 +80,7 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nDalmine",
+          "home": "más\nEstadísticas liga\nFinal\nDalmine",
           "away": "Camioneros",
           "score": "0-1",
           "meta": "resultado"
@@ -122,7 +122,13 @@
           "meta": "resultado"
         }
       ],
-      "next": []
+      "next": [
+        {
+          "home": "00\nCamioneros",
+          "away": "Talleres RE",
+          "meta": "próximo · 11:00"
+        }
+      ]
     },
     "primerac": {
       "results": [

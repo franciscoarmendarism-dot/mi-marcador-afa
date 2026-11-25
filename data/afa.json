@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:46:42.850764+00:00",
+  "generated_at": "2026-11-25T03:51:43.490970+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -45,6 +45,54 @@
     "nacional": {
       "results": [
         {
+          "home": "11\nFinal\nAtlanta",
+          "away": "Estudiantes",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nTemperley",
+          "away": "Ciudad De Bolivar",
+          "score": "1-2",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nColón",
+          "away": "Midland",
+          "score": "1-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nDep. Madryn",
+          "away": "Maipú",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nGimnasia y Esgrima",
+          "away": "Alte. Brown",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nMorón",
+          "away": "Colegiales",
+          "score": "1-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nGodoy Cruz",
+          "away": "Tristan Suárez",
+          "score": "3-1",
+          "meta": "resultado"
+        },
+        {
+          "home": "Final\nFerro",
+          "away": "Gimnasia y Tiro",
+          "score": "0-1",
+          "meta": "resultado"
+        },
+        {
           "home": "11\nFinal\nCiudad De Bolivar",
           "away": "Atlanta",
           "score": "0-1",
@@ -55,21 +103,20 @@
           "away": "Morón",
           "score": "0-0",
           "meta": "resultado"
-        },
-        {
-          "home": "Final\nGimnasia y Esgrima",
-          "away": "Dep. Madryn",
-          "score": "1-0",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\nFinal\nGimnasia y Tiro",
-          "away": "Tristan Suárez",
-          "score": "0-0",
-          "meta": "resultado"
         }
       ],
-      "next": []
+      "next": [
+        {
+          "home": "Global 1",
+          "away": "0\nCiudad De Bolivar",
+          "meta": "próximo · 18:00"
+        },
+        {
+          "home": "Global 0",
+          "away": "0\nGimnasia y Tiro",
+          "meta": "próximo · 11:00"
+        }
+      ]
     },
     "metro": {
       "results": [
@@ -80,7 +127,7 @@
           "meta": "resultado"
         },
         {
-          "home": "más\nEstadísticas liga\nFinal\nDalmine",
+          "home": "Final\nDalmine",
           "away": "Camioneros",
           "score": "0-1",
           "meta": "resultado"
@@ -122,13 +169,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "00\nCamioneros",
-          "away": "Talleres RE",
-          "meta": "próximo · 11:00"
-        }
-      ]
+      "next": []
     },
     "primerac": {
       "results": [

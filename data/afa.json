@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:22:20.637535+00:00",
+  "generated_at": "2026-11-26T01:15:26.498769+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -38,6 +38,12 @@
           "away": "Newell's",
           "score": "4-2",
           "meta": "resultado"
+        },
+        {
+          "home": "11\n54'\nBoca Jrs.",
+          "away": "Independiente Rivadavia",
+          "score": "2-0",
+          "meta": "resultado"
         }
       ],
       "next": []
@@ -69,6 +75,12 @@
           "meta": "resultado"
         },
         {
+          "home": "Final\nGimnasia y Esgrima",
+          "away": "Alte. Brown",
+          "score": "2-0",
+          "meta": "resultado"
+        },
+        {
           "home": "11\nFinal\nMorón",
           "away": "Colegiales",
           "score": "1-1",
@@ -97,24 +109,18 @@
           "away": "Morón",
           "score": "0-0",
           "meta": "resultado"
-        },
-        {
-          "home": "11\nFinal\nGimnasia y Tiro",
-          "away": "Tristan Suárez",
-          "score": "0-0",
-          "meta": "resultado"
         }
       ],
       "next": [
         {
           "home": "Global 1",
           "away": "0\nCiudad De Bolivar",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 17:00"
         },
         {
           "home": "Global 0",
           "away": "0\nGimnasia y Tiro",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 17:00"
         }
       ]
     },
@@ -202,7 +208,7 @@
         {
           "home": "Global 2",
           "away": "3\nEstrella del Sur",
-          "meta": "próximo · 12:30"
+          "meta": "próximo · 11:30"
         }
       ]
     }

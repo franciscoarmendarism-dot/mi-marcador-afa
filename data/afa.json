@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:15:26.498769+00:00",
+  "generated_at": "2026-11-26T11:39:39.807685+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -40,7 +40,7 @@
           "meta": "resultado"
         },
         {
-          "home": "11\n54'\nBoca Jrs.",
+          "home": "11\nFinal\nBoca Jrs.",
           "away": "Independiente Rivadavia",
           "score": "2-0",
           "meta": "resultado"
@@ -115,12 +115,12 @@
         {
           "home": "Global 1",
           "away": "0\nCiudad De Bolivar",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "Global 0",
           "away": "0\nGimnasia y Tiro",
-          "meta": "próximo · 17:00"
+          "meta": "próximo · 18:00"
         }
       ]
     },
@@ -190,27 +190,9 @@
           "away": "Berazategui",
           "score": "1-3",
           "meta": "resultado"
-        },
-        {
-          "home": "Global",
-          "away": "Estrella del Sur",
-          "score": "2-3",
-          "meta": "resultado"
-        },
-        {
-          "home": "Global",
-          "away": "Sp. Barracas",
-          "score": "3-1",
-          "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "Global 2",
-          "away": "3\nEstrella del Sur",
-          "meta": "próximo · 11:30"
-        }
-      ]
+      "next": []
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:39:38.036610+00:00",
+  "generated_at": "2026-11-27T03:21:22.520452+00:00",
   "leagues": {
     "liga-arg": {
       "results": [
@@ -75,12 +75,6 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nGimnasia y Esgrima",
-          "away": "Alte. Brown",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
           "home": "11\nFinal\nMorón",
           "away": "Colegiales",
           "score": "1-1",
@@ -109,18 +103,24 @@
           "away": "Morón",
           "score": "0-0",
           "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nGimnasia y Tiro",
+          "away": "Tristan Suárez",
+          "score": "0-0",
+          "meta": "resultado"
         }
       ],
       "next": [
         {
           "home": "Global 1",
           "away": "0\nCiudad De Bolivar",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 16:00"
         },
         {
           "home": "Global 0",
           "away": "0\nGimnasia y Tiro",
-          "meta": "próximo · 18:00"
+          "meta": "próximo · 16:00"
         }
       ]
     },

@@ -1,52 +1,20 @@
 {
-  "generated_at": "2026-11-27T15:45:16.669009+00:00",
+  "generated_at": "2026-11-28T00:47:54.911744+00:00",
   "leagues": {
     "liga-arg": {
-      "results": [
+      "results": [],
+      "next": [
         {
-          "home": "11\nFinal\nDefensa",
-          "away": "Barracas",
-          "score": "0-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nArgentinos",
+          "home": "00\nVélez",
           "away": "Independiente",
-          "score": "1-2",
-          "meta": "resultado"
+          "meta": "próximo · 19:00"
         },
         {
-          "home": "11\nFinal\nCentral",
-          "away": "Gimnasia y Esgrima",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nRiver",
-          "away": "Lanús",
-          "score": "3-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "Final\nInstituto",
-          "away": "Huracán",
-          "score": "2-1",
-          "meta": "resultado"
-        },
-        {
-          "home": "o Extra\nGimnasia y Esgrima La Plata",
-          "away": "Newell's",
-          "score": "4-2",
-          "meta": "resultado"
-        },
-        {
-          "home": "11\nFinal\nBoca Jrs.",
-          "away": "Independiente Rivadavia",
-          "score": "2-0",
-          "meta": "resultado"
+          "home": "00\nCentral",
+          "away": "Barracas",
+          "meta": "próximo · 17:30"
         }
-      ],
-      "next": []
+      ]
     },
     "nacional": {
       "results": [
@@ -111,18 +79,7 @@
           "meta": "resultado"
         }
       ],
-      "next": [
-        {
-          "home": "Global 1",
-          "away": "0\nCiudad De Bolivar",
-          "meta": "próximo · 18:00"
-        },
-        {
-          "home": "Global 0",
-          "away": "0\nGimnasia y Tiro",
-          "meta": "próximo · 18:00"
-        }
-      ]
+      "next": []
     },
     "metro": {
       "results": [

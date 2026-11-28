@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:47:54.911744+00:00",
+  "generated_at": "2026-11-28T11:01:50.551656+00:00",
   "leagues": {
     "liga-arg": {
       "results": [],
@@ -7,12 +7,12 @@
         {
           "home": "00\nVélez",
           "away": "Independiente",
-          "meta": "próximo · 19:00"
+          "meta": "próximo · 18:00"
         },
         {
           "home": "00\nCentral",
           "away": "Barracas",
-          "meta": "próximo · 17:30"
+          "meta": "próximo · 16:30"
         }
       ]
     },
@@ -43,12 +43,6 @@
           "meta": "resultado"
         },
         {
-          "home": "Final\nGimnasia y Esgrima",
-          "away": "Alte. Brown",
-          "score": "2-0",
-          "meta": "resultado"
-        },
-        {
           "home": "11\nFinal\nMorón",
           "away": "Colegiales",
           "score": "1-1",
@@ -75,6 +69,12 @@
         {
           "home": "Final\nColón",
           "away": "Morón",
+          "score": "0-0",
+          "meta": "resultado"
+        },
+        {
+          "home": "11\nFinal\nGimnasia y Tiro",
+          "away": "Tristan Suárez",
           "score": "0-0",
           "meta": "resultado"
         }
